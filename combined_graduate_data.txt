@@ -1,0 +1,1219 @@
+Melissa Welsh, Email: drmwelsh@umd.edu, Courses: AGST 640
+Maria Cameron, Email: mariakc@umd.edu, Courses: CMSC 660, AMSC 660
+Tobias von Petersdorff, Email: petersd@umd.edu, Courses: AMSC 666
+Dionisios Margetis, Email: diom@umd.edu, Courses: MATH 673, AMSC 673
+Konstantina Trivisa, Email: trivisa@umd.edu, Courses: AMSC 698Q
+Eitan Tadmor, Email: tadmor@umd.edu, Courses: AMSC 715, MATH 858F
+Abba Gumel, Email: agumel@umd.edu, Courses: AMSC 721
+Radu Balan, Email: rvbalan@umd.edu, Courses: AMSC 762, MATH 632
+Bayley Marquez, Email: bmarquez@umd.edu, Courses: AMST 878B, AMST 601, AMST 878A, AMST 878C
+Eva Hageman, Email: ehageman@umd.edu, Courses: AMST 628C, WGSS 698E
+Cecile Accilien, Email: caccilie@umd.edu, Courses: FREN 699D, AMST 628G
+Psyche Williams-Forson, Email: pwforson@umd.edu, Courses: AMST 629D
+Neel Ahuja, Email: neel1@umd.edu, Courses: WGSS 698A, AMST 629F
+Diana Marsh, Email: dmarsh@umd.edu, Courses: HIST 610, ANTH 655, AMST 655, INST 653
+Paul Jaeger, Email: pjaeger@umd.edu, Courses: AMST 857, ANTH 857, INST 787, HIST 811, INST 613
+Richard Kohn, Email: rkohn@umd.edu, Courses: ANSC 625, ANSC 624
+Tom Porter, Email: teporter@umd.edu, Courses: ANSC 644, BISI 712
+Zhengguo Xiao, Email: xiao0028@umd.edu, Courses: ANSC 688I
+Debabrata Biswas, Email: dbiswas@umd.edu, Courses: ANSC 688M
+Younggeon Jin, Email: ygjin@umd.edu, Courses: ANSC 688O
+Matthew Thomann, Email: mthomann@umd.edu, Courses: ANTH 601, ANTH 615
+Christina Getrich, Email: cgetrich@umd.edu, Courses: ANTH 606
+Andrea Lopez, Email: lopez@umd.edu, Courses: ANTH 612
+Matthew Gray, Email: mgray17@umd.edu, Courses: ANTH 620, MEES 620
+Matthew Houser, Email: mkhouser@umd.edu, Courses: ANTH 620, MEES 620
+Miguel Vilar, Email: mvilar@umd.edu, Courses: ANTH 625
+Paul Shackel, Email: pshackel@umd.edu, Courses: ANTH 640
+Matthew Palus, Email: mpalus@umd.edu, Courses: ANTH 799, ANTH 741, ANTH 749
+Marie Archambeault, Email: marcham@umd.edu, Courses: ANTH 743
+Lyle Torp, Email: lyletorp@umd.edu, Courses: ANTH 747
+Kelly Hockersmith, Email: khockers@umd.edu, Courses: ANTH 751
+Michael Konzak, Email: mkonzak@umd.edu, Courses: ANTH 752
+Kathryn Lafrenz Samuels, Email: lafrenzs@umd.edu, Courses: ANTH 760
+Jonathan Poterjoy, Email: poterjoy@umd.edu, Courses: AOSC 600
+Da-Lin Zhang, Email: dalin@umd.edu, Courses: AOSC 610
+Russell Dickerson, Email: rrd@umd.edu, Courses: AOSC 620
+Jeffrey Henrikson, Email: jhenriks@umd.edu, Courses: AOSC 652
+Jacob Wenegrat, Email: wenegrat@umd.edu, Courses: GEOL 670, AOSC 670
+Ross Salawitch, Email: rsalawit@umd.edu, Courses: AOSC 680
+Julie Gabrielli, Email: jgabe@umd.edu, Courses: ARCH 600, ARCH 797
+Daniel Curry, Email: dbcurry@umd.edu, Courses: ARCH 600
+Brittany L Williams, Email: blwill@umd.edu, Courses: ARCH 600
+Deokoh Woo, Email: deokoh@umd.edu, Courses: ARCH 611
+Jana VanderGoot, Email: jvanderg@umd.edu, Courses: ARCH 618F
+Joseph Williams, Email: jcwillia@umd.edu, Courses: ARCH 628C, ARCH 628N
+Michele Lamprakos, Email: mlamprak@umd.edu, Courses: ARCH 628K, ARCH 678J
+Juan Burke, Email: jlburke1@umd.edu, Courses: ARCH 655
+Eric Jenkins, Email: ejarch@umd.edu, Courses: ARCH 668P
+Peter Noonan, Email: pnoonan@umd.edu, Courses: ARCH 678C
+Debarati Majumdar Narayan, Email: narayanm@umd.edu, Courses: ARCH 678Z
+Matthew Bell, Email: mattbell@umd.edu, Courses: ARCH 700
+Georgeanne Matthews, Email: gmatthew@umd.edu, Courses: RDEV 689Y, ARCH 700
+Andrew Pressman, Email: apressma@umd.edu, Courses: ARCH 770
+Hooman Koliji, Email: koliji@umd.edu, Courses: ARCH 797
+Lars Olson, Email: ljolson@umd.edu, Courses: AREC 620
+Erich Battistin, Email: ebattist@umd.edu, Courses: AREC 623
+James Archsmith, Email: archsmit@umd.edu, Courses: AREC 785
+Cory Smith, Email: cbsmith@umd.edu, Courses: AREC 832
+Erik Lichtenberg, Email: elichten@umd.edu, Courses: AREC 891, AREC 892
+Anthony Colantuono, Email: pyr@umd.edu, Courses: ARTH 638A
+Elizabeth Honig, Email: eahonig@umd.edu, Courses: ARTH 698, ARTH 692
+Joshua Shannon, Email: shannon1@umd.edu, Courses: ARTH 698
+Maryl Gensheimer, Email: gensheim@umd.edu, Courses: ARTH 698
+Emily Egan, Email: ecegan@umd.edu, Courses: ARTH 698
+Karin Zitzewitz, Email: kjz@umd.edu, Courses: ARTH 788A, ARTH 698
+Katherine Guinness, Email: guinness@umd.edu, Courses: ARTT 768
+Eliza Kempton, Email: ekempton@umd.edu, Courses: ASTR 695, ASTR 601
+Jessica Sunshine, Email: jsunshin@umd.edu, Courses: ASTR 630
+Christopher Reynolds, Email: creynold@umd.edu, Courses: ASTR 680
+Andrew Harris, Email: aharris1@umd.edu, Courses: ASTR 688B
+Paul Paukstelis, Email: paukstel@umd.edu, Courses: BCHM 661
+Jason Kahn, Email: jdkahn@umd.edu, Courses: BCHM 662
+Yanxin Liu, Email: yxliu@umd.edu, Courses: BCHM 889A, BCHM 671
+Myles Poulin, Email: mpoulin@umd.edu, Courses: BCHM 698
+Kunpeng Zhang, Email: kpzhang@umd.edu, Courses: BDBA 822, BMSO 758Q, BDBA 808C, BMGT 808X, BDBA 804, BUSM 758V
+Balaji Padmanabhan, Email: bpadmana@umd.edu, Courses: BDBA 806
+Jui Ramaprasad, Email: jramapra@umd.edu, Courses: BDBA 808A, BUDT 756
+Bharti Motwani, Email: bmotwani@umd.edu, Courses: BDBA 808E, BMSO 758V
+John Bono, Email: jbono@umd.edu, Courses: BDBA 808P, BUDT 738, BMSO 758P, BMSO 601
+Erkut Ozbay, Email: ozbay@umd.edu, Courses: ECON 635, BDBA 820
+Ali Faraji-Rad, Email: afr@umd.edu, Courses: BUMK 724, BDBA 858A
+Pallassana Kannan, Email: pkannan@umd.edu, Courses: BUSI 758V, BUSO 758A, BUSM 715, BDBA 858G
+Siva Viswanathan, Email: sviswan1@umd.edu, Courses: BUSO 731, BDBA 858J, BMGT 808R, BUDT 722
+Melissa Lucas, Email: malucas@umd.edu, Courses: COMM 686, BDBA 858K, BUMK 758G
+Judy Frels, Email: jfrels@umd.edu, Courses: BUSI 787, BMGT 612, BDBA 858M, BUMK 720, BUSM 612, BUSO 701
+Wendy Moe, Email: wmoe@umd.edu, Courses: BUSM 758W, BDBA 858N
+Yogesh Joshi, Email: yjoshi@umd.edu, Courses: BDBA 858P, BUSI 781, BUSM 706
+Mary Beth Furst, Email: mbfurst@umd.edu, Courses: BUSI 737, BUSI 600, BUMK 760, BUSO 700, BMSO 778M, BDBA 858Q
+Steven Jay, Email: smjay@umd.edu, Courses: BIOE 605, BIOE 689J
+Jenna Mueller, Email: mueller7@umd.edu, Courses: BIOE 608
+Erika Moore, Email: emt@umd.edu, Courses: BIOE 608
+Jose Aranda-Espinoza, Email: helim@umd.edu, Courses: BIOE 610
+Huang Chiao Huang, Email: hchuang@umd.edu, Courses: BIOE 612
+Austin Tapp, Email: atapp@umd.edu, Courses: BIOE 651
+Bahaa Ghammraoui, Email: bahaag@umd.edu, Courses: BIOE 658J
+Valerie Merkle, Email: vmerkle@umd.edu, Courses: BIOE 658R
+Deborah Goldberg, Email: dsgold@umd.edu, Courses: BIOE 674
+Alexander Xu, Email: alexmxu@umd.edu, Courses: BIOE 689F
+Katharina Maisel, Email: maiselka@umd.edu, Courses: BIOE 689G
+Leonid Koralov, Email: koralov@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Sandra Cerrai, Email: cerrai@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Jonathan Fernandes, Email: jon712@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Christopher Cameron, Email: ccam@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Stefan Doboszczak, Email: doboss27@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Roohollah Ebrahimian, Email: ebrahimi@umd.edu, Courses: MATH 600, DATA 601, BIOI 601, MSML 601
+Anna Szczekutowicz, Email: annasz@umd.edu, Courses: DATA 601, BIOI 601, MSML 601
+Mohammad Nayeem Teli, Email: nayeem@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Fardina Alam, Email: fardina@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Maksym Morawski, Email: morawski@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Charles Forgy, Email: ccforgy@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Heng Huang, Email: heng@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Tammy Perrin, Email: tperrin@umd.edu, Courses: DATA 602, MSML 602, BIOI 602
+Babak Azimi-Sadjadi, Email: bazimi@umd.edu, Courses: BIOI 603, MSQC 603, MSML 603, DATA 603
+Alejandra Mercado, Email: mercado@umd.edu, Courses: MSML 603, BIOI 603, ENTS 622, MSQC 603, DATA 603
+Kemal Davaslioglu, Email: kdavasli@umd.edu, Courses: BIOI 603, MSQC 603, MSML 603, DATA 603
+Richard La, Email: hyongla@umd.edu, Courses: BIOI 603, MSQC 603, MSML 603, DATA 603
+Volker Briken, Email: vbriken@umd.edu, Courses: BIOI 604
+Najib El-Sayed, Email: elsayed@umd.edu, Courses: BIOI 604, BISI 620, BISI 622
+Shaojun Xie, Email: xie186@umd.edu, Courses: BIOI 611
+Nakyung Lee, Email: leenk@umd.edu, Courses: BIOI 621
+Gili Ad-Marbach, Email: gilim@umd.edu, Courses: ENTM 699K, BIOL 608K, CBMG 699K, CHEM 608K
+Jonathan Simon, Email: jzsimon@umd.edu, Courses: BIOL 667
+Sergei Sukharev, Email: sukharev@umd.edu, Courses: BIPH 704, BIOL 704
+Gerald Wilkinson, Email: wilkinso@umd.edu, Courses: BIOL 708B
+Ricardo Araneda, Email: raraneda@umd.edu, Courses: BIOL 708Q, NACS 608, NACS 728J
+Scott Juntti, Email: sjuntti@umd.edu, Courses: BIOL 709W
+Li Ma, Email: amacon@umd.edu, Courses: BIOM 601, BIOM 688E
+Jiuzhou Song, Email: songj88@umd.edu, Courses: BIOM 688E
+Mohamed Salem, Email: mosalem@umd.edu, Courses: BIOM 688E
+Arpita Upadhyaya, Email: arpitau@umd.edu, Courses: CHPH 709L, BIPH 698L, PHYS 798L
+Daniel Gruner, Email: dsgruner@umd.edu, Courses: BISI 610
+Michael Cummings, Email: mcummin1@umd.edu, Courses: BISI 620
+Stephen Mount, Email: smount@umd.edu, Courses: BISI 622, CBMG 699D
+Wade Winkler, Email: wwinkler@umd.edu, Courses: BISI 701, ENTM 701
+Leslie Pick, Email: lpick@umd.edu, Courses: BISI 701, ENTM 701, ENTM 788C
+David Mosser, Email: dmosser@umd.edu, Courses: CBMG 699X, CBMG 688J, BISI 712
+Sheetal Singh, Email: sheetals@umd.edu, Courses: BMGT 600
+Nick Seybert, Email: nseybert@umd.edu, Courses: BUSM 602, BUAC 707, BMGT 602
+Ashish Kabra, Email: akabra@umd.edu, Courses: BMGT 606, BUSI 718D, BULM 710
+James Seward, Email: jseward@umd.edu, Courses: BUSO 758G, BMGT 610
+Jennifer Marr, Email: jcmarr1@umd.edu, Courses: BMGT 758E, BMGT 868P
+Rellie Rozin, Email: rellie@umd.edu, Courses: BMGT 759, BMGT 758N, BMSO 759, BUSI 710, BMGT 868D
+Stephen Sclafani, Email: sscla9@umd.edu, Courses: BMGT 758Z
+Jessica Clark, Email: jcunn@umd.edu, Courses: BUDT 733, BMGT 808Y
+Sean Cao, Email: scao824@umd.edu, Courses: BMGT 818E, BUAC 758Y, BUAC 731
+Michael Kimbrough, Email: mkimbrou@umd.edu, Courses: BMGT 818R
+Raghu Raghavan, Email: raghavan@umd.edu, Courses: BMGT 830
+Michael Fu, Email: mfu@umd.edu, Courses: BMGT 834
+Zhi-Long Chen, Email: zlchen@umd.edu, Courses: EMBA 788W, BMGT 838R, BUSM 788W, BUSI 788W, BUSO 788W
+Yueyang Han, Email: yhan1@umd.edu, Courses: BMGT 840
+Vojislav Maksimovic, Email: maxone@umd.edu, Courses: BMGT 848A, BUFN 721
+Bo Zhou, Email: bozhou@umd.edu, Courses: BUMK 773, BMGT 858G
+Joseph Reiff, Email: jreiff1@umd.edu, Courses: BMGT 858R
+David Kirsch, Email: dkirsch@umd.edu, Courses: BMGT 868C
+Gilad Chen, Email: gchen3@umd.edu, Courses: BMGT 868N
+Subrahmaniam Tangirala, Email: stangira@umd.edu, Courses: BUSI 662, BMGT 868R
+Serguey Braguinsky, Email: sbrag@umd.edu, Courses: BMGT 878M
+Brent Goldfarb, Email: brentg@umd.edu, Courses: BUSI 793, BMGT 878P, BMGT 878Y, BUSM 798C
+Waverly Ding, Email: wding@umd.edu, Courses: BMGT 878P
+David Waguespack, Email: dwaguesp@umd.edu, Courses: BMGT 878R
+Evan Starr, Email: estarr@umd.edu, Courses: BMGT 878Y
+Sining Song, Email: songs@umd.edu, Courses: BMGT 888W, BMGT 888A
+Wilbur Chung, Email: wchung@umd.edu, Courses: BMGT 888B
+Maria Bardossy, Email: bardossy@umd.edu, Courses: BMSO 600, BULM 711
+Michael Trusov, Email: mtrusov@umd.edu, Courses: BUMK 766, BMSO 758A
+Michel Wedel, Email: mwedel@umd.edu, Courses: BUMK 742, BMSO 758E
+Progyan Basu, Email: pbasu@umd.edu, Courses: BMSO 778A
+Sarah Wolek, Email: swolek@umd.edu, Courses: BMSO 778C
+Alan Briggs, Email: awbriggs@umd.edu, Courses: BMSO 778D
+Susan White, Email: suwhite@umd.edu, Courses: BMSO 778F
+Roy Thomason, Email: royt@umd.edu, Courses: BUSI 662, BMSO 778L
+Gosia Langa Basit, Email: glanga@umd.edu, Courses: BMSO 778N, BUSO 711
+Thomas Guarrieri, Email: tguar@umd.edu, Courses: BSST 697, BSST 630
+Jeffrey Davis, Email: jdavis7@umd.edu, Courses: BSST 634
+Sandra Scham, Email: sscham@umd.edu, Courses: BSST 635
+Marcus Boyd, Email: boydma@umd.edu, Courses: BSST 640
+Steve Sin, Email: sinss@umd.edu, Courses: BSST 650
+Anthony Kraemer, Email: akraemer@umd.edu, Courses: BSST 651
+Naman Desai, Email: ndesai1@umd.edu, Courses: BUSI 611, BUSM 616, BUAC 710
+Samuel Handwerger, Email: shandwer@umd.edu, Courses: BUAC 772, BUAC 712
+James McKinney, Email: jmckinne@umd.edu, Courses: BUAC 722, BUAC 716
+Jon Crocker, Email: jcrocker@umd.edu, Courses: BUAC 721, BULM 758P
+Tunay Tunca, Email: ttunca@umd.edu, Courses: BUAC 740, BUSM 606
+Lu Zhang, Email: llxzhang@umd.edu, Courses: BUAC 746, BUSO 616
+Darian Harnish, Email: dharnish@umd.edu, Courses: BUAC 758A
+Lei Zhou, Email: lzhou@umd.edu, Courses: BUAC 758Y
+Brian Jefferson, Email: bnjeffer@umd.edu, Courses: BUAC 764, BUAC 762
+Cary Gillett, Email: cgillett@umd.edu, Courses: BUDT 700
+Woei-jyh Lee, Email: adamlee@umd.edu, Courses: BUDT 702, BUDT 703
+Manmohan Aseri, Email: maseri@umd.edu, Courses: BUDT 704
+Peng Huang, Email: huang@umd.edu, Courses: BUDT 704
+Xiaojia Guo, Email: xjguo@umd.edu, Courses: BUDT 705
+Tejwansh Anand, Email: tejanand@umd.edu, Courses: BUDT 721, BUDT 738
+Paul Shapiro, Email: pshapiro@umd.edu, Courses: BUDT 748, BUDT 724
+Sujin Kim, Email: kimsj22@umd.edu, Courses: BUSO 603, BUDT 730, BUDT 731
+Alexander Estes, Email: aestes@umd.edu, Courses: BUDT 732
+Minoo Modaresnezhad, Email: mmodares@umd.edu, Courses: BUDT 757, BUDT 748
+Harish Neelakandan, Email: harishn@umd.edu, Courses: BUDT 758I
+Yi Xu, Email: xyimeng@umd.edu, Courses: BUDT 758L
+Kenyon Crowley, Email: pcrowley@umd.edu, Courses: BUDT 758M
+Suresh Acharya, Email: suresh12@umd.edu, Courses: BUSO 624, BUDT 758W
+Liu Yang, Email: lyang016@umd.edu, Courses: BUFN 610, BUFN 630
+Sarah Kroncke, Email: skroncke@umd.edu, Courses: BUFN 620
+Serhiy Kozak, Email: sekozak@umd.edu, Courses: BUFN 640, BUFN 650
+Steven Heston, Email: sheston@umd.edu, Courses: BUFN 660
+Pablo Slutzky, Email: pslutzky@umd.edu, Courses: BUSI 741, BUFN 717
+Mark Loewenstein, Email: mloewen1@umd.edu, Courses: BUFN 734, BUSI 758K
+Russell Wermers, Email: wermers@umd.edu, Courses: BUFN 736
+Kenneth Fuller, Email: kfuller5@umd.edu, Courses: BUSI 758F, BUFN 741
+George Gao, Email: ggao12@umd.edu, Courses: BUFN 742
+Seokwoo Lee, Email: swlee7@umd.edu, Courses: BUFN 758D
+Humberto Coronado, Email: hcoronad@umd.edu, Courses: BULM 700, BULM 701, BULM 721
+Philip Evers, Email: pevers@umd.edu, Courses: BULM 742
+Jewelyn Harrington, Email: jharrin3@umd.edu, Courses: BULM 750, BULM 751
+Geoffrey Milsom, Email: gmilsom@umd.edu, Courses: BULM 756
+Hongyi Zhang, Email: hzhang3@umd.edu, Courses: BUSO 751, BULM 758C
+Niratcha Tungtisanont, Email: niratcha@umd.edu, Courses: BULM 758F
+Nima Farshchi, Email: farshchi@umd.edu, Courses: BULM 758Z
+Jason Choi, Email: wjchoi@umd.edu, Courses: BUMK 726
+Christine Schaaf, Email: cmschaaf@umd.edu, Courses: BUMK 758G
+Paulo Prochno, Email: pprochno@umd.edu, Courses: BUSI 602
+Kazim Ruhi, Email: kruhi@umd.edu, Courses: BUSI 634, ENTS 635
+Anand Anandalingam, Email: ganand@umd.edu, Courses: BUSI 634
+Dan Goldsmith, Email: dgoldsm1@umd.edu, Courses: BUSI 650
+Cathy Yi Chen, Email: cathych@umd.edu, Courses: BUSI 650
+Rosellina Ferraro, Email: rferrar2@umd.edu, Courses: BUSI 650, EMBA 789N
+Bennet Zelner, Email: bzelner@umd.edu, Courses: BUSI 681
+Vijaya Venkataramani, Email: vvenkata@umd.edu, Courses: BUSO 711, BUSM 754, BUSI 710
+Ramakrishnan Balasubramanian, Email: rbala@umd.edu, Courses: BUSI 718D
+Joseph Bailey, Email: jpbailey@umd.edu, Courses: BUSI 791
+Nicole Coomber, Email: ncottre@umd.edu, Courses: BUSM 600
+Rachelle Sampson, Email: sampsonr@umd.edu, Courses: BUSM 604, BUSO 604
+Il-Horn Hann, Email: ihann@umd.edu, Courses: BUSM 621
+Richmond Mathews, Email: rmathews@umd.edu, Courses: BUSM 758J, BUSM 758P
+Myeong-Gu Seo, Email: mseo@umd.edu, Courses: BUSM 758N
+Haluk Unal, Email: unal@umd.edu, Courses: BUSM 758T
+Neta Moye, Email: nmoye@umd.edu, Courses: BUSO 600
+Michael Lipsitz, Email: mlipsitz@umd.edu, Courses: BUSO 604
+Henry Boyd, Email: hboyd2@umd.edu, Courses: BUSO 612
+Norma Andrews, Email: andrewsn@umd.edu, Courses: CBMG 688C
+Wenxia Song, Email: wenxsong@umd.edu, Courses: CBMG 688D
+Sougata Roy, Email: sougata@umd.edu, Courses: CBMG 688D
+Roy Mariuzza, Email: rmariuzz@umd.edu, Courses: CBMG 688J
+Jeffrey DeStefano, Email: jdestefa@umd.edu, Courses: CBMG 688K
+Margaret Scull, Email: scull@umd.edu, Courses: CBMG 688K
+Amy Beaven, Email: abeaven@umd.edu, Courses: CBMG 688W
+Brian Johnson, Email: bjohnso2@umd.edu, Courses: CCJS 600
+Sarah Tahamont, Email: tahamont@umd.edu, Courses: CCJS 620
+Lester Andrist, Email: landrist@umd.edu, Courses: CCJS 632, CCJS 631
+Min Xie, Email: mingxie@umd.edu, Courses: CCJS 650
+Robert Stewart, Email: robstew@umd.edu, Courses: CCJS 653
+Lauren Porter, Email: lporter1@umd.edu, Courses: CCJS 654
+Maria Velez, Email: velezmb@umd.edu, Courses: CCJS 699I
+Rachel Ellis, Email: ellisr@umd.edu, Courses: CCJS 699Q
+Robert Brame, Email: rbrame@umd.edu, Courses: CCJS 710
+Greg Midgette, Email: gem@umd.edu, Courses: CCJS 720
+Peter Kofinas, Email: kofinas@umd.edu, Courses: CHBE 609
+Jeffery Klauda, Email: jbklauda@umd.edu, Courses: CHBE 610
+Michael Kio, Email: mkio@umd.edu, Courses: CHBE 610
+Panagiotis Dimitrakopoulos, Email: dimitrak@umd.edu, Courses: CHBE 620
+Po-Yen Chen, Email: checp@umd.edu, Courses: CHBE 652
+Akua Asa-Awuku, Email: asaawuku@umd.edu, Courses: CHBE 672
+Paul Albertus, Email: albertus@umd.edu, Courses: CHBE 673
+Kyu Yong Choi, Email: choi@umd.edu, Courses: CHBE 690
+Taylor Woehl, Email: tjwoehl@umd.edu, Courses: CHBE 693
+Chen Zhang, Email: czhang71@umd.edu, Courses: CHBE 694
+Lawrence Sita, Email: lsita@umd.edu, Courses: CHEM 601
+Xiaodong Shi, Email: xmshi@umd.edu, Courses: CHEM 640, CHEM 611
+Sangbok Lee, Email: slee@umd.edu, Courses: CHEM 624
+Benjamin Boyle, Email: boylebt@umd.edu, Courses: CHEM 641
+Zhiwei Li, Email: zlinano1@umd.edu, Courses: CHEM 684
+Hongzhou Ye, Email: hzye@umd.edu, Courses: CHEM 690
+Alice Mignerey, Email: mignerey@umd.edu, Courses: CHEM 889A
+Andrei Vedernikov, Email: avederni@umd.edu, Courses: CHEM 889D, CHEM 889C
+Leah Dodson, Email: ldodson@umd.edu, Courses: CHPH 709A, CHEM 889F, CHEM 889E
+Yun Liu, Email: yunliu@umd.edu, Courses: CHPH 633, ENMA 633
+Pratyush Tiwary, Email: ptiwary@umd.edu, Courses: CHPH 709B, PHYS 709
+Wendell Hill, Email: wth@umd.edu, Courses: CHPH 718I
+Cristina Banuelos, Email: cbanuelo@umd.edu, Courses: CLFS 609K
+Marjan Alaghmand, Email: marjan@umd.edu, Courses: CLFS 610
+Oliver Gaycken, Email: ogaycken@umd.edu, Courses: CMLT 679B, ENGL 759E
+Dave Levin, Email: levindm@umd.edu, Courses: CMSC 614
+Abhinav Bhatele, Email: bhatele@umd.edu, Courses: CMSC 616
+Leonidas Lampropoulos, Email: leonidas@umd.edu, Courses: CMSC 631
+Daniel Gottesman, Email: dgottesm@umd.edu, Courses: CMSC 657
+Thomas Goldstein, Email: tomg@umd.edu, Courses: CMSC 673
+Erin Molloy, Email: ekmolloy@umd.edu, Courses: CMSC 702
+Nirupam Roy, Email: niruroy@umd.edu, Courses: CMSC 715
+Mark Roberts, Email: makro@umd.edu, Courses: CMSC 722
+Naomi Feldman, Email: nhf@umd.edu, Courses: LING 723, INST 735, LING 888, CMSC 723
+Jordan Ying, Email: ying@umd.edu, Courses: LING 723, INST 735, CMSC 723
+Amol Deshpande, Email: amol@umd.edu, Courses: CMSC 724
+Huaishu Peng, Email: huaishu@umd.edu, Courses: CMSC 730
+Michelle Mazurek, Email: mmazurek@umd.edu, Courses: CMSC 732
+Matthias Zwicker, Email: zwicker@umd.edu, Courses: CMSC 740
+Uzi Vishkin, Email: vishkin@umd.edu, Courses: CMSC 751, ENEE 651, ENEE 641
+Ramani Duraiswami, Email: ramanid@umd.edu, Courses: CMSC 801, CMSC 828N
+Pratap Tokekar, Email: tokekar@umd.edu, Courses: CMSC 818B
+Yizheng Chen, Email: yzchen@umd.edu, Courses: CMSC 818I
+Bahar Asgari, Email: bahar@umd.edu, Courses: CMSC 818J, ENEE 759C
+Ian Miers, Email: imiers@umd.edu, Courses: CMSC 818L
+Rachel Rudinger, Email: rudinger@umd.edu, Courses: CMSC 828J
+David Jacobs, Email: captal@umd.edu, Courses: CMSC 828P
+Milijana Surbatovich, Email: milijana@umd.edu, Courses: CMSC 838N
+Jun Nishida, Email: jun@umd.edu, Courses: CMSC 839A
+Ido Sivan-Sevilla, Email: sevilla@umd.edu, Courses: CMSC 839C, INST 878D, INST 771
+Gabriel Kaptchuk, Email: kaptchuk@umd.edu, Courses: CMSC 839C, INST 878D
+Fumeng Yang, Email: fmy@umd.edu, Courses: CMSC 839E
+Christopher Metzler, Email: metzler@umd.edu, Courses: CMSC 848B, ENEE 739Z
+Jia-Bin Huang, Email: jbhuang@umd.edu, Courses: CMSC 848K
+Ang Li, Email: alincoln@umd.edu, Courses: ENEE 759Z, CMSC 848Z
+Aravind Srinivasan, Email: asriniv1@umd.edu, Courses: CMSC 858A
+Ganga Dhanesh, Email: ganga@umd.edu, Courses: COMM 630
+Damien Pfister, Email: dsp@umd.edu, Courses: MITH 729, COMM 698M, COMM 652
+Sun Young Lee, Email: sunlee@umd.edu, Courses: COMM 700
+Shawn Parry-Giles, Email: spg@umd.edu, Courses: COMM 711
+Carina Zelaya, Email: cmzelaya@umd.edu, Courses: COMM 715
+Kang Namkoong, Email: namkoong@umd.edu, Courses: COMM 730
+Maura Keefe, Email: mkeefe1@umd.edu, Courses: DANC 719, DANC 788, DANC 699, DANC 600
+Crystal Davis, Email: cudavis@umd.edu, Courses: DANC 604, THET 606, DANC 788
+Kendra Portier, Email: portier1@umd.edu, Courses: DANC 689G, DANC 610, DANC 628, DANC 608, DANC 777
+Lins Derry, Email: derry@umd.edu, Courses: THET 608F, DANC 608, DANC 689F
+Samuel Crawford, Email: sawcrawf@umd.edu, Courses: DANC 610, THET 669I
+Ama Law, Email: alaw16@umd.edu, Courses: DANC 689P, DANC 689M, DANC 648, DANC 649, DANC 689R
+Adriane Fang, Email: afang1@umd.edu, Courses: DANC 649, DANC 779, DANC 648, DANC 788
+Patrik Widrig, Email: widrig@umd.edu, Courses: DANC 689M, DANC 788
+Alvin Mayes, Email: amayes@umd.edu, Courses: DANC 779, DANC 788
+Sara Pearson, Email: srp@umd.edu, Courses: DANC 788
+Vincent Lyzinski, Email: vlyzinsk@umd.edu, Courses: STAT 705, DATA 607
+Shabnam Tafreshi, Email: stafresh@umd.edu, Courses: DATA 641, MSML 641
+Samet Ayhan, Email: sayhan@umd.edu, Courses: MSML 650, DATA 650
+John Shea, Email: jshea1@umd.edu, Courses: ECON 709, ECON 601
+Boragan Aruoba, Email: aruoba@umd.edu, Courses: ECON 601, ECON 630, ECON 808
+Lawrence Ausubel, Email: ausubel@umd.edu, Courses: ECON 603
+Emel Filiz Ozbay, Email: efozbay@umd.edu, Courses: ECON 603
+Jessica Goldberg, Email: jagold@umd.edu, Courses: ECON 616, ECON 878
+Guido Kuersteiner, Email: gkuerste@umd.edu, Courses: ECON 623, ECON 626
+Andrew Sweeting, Email: atsweet@umd.edu, Courses: ECON 625
+Yusuf Masatlioglu, Email: yusufcan@umd.edu, Courses: ECON 637, ECON 868
+Filipe Lage de Sousa, Email: flage55@umd.edu, Courses: ECON 641, ECON 643
+Aaron Finkle, Email: afinkle@umd.edu, Courses: ECON 641
+Colin Caines, Email: ccaines@umd.edu, Courses: ECON 642
+John Straub, Email: straub@umd.edu, Courses: ECON 643
+Ye Zhang, Email: zhangye@umd.edu, Courses: ECON 645
+Samuel Rowe, Email: srowe124@umd.edu, Courses: ECON 645
+Ginger Jin, Email: ginger@umd.edu, Courses: ECON 664
+Joonkyu Choi, Email: choijk85@umd.edu, Courses: ECON 670
+Yong Paek, Email: ypaek@umd.edu, Courses: ECON 674
+Steven Payson, Email: spayson@umd.edu, Courses: ECON 676
+Mahsa Agha Gholizadeh, Email: mahsag@umd.edu, Courses: ECON 683
+Thomas Rumbaugh, Email: trumbaug@umd.edu, Courses: ECON 683
+Christian Krestel, Email: ckrestel@umd.edu, Courses: ECON 687
+Christopher Adams, Email: cadams21@umd.edu, Courses: ECON 687
+John Haltiwanger, Email: halt@umd.edu, Courses: ECON 701
+Daniel Vincent, Email: drobert2@umd.edu, Courses: ECON 703
+Sergio Urzua, Email: surzua@umd.edu, Courses: ECON 708
+John Chao, Email: jcchao@umd.edu, Courses: ECON 721, ECON 828
+Pierre De Leo, Email: deleop@umd.edu, Courses: ECON 741
+Pablo Ottonello, Email: ottonell@umd.edu, Courses: ECON 744
+Allan Drazen, Email: drazen@umd.edu, Courses: ECON 754
+Judith Hellerstein, Email: hellerst@umd.edu, Courses: ECON 771
+Bridget Kelly, Email: btkelly1@umd.edu, Courses: EDCP 610, EDCP 772
+Natasha Wyatt, Email: nmitche3@umd.edu, Courses: EDCP 610
+Jorinna Tran, Email: jzuber@umd.edu, Courses: EDCP 615, EDCP 614
+Jessica McKechnie, Email: jmdiaz@umd.edu, Courses: EDCP 616, EDCP 879
+Carlton Green, Email: carltong@umd.edu, Courses: EDCP 619B
+Paul Gold, Email: pgold@umd.edu, Courses: EDCP 622
+Colleen O'Neal, Email: onealc01@umd.edu, Courses: EDCP 641, EDCP 635, EDCP 640
+Ileana Gonzalez, Email: ileanag@umd.edu, Courses: EDCP 652
+Pepper Phillips, Email: pepper@umd.edu, Courses: EDCP 682
+Delida Sanchez, Email: drdelida@umd.edu, Courses: EDCP 685
+Roger Worthington, Email: rlw@umd.edu, Courses: EDCP 695, EDCP 698
+Richard Shin, Email: jrshin@umd.edu, Courses: EDCP 697
+Ruogu Wang, Email: rjwang23@umd.edu, Courses: EDCP 700
+Chunyan Yang, Email: yangcy@umd.edu, Courses: EDCP 717, EDCP 746
+Megan Vaganek, Email: mvaganek@umd.edu, Courses: EDCP 738
+Christopher Travers, Email: ctravers@umd.edu, Courses: EDCP 741, EDCP 870
+Candace Moore, Email: cmmoore@umd.edu, Courses: EDCP 789R, EDCP 775
+Michelle Espino, Email: mespino@umd.edu, Courses: EDCP 789R, EDCP 798A
+Patty Perillo, Email: pperillo@umd.edu, Courses: EDCP 871
+James McShay, Email: jmcshay@umd.edu, Courses: EDCP 871
+Marsha Guenzler-Stevens, Email: mguenzle@umd.edu, Courses: EDCP 888A
+Kristan Skendall, Email: kskendal@umd.edu, Courses: HESI 672, EDCP 888A
+Annie Goldthrite, Email: Failed to find email, Courses: EDCP 888C
+Hedwig Teglasi, Email: hteglasi@umd.edu, Courses: EDCP 888C
+Cixin Wang, Email: cxwang@umd.edu, Courses: EDCP 889C, EDCP 888C
+Jioni Lewis, Email: jalewis1@umd.edu, Courses: EDCP 889C
+Patricia Alexander, Email: palexand@umd.edu, Courses: EDHD 629
+Richard Prather, Email: prather1@umd.edu, Courses: EDHD 629, EDHD 780
+Lucas Butler, Email: lpbutler@umd.edu, Courses: EDHD 690
+Jennie Lee-Kim, Email: jleekim@umd.edu, Courses: EDHD 718
+Natasha Cabrera, Email: ncabrera@umd.edu, Courses: EDHD 750
+Zeena Zakharia, Email: zakharia@umd.edu, Courses: EDHI 680, EDHI 605
+Steven Klees, Email: sklees@umd.edu, Courses: EDHI 672, EDHI 606
+Sharon Fries-Britt, Email: sfries@umd.edu, Courses: EDHI 888, EDHI 650
+Ashley Ogwo, Email: aogwo@umd.edu, Courses: EDHI 652
+Awilda Rodriguez, Email: awilda@umd.edu, Courses: EDHI 888, EDHI 665
+Jing Lin, Email: jinglin@umd.edu, Courses: EDHI 750
+Marvin Titus, Email: mtitus@umd.edu, Courses: EDHI 888
+Jeongeun Kim, Email: jkim0217@umd.edu, Courses: EDHI 888
+Hong Jiao, Email: hjiao@umd.edu, Courses: EDMS 623
+Weimeng Wang, Email: wwang111@umd.edu, Courses: EDMS 645
+Tessa Johnson, Email: johnsont@umd.edu, Courses: EDMS 646
+Ji Seung Yang, Email: jsyang@umd.edu, Courses: EDMS 651
+Tracy Sweet, Email: tsweet@umd.edu, Courses: EDMS 655
+Jeffrey Harring, Email: harring@umd.edu, Courses: EDMS 657, EDMS 779M
+Peter Steiner, Email: psteiner@umd.edu, Courses: EDMS 769C
+Seyma Intepe Tingir, Email: sintepe@umd.edu, Courses: EDSP 625, EDSP 602, EDSP 690
+Heather Stormont, Email: hdvoskin@umd.edu, Courses: EDSP 602
+Gulnoza Yakubova, Email: gulnoza@umd.edu, Courses: EDSP 670, EDSP 604, EDSP 860
+Kelli Cummings, Email: kellic@umd.edu, Courses: EDSP 613
+Carolyn Fink, Email: cmfink@umd.edu, Courses: EDSP 623
+Alicia Woolf, Email: awoolf@umd.edu, Courses: EDSP 652
+Kelly Piantedosi, Email: kworland@umd.edu, Courses: EDSP 652
+Sehrish Shikarpurya, Email: sshikar@umd.edu, Courses: EDSP 671
+Lawrence Leak, Email: lleak@umd.edu, Courses: EDSP 678E
+Carl Lashley, Email: clashle1@umd.edu, Courses: EDSP 678Q
+Lawrence Wexler, Email: ljwexler@umd.edu, Courses: EDSP 678W
+Katryna Andrusik, Email: andrusik@umd.edu, Courses: EDSP 684
+Stacey Williams, Email: staceyw@umd.edu, Courses: EDSP 692
+Paula Beckman, Email: pbeckman@umd.edu, Courses: EDSP 888M
+Brian King, Email: bking12@umd.edu, Courses: EDUC 646
+Sheila Jackson, Email: sjackso6@umd.edu, Courses: EDUC 670
+Christine Neumerski, Email: cneumers@umd.edu, Courses: EDUC 702
+Drew Fagan, Email: dfagan@umd.edu, Courses: EDUC 705
+Douglas Anthony, Email: danthony@umd.edu, Courses: EDUC 888
+Jeffrey Mund, Email: jmund1@umd.edu, Courses: EMBA 798G
+Jacqueline Manger, Email: jcmanger@umd.edu, Courses: EMBA 798G
+Christine Hartzell, Email: hartzell@umd.edu, Courses: ENAE 601
+Brent Barbee, Email: bbarbee@umd.edu, Courses: ENAE 603
+Inderjit Chopra, Email: chopra@umd.edu, Courses: ENAE 631, ENAE 651
+Anubhav Datta, Email: datta@umd.edu, Courses: ENAE 655, ENAE 636
+Robert Sanner, Email: rmsanner@umd.edu, Courses: ENAE 641
+Ray Sedwick, Email: sedwick@umd.edu, Courses: ENAE 662
+Pino Martin, Email: mpmartin@umd.edu, Courses: ENAE 673
+John Tritschler, Email: jtritsch@umd.edu, Courses: ENAE 681
+Stuart Laurence, Email: stuartl@umd.edu, Courses: ENAE 686, ENAE 682
+James Baeder, Email: baeder@umd.edu, Courses: ENAE 788G, ENAE 684
+Christoph Brehm, Email: cbrehm1@umd.edu, Courses: ENAE 686
+Jared Grauer, Email: jgrauer@umd.edu, Courses: ENAE 788B
+David Akin, Email: dakin@umd.edu, Courses: ENAE 788D, ENAE 788X
+Liam Healy, Email: healy@umd.edu, Courses: ENAE 788L
+Qingbin Cui, Email: cui@umd.edu, Courses: ENCE 602
+John Johnson, Email: ajohns36@umd.edu, Courses: ENCE 662, ENCE 607
+Yunfeng Zhang, Email: zyf@umd.edu, Courses: ENCE 613
+Shana Webster-Trotman, Email: shanawt@umd.edu, Courses: ENCE 614
+Bilal Ayyub, Email: ba@umd.edu, Courses: ENSE 698R, ENCE 620, ENRE 648M
+Miroslaw Skibniewski, Email: mirek@umd.edu, Courses: ENCE 622
+Gregory Baecher, Email: gbaecher@umd.edu, Courses: ENCE 627
+Michelle Bensi, Email: mbensi@umd.edu, Courses: ENCE 688T, ENCE 633
+Jongwan Eun, Email: jeun1@umd.edu, Courses: ENCE 640
+Allen Davis, Email: apdavis@umd.edu, Courses: ENCE 650
+Alba Torrents Capdevila, Email: alba@umd.edu, Courses: ENCE 651, MEES 698W
+Guangbin Li, Email: gli2019@umd.edu, Courses: ENCE 652
+Mark Groff, Email: mgroff@umd.edu, Courses: ENCE 664
+Thomas Barham, Email: tbarham@umd.edu, Courses: ENCE 664
+Thomas Powell, Email: tpowell@umd.edu, Courses: ENCE 664
+Neil Schulman, Email: nrs@umd.edu, Courses: ENCE 666
+Gang-Len Chang, Email: gang@umd.edu, Courses: ENCE 670
+Paul Schonfeld, Email: pschon@umd.edu, Courses: ENCE 672
+Nii O Attoh-Okine, Email: niiokine@umd.edu, Courses: ENCE 688B
+Cinzia Cirillo, Email: ccirillo@umd.edu, Courses: ENCE 688I
+Agisilaos Iliadis, Email: agis@umd.edu, Courses: ENEE 600
+Reza Ghodssi, Email: ghodssi@umd.edu, Courses: ENEE 605
+Timothy Horiuchi, Email: timmer@umd.edu, Courses: ENEE 611
+Alexander Barg, Email: abarg@umd.edu, Courses: ENEE 620
+Behtash Babadi, Email: behtash@umd.edu, Courses: ENEE 630
+Donald Yeung, Email: yeung@umd.edu, Courses: ENEE 646
+John Baras, Email: baras@umd.edu, Courses: ENEE 660
+Nuno Martins, Email: nmartins@umd.edu, Courses: ENEE 662
+Mohammad Hafezi, Email: hafezi@umd.edu, Courses: ENEE 680
+Edo Waks, Email: edowaks@umd.edu, Courses: ENEE 690
+Sennur Ulukus, Email: ulukus@umd.edu, Courses: ENEE 698Q
+Cunxi Yu, Email: cunxiyu@umd.edu, Courses: ENEE 759U
+Perinkulam Krishnaprasad, Email: krishna@umd.edu, Courses: ENEE 762
+Mario Dagenais, Email: dage@umd.edu, Courses: ENEE 789D
+Ronald Walsworth, Email: rwalswor@umd.edu, Courses: ENEE 789W
+Thomas Murphy, Email: frcmurph@umd.edu, Courses: ENEE 791
+Amy Karlsson, Email: ajkarl@umd.edu, Courses: ENES 602
+Min Wu, Email: minwu@umd.edu, Courses: ENES 604
+Damien Peters, Email: dpeters@umd.edu, Courses: ENES 660
+James Green, Email: jdgg@umd.edu, Courses: ENES 662
+Sharon Flank, Email: sflank@umd.edu, Courses: ENES 663
+Frankie Abralind, Email: frankie@umd.edu, Courses: ENES 665
+Harry D'Andrea, Email: hdandrea@umd.edu, Courses: ENES 672
+Michael Pratt, Email: mrpratt@umd.edu, Courses: ENES 673
+Michael O'Connor, Email: oconnm5@umd.edu, Courses: ENES 674
+Tushar Rathod, Email: trathod@umd.edu, Courses: ENES 680
+Mark Hopkins, Email: mhop2431@umd.edu, Courses: ENFP 610
+Arnaud Trouve, Email: atrouve@umd.edu, Courses: ENFP 619
+Shuna Ni, Email: shunani@umd.edu, Courses: ENFP 621
+James Milke, Email: milke@umd.edu, Courses: ENFP 627
+Duane Johnson, Email: djohns27@umd.edu, Courses: ENFP 627
+Peter Sunderland, Email: pbs@umd.edu, Courses: ENFP 651
+Marc Janssens, Email: mjanssen@umd.edu, Courses: ENFP 652
+Gerald Haynes, Email: ghaynes1@umd.edu, Courses: ENFP 661
+David Icove, Email: dicove@umd.edu, Courses: ENFP 661
+Noah Ryder, Email: nryder@umd.edu, Courses: ENFP 664
+Andrew Kohout, Email: akohout@umd.edu, Courses: ENFP 664
+Stanislav Stoliarov, Email: stolia@umd.edu, Courses: ENFP 671
+Tita Chico, Email: tchico@umd.edu, Courses: ENGL 601
+Joshua Weiner, Email: jweiner1@umd.edu, Courses: ENGL 688
+Gabrielle Fuentes, Email: glfuent@umd.edu, Courses: ENGL 689
+Sangeeta Ray, Email: rays@umd.edu, Courses: ENGL 709A
+Jason Rudy, Email: jrrudy@umd.edu, Courses: ENGL 738C, ENGL 809
+Christina Walter, Email: cmwalter@umd.edu, Courses: ENGL 749A, ENGL 798B
+Lillian-Yvonne Bertram, Email: lyb@umd.edu, Courses: ENGL 759F
+Scott Wible, Email: swible@umd.edu, Courses: ENGL 776
+Gerard Passannante, Email: gpassann@umd.edu, Courses: ENGL 888
+Yifei Mo, Email: yfmo@umd.edu, Courses: ENMA 600
+Julie Simmons, Email: bannerja@umd.edu, Courses: ENMA 616
+Daphne Fuentevilla, Email: daf@umd.edu, Courses: ENMA 616
+Gibson Scisco, Email: gpscisco@umd.edu, Courses: ENMA 616
+Aristos Christou, Email: christou@umd.edu, Courses: ENMA 626, ENRE 600
+Ichiro Takeuchi, Email: takeuchi@umd.edu, Courses: ENMA 637, ENMA 797
+Aaron Kusne, Email: akusne@umd.edu, Courses: ENMA 637
+John Cumings, Email: cumings@umd.edu, Courses: ENMA 641
+Shenqiang Ren, Email: sren@umd.edu, Courses: ENMA 650
+Oded Rabin, Email: oded@umd.edu, Courses: ENMA 660
+Sreeramamurthy Ankem, Email: ankem@umd.edu, Courses: ENMA 664
+Jiancun Rao, Email: jcrao@umd.edu, Courses: ENMA 683, ENMA 680
+Timothy Koeth, Email: koeth@umd.edu, Courses: ENMA 688
+Jin-Oh Hahn, Email: jhahn12@umd.edu, Courses: ENME 605
+Shapour Azarm, Email: azarm@umd.edu, Courses: ENME 610
+Bao Yang, Email: baoyang@umd.edu, Courses: ENME 631
+Siddhartha Das, Email: sidd@umd.edu, Courses: ENME 640, ENPM 672
+Eleonora Tubaldi, Email: etubaldi@umd.edu, Courses: ENME 645
+Amr Baz, Email: baz@umd.edu, Courses: ENME 662
+Abhijit Dasgupta, Email: dasgupta@umd.edu, Courses: ENME 674
+Bongtae Han, Email: bthan@umd.edu, Courses: ENME 690
+Jay Lee, Email: leejay@umd.edu, Courses: ENME 737, ENRE 648J, ENME 691
+Avik Dutt, Email: avikdutt@umd.edu, Courses: ENME 692
+Kurt Radermacher, Email: raderm@umd.edu, Courses: ENME 701
+Michael Pecht, Email: pecht@umd.edu, Courses: ENME 737, ENRE 648J
+Michael Azarian, Email: mazarian@umd.edu, Courses: ENME 737, ENRE 648J
+Steven Gabriel, Email: sgabriel@umd.edu, Courses: ENRE 648E, ENME 741
+Ryan Sochol, Email: rsochol@umd.edu, Courses: ENME 744
+Johan Larsson, Email: jola@umd.edu, Courses: ENME 745
+Jelena Srebric, Email: jsrebric@umd.edu, Courses: ENME 753
+Michael Ohadi, Email: ohadi@umd.edu, Courses: ENME 808Q
+Yancy Diaz-Mercado, Email: yancy@umd.edu, Courses: ENME 808T
+A Seyed, Email: apseyed@umd.edu, Courses: ENPM 606
+Christopher Ackermann, Email: chrisumd@umd.edu, Courses: ENPM 611
+Karthikeyan Chandrashekar, Email: karthikc@umd.edu, Courses: ENPM 611
+Tony Barber, Email: tdbarber@umd.edu, Courses: ENPM 808J, ENPM 613, ENSE 621
+Manoj Franklin, Email: manoj@umd.edu, Courses: ENPM 615, ENPM 818G
+Jiazhen Ling, Email: jiazhen@umd.edu, Courses: ENPM 621
+Patrick Caton, Email: patcaton@umd.edu, Courses: ENPM 622
+Karim Amrane, Email: kamrane@umd.edu, Courses: ENPM 625
+Nikhil Chopra, Email: nchopra@umd.edu, Courses: ENPM 633
+Michael Wittner, Email: mwittner@umd.edu, Courses: ENPM 634
+Anindo Roy, Email: aroy1975@umd.edu, Courses: ENPM 640
+Josef Schaff, Email: jschaff@umd.edu, Courses: ENPM 645
+Joshua Giltinan, Email: jgiltina@umd.edu, Courses: ENPM 655
+Mikael Lindvall, Email: mlindval@umd.edu, Courses: ENPM 655
+Kyosung Choo, Email: kchoo1@umd.edu, Courses: ENPM 660
+Reza Monfaredi, Email: rmonfare@umd.edu, Courses: ENPM 662
+Thomas Dineen, Email: tdineen@umd.edu, Courses: ENPM 665
+Everett Daviage, Email: edaviage@umd.edu, Courses: ENPM 818R, ENPM 818N, ENPM 665
+Waseem Malik, Email: wmalik@umd.edu, Courses: ENPM 667
+Gananand Kini, Email: gkini@umd.edu, Courses: ENPM 680
+Kevin Shivers, Email: kts@umd.edu, Courses: ENPM 685
+Ryan Kropff, Email: rkropff@umd.edu, Courses: ENPM 687
+Jonas Amoonarquah, Email: jamoonar@umd.edu, Courses: ENPM 687
+Wiehrs Collier, Email: lcollier@umd.edu, Courses: ENPM 691
+Majid Raissi-Dehkordi, Email: majid@umd.edu, Courses: ENPM 694
+Ido Dubrawsky, Email: idubraw1@umd.edu, Courses: ENPM 695
+Allen Hazelton, Email: ajhazelt@umd.edu, Courses: ENPM 696
+Tommy Chang, Email: chang177@umd.edu, Courses: ENPM 700
+Zeid Kootbally, Email: zeidk@umd.edu, Courses: ENPM 702
+George Zaki, Email: gzaki@umd.edu, Courses: ENPM 703
+George Syrmos, Email: syrmos@umd.edu, Courses: ENPM 808
+Benjamin Greene, Email: bgreene2@umd.edu, Courses: ENPM 809F
+Ashok Prajapati, Email: aprajapa@umd.edu, Courses: ENPM 818M
+Bertrand Sobesto, Email: bsobesto@umd.edu, Courses: ENPM 818P
+Katrina Groth, Email: kgroth@umd.edu, Courses: ENRE 602
+Mohammad Modarres, Email: modarres@umd.edu, Courses: ENRE 641
+Yunfei Zhao, Email: yzhao111@umd.edu, Courses: ENRE 645
+Steven Biemer, Email: sbiemer@umd.edu, Courses: ENSE 623
+Dane Cooper, Email: dscooper@umd.edu, Courses: ENSE 626
+Jennifer Mullinax, Email: wildlife@umd.edu, Courses: ENST 689, ENST 602
+Peter May, Email: pimay@umd.edu, Courses: ENST 603
+Paul Leisnham, Email: leisnham@umd.edu, Courses: ENST 689, ENST 606
+Raymond Weil, Email: rweil@umd.edu, Courses: ENST 689, ENST 689X, ENST 611
+Andrew Baldwin, Email: baldwin@umd.edu, Courses: ENST 689, ENST 650, MEES 650
+William Bowerman, Email: wbowerma@umd.edu, Courses: ENST 689
+Frank Coale, Email: fjcoale@umd.edu, Courses: ENST 689
+Gary Felton, Email: gfelton@umd.edu, Courses: ENST 689
+Reginal Harrell, Email: rharrell@umd.edu, Courses: ENST 689
+Robert Hill, Email: rlh@umd.edu, Courses: ENST 689
+Patrick Kangas, Email: pkangas@umd.edu, Courses: ENST 689
+Stephanie Lansing, Email: slansing@umd.edu, Courses: ENST 689
+Michael Kearney, Email: kearneym@umd.edu, Courses: ENST 689
+Bahram Momen, Email: Failed to find email, Courses: ENST 689
+Brian Needelman, Email: bneed@umd.edu, Courses: ENST 689
+Masoud Negahban-Azar, Email: mnazar@umd.edu, Courses: ENST 689
+Mitchell Pavao-Zuckerman, Email: mpzucker@umd.edu, Courses: ENST 689
+Wendy Peer, Email: wapeer@umd.edu, Courses: ENST 689, ENST 689Y, PLSC 608T
+Martin Rabenhorst, Email: mrabenho@umd.edu, Courses: ENST 689, ENST 761
+David Tilley, Email: dtilley@umd.edu, Courses: ENST 689
+Gurpal Toor, Email: gstoor@umd.edu, Courses: ENST 689
+Stephanie Yarwood, Email: syarwood@umd.edu, Courses: ENST 689
+Lance Yonkos, Email: lyonkos@umd.edu, Courses: ENST 689
+Jared Wilmoth, Email: jwilmoth@umd.edu, Courses: ENST 689, ENST 689M, ENST 798
+Henry Gallo, Email: tgallo@umd.edu, Courses: ENST 689, ENST 798
+Marcia Shofner, Email: mshofner@umd.edu, Courses: ENTM 710
+Raymond StLeger, Email: stleger@umd.edu, Courses: ENTM 756
+Huiyu Sheng, Email: hysheng@umd.edu, Courses: ENTM 756
+Cerruti Hooks, Email: crrhooks@umd.edu, Courses: ENTM 769
+Kelly Hamby, Email: kahamby@umd.edu, Courses: ENTM 798E
+Anahi Espindola, Email: anahiesp@umd.edu, Courses: ENTM 798E
+Joseph Augustine, Email: jaugusti@umd.edu, Courses: ENTS 630
+Zoltan Safar, Email: zsafar@umd.edu, Courses: ENTS 640
+Michael Dellomo, Email: mdellomo@umd.edu, Courses: ENTS 656, ENTS 657
+Jeff McKinney, Email: mckinney@umd.edu, Courses: ENTS 669B
+Sanghamitra Dutta, Email: sanghamd@umd.edu, Courses: ENTS 669D
+Kamran Etemad, Email: ketemad@umd.edu, Courses: ENTS 759I
+Edmond Shenassa, Email: shenassa@umd.edu, Courses: EPIB 610, EPIB 788
+Hongjie Liu, Email: hliu1210@umd.edu, Courses: EPIB 612
+Cher Dallal, Email: cdallal@umd.edu, Courses: EPIB 642
+Yan Li, Email: davidl@umd.edu, Courses: SURV 740, EPIB 650
+Mei-Ling Lee, Email: mltlee@umd.edu, Courses: EPIB 651
+Tianzhou Ma, Email: tma0929@umd.edu, Courses: EPIB 652
+Xin He, Email: xinhe@umd.edu, Courses: EPIB 655
+Amanda Ng, Email: amandang@umd.edu, Courses: EPIB 697
+Mona Mittal, Email: mmittal@umd.edu, Courses: FMSC 631, FMSC 652
+Tiara Fennell, Email: tfennel1@umd.edu, Courses: FMSC 640, FMSC 642, FMSC 658
+Erica Turner, Email: erturner@umd.edu, Courses: FMSC 650
+Salwa Shan, Email: sshan@umd.edu, Courses: FMSC 745
+Christine Schull, Email: cpschull@umd.edu, Courses: FMSC 750
+Julia Steinberg, Email: jrsteinb@umd.edu, Courses: FMSC 850
+Mia Smith-Bynum, Email: msbynum@umd.edu, Courses: FMSC 879
+Mel Scullen, Email: mscullen@umd.edu, Courses: FREN 601
+Andrea Frisch, Email: afrisch@umd.edu, Courses: FREN 629C
+Madeline Muravchik, Email: mmuravch@umd.edu, Courses: FREN 709
+Giovanni Baiocchi, Email: baiocchi@umd.edu, Courses: GEOG 601
+Laura Duncanson, Email: lduncans@umd.edu, Courses: GEOG 642
+Xin Tao, Email: xtao@umd.edu, Courses: GEOG 652
+Jianguo Ma, Email: jma3@umd.edu, Courses: GEOG 797, GEOG 653
+Jonathan Resop, Email: resop@umd.edu, Courses: GEOG 654
+Jonathon Hathaway, Email: jhathaw2@umd.edu, Courses: GEOG 661
+Ruibo Han, Email: ruibo@umd.edu, Courses: GEOG 662, GEOG 686
+John Armston, Email: armston@umd.edu, Courses: GEOG 688T
+Kuishuang Feng, Email: kfeng@umd.edu, Courses: GEOG 788F
+Leila De Floriani, Email: deflo@umd.edu, Courses: GEOG 798
+Sujay Kaushal, Email: skaushal@umd.edu, Courses: GEOL 636, MEES 698E
+Richard Walker, Email: rjwalker@umd.edu, Courses: GEOL 650
+Michael Evans, Email: mnevans@umd.edu, Courses: GEOL 651
+Karen Prestegaard, Email: kpresto@umd.edu, Courses: GEOL 652
+Mengqiang Zhu, Email: mqzhu@umd.edu, Courses: GEOL 688
+Megan Newcombe, Email: newcombe@umd.edu, Courses: GEOL 789I, GEOL 789A
+James Farquhar, Email: jfarquh1@umd.edu, Courses: GEOL 789D
+Sarah Penniston-Dorland, Email: sarahpd@umd.edu, Courses: GEOL 789I
+John Scott, Email: jhgscott@umd.edu, Courses: GERS 618
+Julie Koser, Email: jkoser@umd.edu, Courses: GERS 689L
+Hester Baer, Email: hbaer@umd.edu, Courses: GERS 689N
+Lillian Doherty, Email: ldoherty@umd.edu, Courses: GREK 604
+Ernesto Calvo, Email: ecalvo@umd.edu, Courses: GVPT 600, GVPT 729B
+Kristina Miler, Email: kmiler@umd.edu, Courses: GVPT 870, GVPT 600
+Richard Engstrom, Email: rengstro@umd.edu, Courses: GVPT 601
+Deniz Cil, Email: dcil@umd.edu, Courses: GVPT 604, GVPT 803
+David Cunningham, Email: dacunnin@umd.edu, Courses: GVPT 622
+Jacob Aronson, Email: jacobaro@umd.edu, Courses: GVPT 622
+Neil Lund, Email: nlund@umd.edu, Courses: GVPT 628
+Candace Turitto, Email: turitto@umd.edu, Courses: GVPT 635
+Shannon Carcelli, Email: carcelli@umd.edu, Courses: GVPT 708A
+Hyunki Kim, Email: hkim0123@umd.edu, Courses: GVPT 708A
+Michael Hanmer, Email: mhanmer@umd.edu, Courses: GVPT 729A
+Johanna Birnir, Email: jkbirnir@umd.edu, Courses: GVPT 729B
+Jennifer Wallace, Email: jwallace@umd.edu, Courses: GVPT 761
+Breanna Gray, Email: brecgray@umd.edu, Courses: GVPT 770
+Calvert Jones, Email: cwjones@umd.edu, Courses: GVPT 888A
+John McCauley, Email: mccauley@umd.edu, Courses: GVPT 888D
+Scott Kastner, Email: skastner@umd.edu, Courses: GVPT 889B
+Kai Kai Mascarenas, Email: kaimasca@umd.edu, Courses: HESI 671
+Jazmin Pichardo, Email: pichardo@umd.edu, Courses: HESI 671
+Kimberly Jenkins, Email: kjenkin3@umd.edu, Courses: HESP 606
+Yasmeen Shah, Email: yfshah@umd.edu, Courses: HESP 610
+Jonet Artis, Email: joartis@umd.edu, Courses: HESP 613
+Nan Ratner, Email: nratner@umd.edu, Courses: HESP 626, HESP 616
+C'Rai Weeden Shannon, Email: cweedens@umd.edu, Courses: HESP 623
+Nancy Solomon, Email: solomonn@umd.edu, Courses: HESP 624
+Samira Anderson, Email: sander22@umd.edu, Courses: HESP 630
+Paul Mayo, Email: paulmayo@umd.edu, Courses: HESP 639B
+Ed Bice, Email: ebice@umd.edu, Courses: HESP 639D
+Stacey Kane, Email: slgkane@umd.edu, Courses: HESP 645
+Jessica Wertz, Email: jwertz@umd.edu, Courses: HESP 648B, HESP 648A
+Eliza Thompson, Email: ethomps2@umd.edu, Courses: HESP 648B, HESP 702, HESP 648A
+Eusebia Mont, Email: emont@umd.edu, Courses: HESP 648B, HESP 648A
+Ashley Webb, Email: awebb125@umd.edu, Courses: HESP 648B, HESP 648A
+Kristin Slawson, Email: kslawson@umd.edu, Courses: HESP 648A
+Kathy Dow-Burger, Email: kdowburg@umd.edu, Courses: HESP 648B, HESP 648A
+Courtney Overton, Email: coverton@umd.edu, Courses: HESP 648B
+Lacey Curry, Email: curry19@umd.edu, Courses: HESP 649A
+Lisa Rickard, Email: lrickard@umd.edu, Courses: HESP 649A
+Christina Shields, Email: shields3@umd.edu, Courses: HESP 734, HESP 649A
+Nicole Nguyen, Email: nknguyen@umd.edu, Courses: HESP 712, HESP 649A, HESP 729, HESP 734, HESP 829
+Sarah Sohns, Email: ssohns@umd.edu, Courses: HESP 732, HESP 649A
+Eric Hoover, Email: ehoover@umd.edu, Courses: HESP 710, HESP 700
+Matthew Goupell, Email: goupell@umd.edu, Courses: HESP 722, HESP 712
+Kendell Adson, Email: kadson@umd.edu, Courses: HESP 736
+Susan Kern, Email: skern@umd.edu, Courses: HISP 655, HISP 710, HISP 701, HISP 660, HISP 600, HISP 629, HISP 711
+John Sprinkle, Email: jsprinkl@umd.edu, Courses: HISP 611
+Stefan Woehlke, Email: swoehlke@umd.edu, Courses: HISP 619P
+Michelle Magalong, Email: magalong@umd.edu, Courses: HISP 650
+Cristina Amoruso, Email: camoruso@umd.edu, Courses: HISP 680
+Colleen Woods, Email: woodscp@umd.edu, Courses: HIST 601
+Quincy Mills, Email: qtmills@umd.edu, Courses: HIST 607
+Holly Brewer, Email: hbrewer@umd.edu, Courses: HIST 607
+Zachary Dorner, Email: zdorner@umd.edu, Courses: HIST 608A
+Alejandro Caneque, Email: acaneque@umd.edu, Courses: HIST 608G
+Melinda Baldwin, Email: mbaldwin@umd.edu, Courses: HIST 608M
+Saverio Giovacchini, Email: saverio@umd.edu, Courses: HIST 608N
+Kenneth Cohen, Email: cohenk17@umd.edu, Courses: HIST 619F
+Christopher Bonner, Email: cjbonner@umd.edu, Courses: HIST 619G
+Madeline Hsu, Email: myh96@umd.edu, Courses: HIST 638G
+David Sicilia, Email: dsicilia@umd.edu, Courses: HIST 638I
+Matthew Miller, Email: mtmiller@umd.edu, Courses: HIST 638Q, PERS 689T
+Sarah Cameron, Email: scameron@umd.edu, Courses: HIST 639Z
+Robyn Muncy, Email: rmuncy@umd.edu, Courses: HIST 819O
+Piotr H Kosicki, Email: kosicki@umd.edu, Courses: HIST 819X
+Merianne Spencer, Email: merianne@umd.edu, Courses: HLSA 601
+Negin Fouladi, Email: fouladi@umd.edu, Courses: HLSA 601
+Maushami DeSoto, Email: maushami@umd.edu, Courses: HLSA 611
+Shurooq Hasan, Email: shurooqh@umd.edu, Courses: HLSA 702
+Nate Apathy, Email: nca@umd.edu, Courses: HLSA 711
+Xuanzi Qin, Email: xqin1@umd.edu, Courses: HLSA 716
+Nina Omeaku, Email: nomeaku@umd.edu, Courses: HLSA 720
+Michel Boudreaux, Email: mhb@umd.edu, Courses: HLSA 727
+Rick Sperling, Email: rsperlin@umd.edu, Courses: HLSA 742
+Portia Buchongo, Email: pbuchong@umd.edu, Courses: HLSA 745
+Melvin Seale, Email: mseale@umd.edu, Courses: HLSA 750
+Jie Chen, Email: jichen@umd.edu, Courses: HLSA 765
+Priscilla Novak, Email: pnovak1@umd.edu, Courses: HLSA 770
+Lauren Edelstein, Email: lmedel@umd.edu, Courses: HLSA 770
+Sherry Maykrantz, Email: smaykran@umd.edu, Courses: SPHL 620, HLSA 772
+Dahai Yue, Email: dhyue@umd.edu, Courses: HLSA 775
+Dina Borzekowski, Email: dborzeko@umd.edu, Courses: HLTH 609
+Sandra Saperstein, Email: ssaperst@umd.edu, Courses: HLTH 672
+Aysha Jawed, Email: ajawed@umd.edu, Courses: HLTH 672
+Cynthia Baur, Email: cbaur@umd.edu, Courses: HLTH 674
+Elizabeth Aparicio, Email: aparicio@umd.edu, Courses: HLTH 701
+Elaine Doherty, Email: dohertye@umd.edu, Courses: HLTH 710
+Azieb Kidanu, Email: akidanu@umd.edu, Courses: HLTH 710
+Hector Alcala, Email: halcala@umd.edu, Courses: HLTH 712, HLTH 784
+Evelyn King-Marshall, Email: eckm@umd.edu, Courses: HLTH 778
+Meaghan McHugh, Email: mcmchugh@umd.edu, Courses: HLTH 780
+Zahra Saboori, Email: zsaboori@umd.edu, Courses: HLTH 780
+Mira Azarm, Email: mazarm@umd.edu, Courses: IDEA 659, IDEA 698
+Christina Hnatov, Email: chnatov@umd.edu, Courses: IDEA 659
+Ping Wang, Email: pwang@umd.edu, Courses: INFM 620, INFM 600
+Douglas Oard, Email: oard@umd.edu, Courses: INFM 603
+David Loshin, Email: dloshin@umd.edu, Courses: INFM 737, INST 764
+Ryan O'Grady, Email: rogrady1@umd.edu, Courses: LBSC 631, INST 600, LBSC 724
+Amelia Gibson, Email: ameliag@umd.edu, Courses: INST 600, INST 680
+Eric Hung, Email: ehung124@umd.edu, Courses: INST 604, LBSC 708Y
+Melissa Wertheimer, Email: mwerthe1@umd.edu, Courses: INST 604
+Jason Baron, Email: jrbaron@umd.edu, Courses: INST 607
+Dennis Frezzo, Email: dfrezzo@umd.edu, Courses: INST 608A
+Beth St Jean, Email: bstjean@umd.edu, Courses: INST 608Q
+Galina Reitz, Email: gmreitz@umd.edu, Courses: INST 610
+Ursula Gorham-Oscilowski, Email: ugorham@umd.edu, Courses: INST 615
+Renee Hill, Email: rfhill@umd.edu, Courses: INST 620
+Zach Drake, Email: zdrake@umd.edu, Courses: INST 627
+Alex Leitch, Email: aleitch1@umd.edu, Courses: INST 705, INST 630, INST 711
+Caro Williams-Pierce, Email: carowp@umd.edu, Courses: INST 631
+Rachael Bradley-Montgomery, Email: rlb@umd.edu, Courses: INST 639L
+Angela Rodgers-Koukoui, Email: akoukoui@umd.edu, Courses: LBSC 602, INST 643
+Sheri Massey, Email: smassey@umd.edu, Courses: INST 650
+Waqas Shah, Email: wshah2@umd.edu, Courses: INST 651
+Jesse Klein, Email: jrklein@umd.edu, Courses: INST 661
+Vaishnav Kameswaran, Email: vaikam@umd.edu, Courses: INST 704
+Tamara Clegg, Email: tclegg@umd.edu, Courses: INST 710
+Kirtana Kalavagunta, Email: kirtanak@umd.edu, Courses: INST 711
+Jonathan Lazar, Email: jlazar@umd.edu, Courses: INST 728A
+Jessica Grimmer, Email: jgrimmer@umd.edu, Courses: INST 728B, LBSC 731, LBSC 671
+Rayna Arora, Email: rayna27@umd.edu, Courses: INST 728C
+Lesley Langa, Email: llanga@umd.edu, Courses: INST 728D
+Tom Brinck, Email: tbrinck@umd.edu, Courses: INST 728F
+Naeemul Hassan, Email: nhassan@umd.edu, Courses: JOUR 773, INST 737
+Patricia Bunnell, Email: buckleyp@umd.edu, Courses: INST 752
+David Patrick, Email: dep@umd.edu, Courses: INST 753
+Faisal Quader, Email: quader@umd.edu, Courses: INST 754
+Md Hoque, Email: nhoque@umd.edu, Courses: INST 760
+Stacy Surla, Email: ssurla@umd.edu, Courses: INST 775
+Heera Lee, Email: heeralee@umd.edu, Courses: INST 775
+Eun Kyoung Choe, Email: choe@umd.edu, Courses: INST 828, INST 779
+Jordon Steele, Email: jsteel13@umd.edu, Courses: INST 782
+Chad Doran, Email: cdoran2@umd.edu, Courses: INST 784
+Jessica Vitak, Email: jvitak@umd.edu, Courses: SURV 612, INST 808, INST 798
+Vanessa Frias Martinez, Email: vfrias@umd.edu, Courses: INST 800
+Joel Chan, Email: joelchan@umd.edu, Courses: INST 801
+Elizabeth Bonsignore, Email: ebonsign@umd.edu, Courses: INST 878G
+Stephanie Valencia Valencia, Email: sval@umd.edu, Courses: INST 878J
+Allison Jennings-Roche, Email: ajennin3@umd.edu, Courses: INST 878P
+Linda Steiner, Email: lsteiner@umd.edu, Courses: JOUR 601
+Alanna Kopania, Email: adelfino@umd.edu, Courses: JOUR 668T, JOUR 603
+Nicole Munchel, Email: nmunchel@umd.edu, Courses: JOUR 604
+Christine Harvey, Email: charvey@umd.edu, Courses: JOUR 620
+Joshua Davidsburg, Email: jdavidsb@umd.edu, Courses: JOUR 661, JOUR 620, JOUR 668X
+James Carroll, Email: carrollj@umd.edu, Courses: JOUR 625
+Christi Parsons, Email: cparson1@umd.edu, Courses: JOUR 625
+Kathy Best, Email: klbest@umd.edu, Courses: JOUR 628C, JOUR 628I
+Mark Hyman, Email: mhyman1@umd.edu, Courses: JOUR 628G
+Dana Priest, Email: dpriest@umd.edu, Courses: JOUR 628N
+Steven Drummond, Email: sdrummon@umd.edu, Courses: JOUR 634
+Nathaniel Stevens, Email: nsteven5@umd.edu, Courses: JOUR 668O, JOUR 636
+Adam Marton, Email: amarton@umd.edu, Courses: JOUR 655, JOUR 652
+Stacey Decker, Email: srdecker@umd.edu, Courses: JOUR 655, JOUR 652
+Hyon-Young Kim, Email: hkim140@umd.edu, Courses: JOUR 652
+Alison Burns, Email: aburns93@umd.edu, Courses: JOUR 660
+Cindy Wright, Email: cwright2@umd.edu, Courses: JOUR 662
+Robert Little, Email: rdlittle@umd.edu, Courses: JOUR 664
+Melvin Coffee, Email: mcoffee@umd.edu, Courses: JOUR 667
+Timothy Jacobsen, Email: tmjphoto@umd.edu, Courses: JOUR 670, JOUR 668N
+Joseph Yasharoff, Email: jyasharo@umd.edu, Courses: JOUR 668Y
+Krishnan Vasudevan, Email: kvasu@umd.edu, Courses: JOUR 800, JOUR 668Z
+Kaitlyn Wilson, Email: kcwilson@umd.edu, Courses: JOUR 682
+Jackie Padilla, Email: jackiep@umd.edu, Courses: JOUR 689D
+David Oliver, Email: doliver8@umd.edu, Courses: JOUR 689E
+James Risen, Email: jrisen@umd.edu, Courses: JOUR 689I
+Michael Shear, Email: mshear1@umd.edu, Courses: JOUR 689P
+Rob Wells, Email: rewells@umd.edu, Courses: JOUR 689R
+Sean Mussenden, Email: smussend@umd.edu, Courses: JOUR 689X
+Sarah Oates, Email: soates@umd.edu, Courses: JOUR 698R
+Danielle McLean, Email: dmclean2@umd.edu, Courses: JOUR 702
+Derek Willis, Email: dpwillis@umd.edu, Courses: JOUR 772
+Daniel Trielli, Email: dtrielli@umd.edu, Courses: JOUR 772
+Steven Prior, Email: sprior@umd.edu, Courses: KNES 618
+Shannon Jette, Email: jette@umd.edu, Courses: KNES 619
+Cara Grant, Email: cgrant75@umd.edu, Courses: KNES 678, KNES 622
+Seppo Iso-Ahola, Email: isoahol@umd.edu, Courses: KNES 660
+Hyuk Oh, Email: hyukoh@umd.edu, Courses: KNES 674
+David Andrews, Email: dla@umd.edu, Courses: KNES 689C
+Jae Kun Shim, Email: jkshim@umd.edu, Courses: KNES 689Q
+Sarah Glancy, Email: sglancy@umd.edu, Courses: KNES 691
+Valerie Cholet, Email: vcholet@umd.edu, Courses: KNES 780
+Ryan Long, Email: rlong12@umd.edu, Courses: LACS 689, LACS 688, LACS 609
+Christopher Ellis, Email: cdellis@umd.edu, Courses: LARC 620
+Naomi Sachs, Email: nsachs@umd.edu, Courses: LARC 640
+Kelly Fleming, Email: kflemin2@umd.edu, Courses: LARC 642
+Caren Yglesias, Email: caren@umd.edu, Courses: LARC 670
+Jennifer Janis, Email: jljanis@umd.edu, Courses: LARC 721
+Deni Ruggeri, Email: druggeri@umd.edu, Courses: LARC 748
+Katherine Wasdin, Email: kwasdin@umd.edu, Courses: LATN 672
+Gregory Bucher, Email: gbucher6@umd.edu, Courses: LATN 688I
+Jieun Yeon, Email: jyeon756@umd.edu, Courses: LBSC 602
+Kibbi Henderson, Email: kibbihen@umd.edu, Courses: LBSC 631
+Morgan Adle, Email: madle@umd.edu, Courses: LBSC 644
+Jennifer Sturge, Email: jsturge@umd.edu, Courses: LBSC 645
+Kathy Weaver, Email: keweaver@umd.edu, Courses: LBSC 702, LBSC 671
+Abbie Basile, Email: ajbasile@umd.edu, Courses: LBSC 723, LBSC 707
+Victoria Van Hyning, Email: vvh@umd.edu, Courses: LBSC 731
+Kevin Washburn, Email: kwashbu1@umd.edu, Courses: LBSC 742
+Bridgette Comanda, Email: comandab@umd.edu, Courses: LBSC 749
+Benjamin Shaw, Email: bshaw1@umd.edu, Courses: LBSC 751
+Amber Pierdinock-Weed, Email: apierdin@umd.edu, Courses: LBSC 751
+Michelle McDaniel, Email: mlmcdani@umd.edu, Courses: LBSC 770
+Juan Uriagereka, Email: juan@umd.edu, Courses: LING 888, LING 610
+William Idsardi, Email: idsardi@umd.edu, Courses: LING 698, LING 888, LING 625
+Ellen Lau, Email: ellenlau@umd.edu, Courses: LING 848P, LING 888, LING 640
+Alexander Williams, Email: adwill18@umd.edu, Courses: LING 660, LING 888
+Valentine Hacquard, Email: hacquard@umd.edu, Courses: LING 888, LING 698T
+Kate Mooney, Email: kemooney@umd.edu, Courses: LING 829A
+Philip Resnik, Email: resnik@umd.edu, Courses: LING 848P, LING 888
+Aron Hirsch, Email: hirsch@umd.edu, Courses: LING 879A, LING 888
+Howard Lasnik, Email: lasnik@umd.edu, Courses: LING 888
+Norbert Hornstein, Email: nhornste@umd.edu, Courses: LING 888
+Tonia Bleam, Email: tbleam@umd.edu, Courses: LING 888
+Jeffrey Lidz, Email: jlidz@umd.edu, Courses: LING 888
+Andrea Zukowski, Email: zukowski@umd.edu, Courses: LING 888
+Amy Weinberg, Email: weinber@umd.edu, Courses: LING 888
+Maria Polinsky, Email: polinsky@umd.edu, Courses: LING 888
+Paul Pietroski, Email: pietro@umd.edu, Courses: LING 888
+Colin Phillips, Email: colin@umd.edu, Courses: LING 888
+Margaret Antonisse, Email: mja@umd.edu, Courses: LING 888
+Dori Bejleri, Email: dbejleri@umd.edu, Courses: MATH 606
+Harry Tamvakis, Email: harryt@umd.edu, Courses: MATH 620
+Manoussos Grillakis, Email: mggrlk@umd.edu, Courses: MATH 630
+Thomas Haines, Email: tjh@umd.edu, Courses: MATH 636
+Vadim Kaloshin, Email: vkaloshi@umd.edu, Courses: MATH 642
+Zbigniew Blocki, Email: blocki@umd.edu, Courses: MATH 661
+Terence Long, Email: tlong271@umd.edu, Courses: MATH 695
+Michael Laskowski, Email: laskow@umd.edu, Courses: MATH 712
+Jonathan Rosenberg, Email: jmr@umd.edu, Courses: MATH 730
+Richard Wentworth, Email: raw@umd.edu, Courses: MATH 742
+Amin Gholampour, Email: amingh@umd.edu, Courses: MATH 808E
+Christian Rosendal, Email: rosendal@umd.edu, Courses: MATH 818C
+CARLANGELO LIVERANI, Email: cliveran@umd.edu, Courses: MATH 838C
+Yanir Rubinstein, Email: yanir@umd.edu, Courses: MATH 848N
+Wojciech Czaja, Email: czaja@umd.edu, Courses: MATH 858C
+Henri Berestycki, Email: hberes@umd.edu, Courses: MATH 858I
+Vyacheslav Lyubchich, Email: vlyubchi@umd.edu, Courses: MEES 702, MEES 613, MEES 602
+Russell Hill, Email: russellt@umd.edu, Courses: MEES 603
+Cynthia Palinkas, Email: cpalinkas@umces.edu, Courses: MEES 603, MEES 640
+Lawrence Sanford, Email: Failed to find email, Courses: MEES 607
+Shao Du, Email: sdu@som.umaryland.edu, Courses: MEES 608O
+Jum Sook Chung, Email: jchung2@umd.edu, Courses: MEES 608O
+Elizabeth North, Email: enorth@umd.edu, Courses: MEES 615
+Kennedy Paynter, Email: paynter@umd.edu, Courses: MEES 623
+Keith Eshleman, Email: keshlema@umd.edu, Courses: MEES 640
+Laura Lapham, Email: lapham@umd.edu, Courses: MEES 640
+Michael Gonsior, Email: mgonsior@umd.edu, Courses: MEES 640
+Joseph Jurisa, Email: jjurisa@umd.edu, Courses: MEES 640
+Andrea Pain, Email: apain@umces.edu, Courses: MEES 640
+Robert Hilderbrand, Email: rhilder1@umd.edu, Courses: MEES 660
+Ryan Woodland, Email: rwoodlan@umd.edu, Courses: MEES 660
+Tsvetan Bachvaroff, Email: tsvetan@umd.edu, Courses: MEES 680
+Eric Schott, Email: eschott@umd.edu, Courses: MEES 680
+Yantao Li, Email: yli76@umd.edu, Courses: MEES 680
+Genevieve Wilberg, Email: Failed to find email, Courses: MEES 682
+Michael Wilberg, Email: wilberg@umd.edu, Courses: MEES 682
+Matthew Fitzpatrick, Email: mcf1010@umd.edu, Courses: MEES 698C
+Emily Cohen, Email: ecohen19@umd.edu, Courses: MEES 698C
+Carys Mitchelmore, Email: cmitche3@umd.edu, Courses: MEES 698I
+Johan Schijf, Email: jschijf@umd.edu, Courses: MEES 718L, MEES 698M
+Judith O'Neil, Email: joneil@umd.edu, Courses: MEES 698V
+Mark Castro, Email: mcastro7@umd.edu, Courses: MEES 698V
+William Dennison, Email: dennison@umd.edu, Courses: MEES 698V
+Allen Place, Email: aplace@umd.edu, Courses: MEES 718L
+Victoria Coles, Email: vcoles@umd.edu, Courses: MEES 718L
+Gregory Silsbe, Email: gsilsbe@umd.edu, Courses: MEES 718L
+Vanessa Vargas-Nguyen, Email: vdvargas@umd.edu, Courses: MEES 718M
+Rense Kelsey, Email: rkelsey1@umd.edu, Courses: MEES 718M
+Rachel Goldstein, Email: rerosenb@umd.edu, Courses: MIEH 600, MIEH 609, MIEH 786
+Muhiuddin Haider, Email: mhaider@umd.edu, Courses: MIEH 605
+Paul Turner, Email: pturner3@umd.edu, Courses: MIEH 609, MIEH 786
+Amir Sapkota, Email: amirsap@umd.edu, Courses: MIEH 609, MIEH 786
+Amy Sapkota, Email: ars@umd.edu, Courses: MIEH 609, MIEH 786
+Donald Milton, Email: dmilton@umd.edu, Courses: MIEH 786, MIEH 609, MIEH 783
+Robin Puett, Email: rpuett@umd.edu, Courses: MIEH 609, MIEH 786
+Sacoby Wilson, Email: swilson2@umd.edu, Courses: MIEH 609, MIEH 786
+Devon Payne-Sturges, Email: dps1@umd.edu, Courses: MIEH 609, MIEH 786
+Rianna Murray, Email: rmurray@umd.edu, Courses: MIEH 778, MIEH 692
+Abdel-Razak Kadry, Email: akadry@umd.edu, Courses: MIEH 740
+Kathleen McPhaul, Email: kmcphaul@umd.edu, Courses: MIEH 786, MIEH 780
+Jennifer German, Email: jgerman@umd.edu, Courses: MIEH 786
+Raffaele Viglianti, Email: rviglian@umd.edu, Courses: MITH 628B
+Jonathan Dinman, Email: dinman@umd.edu, Courses: MOCB 608
+Jerry Wu, Email: jerrywu@umd.edu, Courses: MSML 642
+Alfredo Nava-Tudela, Email: ant@umd.edu, Courses: MSQC 601
+Anil Zenginoglu, Email: anil@umd.edu, Courses: MSQC 602
+Paul Lott, Email: palott@umd.edu, Courses: MSQC 607
+Mike Hewitt, Email: mphewitt@umd.edu, Courses: MUED 672
+Adam Grise, Email: agrise@umd.edu, Courses: MUED 692
+Stephanie Prichard, Email: sfp@umd.edu, Courses: MUED 729, MUED 697
+Kenneth Elpus, Email: elpus@umd.edu, Courses: MUSC 649W, MUED 698V, MUED 790
+Anna Nelson, Email: anelso17@umd.edu, Courses: MUSC 550
+Natalie Conte, Email: nconte@umd.edu, Courses: MUSC 601, MUSC 643, MUSC 830A
+Delores Ziegler, Email: dziegler@umd.edu, Courses: MUSC 603
+John Holiday, Email: holidayj@umd.edu, Courses: MUSC 605
+Rita Sloan, Email: rsloan@umd.edu, Courses: MUSC 609
+Corinne Hayes, Email: cmhayes1@umd.edu, Courses: MUSC 611, MUSC 811, MUSC 813, MUSC 613
+Steven Bailey, Email: stbailey@umd.edu, Courses: MUSC 611, MUSC 811, MUSC 813, MUSC 613
+David Neely, Email: dneely@umd.edu, Courses: MUSC 629R, MUSC 629A, MUSC 659B
+Andrea Brown, Email: aebrown7@umd.edu, Courses: MUSC 629F, MUSC 629C
+Josanne Francis, Email: francisj@umd.edu, Courses: MUSC 629E, MUSC 629D
+I Suadin, Email: isuadin@umd.edu, Courses: MUSC 629G
+Mark Williams, Email: mwill81@umd.edu, Courses: MUSC 653, MUSC 629J, MUSC 629Z
+Yuriko Gandolfo, Email: ygandolf@umd.edu, Courses: MUSC 629L, MUSC 629K
+Jonathan Bisesi, Email: jbisesi@umd.edu, Courses: MUSC 800W, MUSC 830W, MUSC 629P
+Sebastian Wang, Email: swang123@umd.edu, Courses: MUSC 629Q
+Craig Potter, Email: cpotter@umd.edu, Courses: MUSC 629U
+Michael Votta, Email: mvotta@umd.edu, Courses: MUSC 629W, MUSC 659C, MUSC 689
+Gerard Kunkel, Email: gkunkel@umd.edu, Courses: MUSC 629Z
+Thomas Baldwin, Email: tbald@umd.edu, Courses: MUSC 629Z
+Hart Guonjian-Pettit, Email: hartgp@umd.edu, Courses: MUSC 629Z
+Mai-Linh Pham, Email: mlpham@umd.edu, Courses: MUSC 802A, MUSC 830V, MUSC 643, MUSC 830A, MUSC 699D
+William Robin, Email: wrobin@umd.edu, Courses: MUSC 646
+Lars Helgert, Email: lhelgert@umd.edu, Courses: MUSC 648
+Matthew Valnes, Email: mvalnes@umd.edu, Courses: MUSC 648
+Jason Ferdinand, Email: jmaxferd@umd.edu, Courses: MUSC 659A, MUSC 649M, MUSC 649B, MUSC 649O, MUSC 649A
+Anne Carswell, Email: carswell@umd.edu, Courses: MUSC 649E
+Thomas DeLio, Email: tdelio@umd.edu, Courses: MUSC 651
+Leigh Pilzer, Email: lpilzer@umd.edu, Courses: MUSC 655
+Irina Muresanu, Email: muresanu@umd.edu, Courses: MUSC 800S, MUSC 660
+David Salness, Email: dsalness@umd.edu, Courses: MUSC 669C
+Daniel Foster, Email: danfos@umd.edu, Courses: MUSC 669D
+Rachel Young, Email: kyoung23@umd.edu, Courses: MUSC 669E
+Richard Barber, Email: rbarber@umd.edu, Courses: MUSC 669F
+Daniel Zimmerman, Email: dzimmer1@umd.edu, Courses: MUSC 675
+Brendan Kibbee, Email: bkibbee@umd.edu, Courses: MUSC 679C
+Gretchen Horlacher, Email: ghorlach@umd.edu, Courses: MUSC 699I
+Olga Haldey, Email: ohaldey@umd.edu, Courses: MUSC 699R
+Kelsey Klotz, Email: klotz@umd.edu, Courses: MUSC 699X
+Nathan Lofton, Email: nlofton@umd.edu, Courses: MUSC 758, MUSC 757
+Sarah Frisof, Email: sfrisof@umd.edu, Courses: MUSC 800W, MUSC 830W
+Emily Tsai, Email: etsai12@umd.edu, Courses: MUSC 800W, MUSC 830W
+Robert DiLutis, Email: rdilutis@umd.edu, Courses: MUSC 800W, MUSC 830W
+Tim Powell, Email: tjpowell@umd.edu, Courses: MUSC 800W, MUSC 830W
+Gregory Miller, Email: gemiller@umd.edu, Courses: MUSC 800W, MUSC 830W
+Paul Gekker, Email: cgekker@umd.edu, Courses: MUSC 800W, MUSC 830W
+Myles Blakemore, Email: mblakemo@umd.edu, Courses: MUSC 800W, MUSC 830W
+Willie Clark, Email: weclark@umd.edu, Courses: MUSC 800W
+Joseph Grimmer, Email: jpgrimm@umd.edu, Courses: MUSC 800W, MUSC 830W
+Bradford Gowen, Email: bgowen@umd.edu, Courses: MUSC 830P
+Aaron Goldman, Email: agold831@umd.edu, Courses: MUSC 830W
+Rodolphe Gentili, Email: rodolphe@umd.edu, Courses: NACS 640
+Jens Herberholz, Email: jherberh@umd.edu, Courses: NACS 641
+Robert Slevc, Email: slevc@umd.edu, Courses: NACS 645
+Luiz Pessoa, Email: pessoa@umd.edu, Courses: NACS 728F
+Joo Yun Jun, Email: jyjun@umd.edu, Courses: NACS 728M
+Seong-Ho Lee, Email: slee2000@umd.edu, Courses: NFSC 620
+Shaik Rahaman, Email: srahaman@umd.edu, Courses: NFSC 621
+Hee-Jung Song, Email: hjsong@umd.edu, Courses: NFSC 624
+Behrouz Meyssami, Email: bmeyssam@umd.edu, Courses: NFSC 641
+Diana Obanda, Email: dobanda@umd.edu, Courses: NFSC 678K
+Yuanyuan Li, Email: roseli15@umd.edu, Courses: NFSC 678P
+David Lei, Email: dlei@umd.edu, Courses: NFSC 678R, NFSC 688
+Ryan Blaustein, Email: rblauste@umd.edu, Courses: NFSC 679G
+Liangli Yu, Email: lyu5@umd.edu, Courses: NFSC 679J
+Abani Pradhan, Email: akp@umd.edu, Courses: NFSC 679R
+Rohan Tikekar, Email: rtikekar@umd.edu, Courses: NFSC 679T
+Nadine Sahyoun, Email: nsahyoun@umd.edu, Courses: NFSC 690
+Paolo Santorio, Email: santorio@umd.edu, Courses: PHIL 660
+Elizabeth Schechter, Email: eschecht@umd.edu, Courses: PHIL 808K
+John Horty, Email: horty@umd.edu, Courses: PHIL 808M
+Nicholas Laskowski, Email: nlaskows@umd.edu, Courses: PHIL 808N
+Zackaria Chacko, Email: zchacko@umd.edu, Courses: PHYS 610
+Thomas Cohen, Email: cohen@umd.edu, Courses: PHYS 612, PHYS 798B
+Zohreh Davoudi, Email: davoudi@umd.edu, Courses: PHYS 624
+Jay Sau, Email: jaydsau@umd.edu, Courses: PHYS 626
+Theodore Jacobson, Email: jacobson@umd.edu, Courses: PHYS 675
+Sarah Eno, Email: eno@umd.edu, Courses: PHYS 685
+Steve Fetter, Email: sfetter@umd.edu, Courses: PLCY 688P, PHYS 688P
+Daniel Lathrop, Email: lathrop@umd.edu, Courses: PHYS 715
+Steven Rolston, Email: rolston@umd.edu, Courses: PHYS 728J
+Johnpierre Paglione, Email: paglione@umd.edu, Courses: PHYS 838C, PHYS 738
+Sankar Das Sarma, Email: dassarma@umd.edu, Courses: PHYS 739, PHYS 839A
+Xiangdong Ji, Email: xji@umd.edu, Courses: PHYS 749
+Manuel Franco Sevilla, Email: manuelf@umd.edu, Courses: PHYS 758E
+Kaustubh Agashe, Email: kagashe@umd.edu, Courses: PHYS 759
+William Dorland, Email: bdorland@umd.edu, Courses: PHYS 769
+Eun-Suk Seo, Email: seo@umd.edu, Courses: PHYS 778
+Maissam Barkeshli, Email: maissam@umd.edu, Courses: PHYS 786
+Alexey Gorshkov, Email: gorshkov@umd.edu, Courses: PHYS 798Q
+Raman Sundrum, Email: raman@umd.edu, Courses: PHYS 859C
+Alessandra Buonanno, Email: buonanno@umd.edu, Courses: PHYS 879G
+Alec Worsnop, Email: aworsnop@umd.edu, Courses: PLCY 610
+Catherine Worsnop, Email: cworsnop@umd.edu, Courses: PLCY 630
+Eric Luedtke, Email: eluedtke@umd.edu, Courses: PLCY 631
+Elizabeth Duke, Email: eduke1@umd.edu, Courses: PLCY 698T, PLCY 631
+Julio Guzman, Email: jguzman1@umd.edu, Courses: PLCY 781, PLCY 640
+Michael Busse, Email: mbusse@umd.edu, Courses: PLCY 640
+Uri Dadush, Email: udadush@umd.edu, Courses: PLCY 700, PLCY 641
+John Green, Email: jhgreen@umd.edu, Courses: PLCY 641
+Juan Martinez Guzman, Email: jpmart04@umd.edu, Courses: PLCY 670
+Claire Dunning, Email: cdunning@umd.edu, Courses: PLCY 680
+Michael Woldemariam, Email: mwoldema@umd.edu, Courses: PLCY 680
+Nekeya O'Connor, Email: noconno2@umd.edu, Courses: PLCY 688F
+Chloe Schwenke, Email: cschwen1@umd.edu, Courses: PLCY 688X
+Douglas Call, Email: dcall1@umd.edu, Courses: PLCY 690, PLCY 689E
+Leslie Jefferson, Email: ljeffer1@umd.edu, Courses: PLCY 689Y
+Robert Sheehan, Email: rsheehan@umd.edu, Courses: PLCY 689Z
+Margaret Brindle, Email: mbrindle@umd.edu, Courses: PLCY 690
+David Backer, Email: dbacker@umd.edu, Courses: PLCY 690
+Anand Patwardhan, Email: apat@umd.edu, Courses: PLCY 741, PLCY 690
+Paul Brown, Email: cbrown45@umd.edu, Courses: PLCY 690
+Angela Bies, Email: bies@umd.edu, Courses: PLCY 690
+Bethany Henderson, Email: brh@umd.edu, Courses: PLCY 698D
+Philip Joyce, Email: pgjoyce@umd.edu, Courses: PLCY 717
+Nancy Gallagher, Email: ngallag@umd.edu, Courses: PLCY 720
+Niambi Carter, Email: nmcarter@umd.edu, Courses: PLCY 734
+Robert Sprinkle, Email: sprinkle@umd.edu, Courses: PLCY 735
+Jarryd Page, Email: jcpage@umd.edu, Courses: PLCY 740
+Thomas Hilde, Email: thilde@umd.edu, Courses: PLCY 744
+Joshua Itzkowitz Shifrinson, Email: jris@umd.edu, Courses: PLCY 780
+Jiehong Lou, Email: jlou@umd.edu, Courses: PLCY 798N
+Yueming Qiu, Email: yqiu16@umd.edu, Courses: PLCY 798R
+Shanna Pearson, Email: spearson@umd.edu, Courses: PLCY 798V
+Joannie Tremblay-Boire, Email: jboire@umd.edu, Courses: PLCY 798Y
+Peter Reuter, Email: preuter@umd.edu, Courses: PLCY 798Z
+James Culver, Email: jculver@umd.edu, Courses: PLSC 608
+Shunyuan Xiao, Email: xiao@umd.edu, Courses: PLSC 608
+Mark Carroll, Email: mcarroll@umd.edu, Courses: PLSC 608T
+William Phillips, Email: billii@umd.edu, Courses: PLSC 608T
+Paul Hanges, Email: phanges@umd.edu, Courses: PSYC 601
+Lacey Farrow, Email: lfarrow@umd.edu, Courses: PSYC 603
+Alexander Shackman, Email: shackman@umd.edu, Courses: PSYC 614
+Susanna Crowell McQuarrie, Email: crowell@umd.edu, Courses: PSYC 622
+Yevgeny Botanov, Email: ybotanov@umd.edu, Courses: PSYC 624, PSYC 629B
+Mary Byrne, Email: colbyrne@umd.edu, Courses: PSYC 643, PSYC 629C
+John Persampiere, Email: jpersamp@umd.edu, Courses: PSYC 629D
+Lea Dougherty, Email: ldougher@umd.edu, Courses: PSYC 638, PSYC 639
+Derek Iwamoto, Email: diwamoto@umd.edu, Courses: PSYC 638
+Rachel Singer, Email: rsinger1@umd.edu, Courses: PSYC 643
+Christina Danko, Email: cdanko@umd.edu, Courses: PSYC 651, PSYC 644
+Jack Blanchard, Email: jblancha@umd.edu, Courses: PSYC 651
+Andrew Naber, Email: amnaber@umd.edu, Courses: PSYC 653
+Joselito Lualhati, Email: jlualhat@umd.edu, Courses: PSYC 654
+Kenneth Yusko, Email: kyusko@umd.edu, Courses: PSYC 732, PSYC 660
+David Shar, Email: dshar@umd.edu, Courses: PSYC 661
+Jonathan Mohr, Email: jmohr@umd.edu, Courses: PSYC 692
+James Grand, Email: grandjam@umd.edu, Courses: PSYC 789K
+Linda Zou, Email: lxzou@umd.edu, Courses: PSYC 798P
+Elizabeth Redcay, Email: redcay@umd.edu, Courses: PSYC 888A
+Jesse Saginor, Email: jsaginor@umd.edu, Courses: RDEV 688C, RDEV 600
+Thomas Dwyer, Email: tdwyer@umd.edu, Courses: RDEV 603
+John Park, Email: jpark5@umd.edu, Courses: RDEV 605
+Abigail Ferretti, Email: abyers1@umd.edu, Courses: RDEV 620
+Robert McClennan, Email: rmcclenn@umd.edu, Courses: RDEV 640
+Andrew Rose, Email: ajrose@umd.edu, Courses: RDEV 660
+Suzanne White, Email: swhite21@umd.edu, Courses: RDEV 660
+Ronald McDonald, Email: rmcdon20@umd.edu, Courses: RDEV 670
+David Jefferson, Email: djeffer2@umd.edu, Courses: RDEV 689D
+Maria Day-Marshall, Email: mdaymars@umd.edu, Courses: RDEV 689Y
+Tanya Bansal, Email: tbansal@umd.edu, Courses: RDEV 690
+Megan Masters, Email: mkrol@umd.edu, Courses: SLAA 610
+Bronson Hui, Email: bhui@umd.edu, Courses: SLAA 649R, SLAA 620
+Nan Jiang, Email: njiang@umd.edu, Courses: SLAA 742, SLAA 640
+Ekaterina Sudina, Email: esudina@umd.edu, Courses: SLAA 749B
+Amelia Branigan, Email: branigan@umd.edu, Courses: SOCY 699C, SOCY 601
+Collin Mueller, Email: muellerc@umd.edu, Courses: SOCY 610
+Michael Rendall, Email: mrendall@umd.edu, Courses: SOCY 611
+Meyer Kestnbaum, Email: mkestn@umd.edu, Courses: SOCY 620
+Julia Chuang, Email: jchuang1@umd.edu, Courses: SOCY 632
+Nicol Lee, Email: nlee1238@umd.edu, Courses: SOCY 646
+Michael Vesely, Email: mvesely1@umd.edu, Courses: SOCY 657
+Long Doan, Email: longdoan@umd.edu, Courses: SOCY 660, SOCY 675
+Brian Connor, Email: bconnor@umd.edu, Courses: SOCY 699M
+Elisa Gironzetti, Email: elisag@umd.edu, Courses: SPAN 605
+Thayse Leal Lima, Email: tlima@umd.edu, Courses: SPAN 609A
+Manel Lacorte, Email: mlacorte@umd.edu, Courses: SPAN 625
+Jose Magro, Email: magro@umd.edu, Courses: SPAN 687
+Mehl Penrose, Email: mpenrose@umd.edu, Courses: SPAN 798O
+Eyda Merediz, Email: emerediz@umd.edu, Courses: SPAN 798Q
+Laura Demaria, Email: ldemaria@umd.edu, Courses: SPAN 798U
+Sylvette La Touche-Howard, Email: latouche@umd.edu, Courses: SPHL 600
+Danielle Catona, Email: dcatona@umd.edu, Courses: SPHL 620, SPHL 601
+Jamie Trevitt, Email: jtrevitt@umd.edu, Courses: SPHL 602, SPHL 603
+Aaron Blakney, Email: ablakney@umd.edu, Courses: SPHL 603
+Megan Trangsrud, Email: mwinner@umd.edu, Courses: SPHL 603
+James Hagberg, Email: hagberg@umd.edu, Courses: SPHL 612
+Yu Gu, Email: ygu7@umd.edu, Courses: STAT 600
+Eric Slud, Email: slud@umd.edu, Courses: STAT 700
+Yun Yang, Email: yy84@umd.edu, Courses: STAT 740
+Dmitry Dolgopyat, Email: dolgop@umd.edu, Courses: STAT 818J
+Lizhen Lin, Email: lizhen01@umd.edu, Courses: STAT 818N
+John Kubale, Email: jkubale@umd.edu, Courses: SURV 615
+Yajuan Si, Email: ysi@umd.edu, Courses: SURV 617
+Zeynep Suzer Gurtekin, Email: tsuzer@umd.edu, Courses: SURV 621
+Christopher Antoun, Email: antoun@umd.edu, Courses: SURV 621
+Raphael Nishimura, Email: raphaeln@umd.edu, Courses: SURV 626
+Stephanie Coffey, Email: scoffey@umd.edu, Courses: SURV 627
+Aaron Maitland, Email: maitland@umd.edu, Courses: SURV 632
+Alexandru Cernat, Email: acernat@umd.edu, Courses: SURV 665
+Fiona Draxler, Email: fdraxler@umd.edu, Courses: SURV 667
+Partha Lahiri, Email: plahiri@umd.edu, Courses: SURV 699
+Stanley Presser, Email: stanleyp@umd.edu, Courses: SURV 829, SURV 699
+Frauke Kreuter, Email: fkreuter@umd.edu, Courses: SURV 699
+Sharan Sharma, Email: snsharma@umd.edu, Courses: SURV 720
+Joerg Drechsler, Email: jdrechsl@umd.edu, Courses: SURV 726
+Brian Kim, Email: kimbrian@umd.edu, Courses: SURV 727
+Christoph Kern, Email: ckern@umd.edu, Courses: SURV 727, SURV 753
+Brady West, Email: bwest12@umd.edu, Courses: SURV 740
+Trent Buskirk, Email: tbuskirk@umd.edu, Courses: SURV 753
+Sunghee Lee, Email: slee1223@umd.edu, Courses: SURV 829
+Carla Della Gatta, Email: carla@umd.edu, Courses: THET 700, THET 600
+James Harding, Email: jharding@umd.edu, Courses: THET 608M
+Susan O'Neill, Email: sgoneill@umd.edu, Courses: THET 633
+Misha Kachman, Email: mkachman@umd.edu, Courses: THET 639, THET 680
+Helen Huang, Email: hhuang@umd.edu, Courses: THET 645, THET 649
+Amith Chandrashaker, Email: amith@umd.edu, Courses: THET 659, THET 669O
+Andrew Cissna, Email: acissna@umd.edu, Courses: THET 669T
+Kate Keeney, Email: kkeeney@umd.edu, Courses: THET 669U
+Caitlin Marshall, Email: csmars@umd.edu, Courses: THET 713
+Theresa Robinson, Email: tnebrob1@umd.edu, Courses: TLPL 689, TLPL 678, TLPL 618, TLPL 698
+Andrew Elby, Email: elby@umd.edu, Courses: TLPL 795, TLPL 621
+Daman Harris, Email: dharris5@umd.edu, Courses: TLPL 625
+Ying Alice Zhang, Email: yzhang88@umd.edu, Courses: TLPL 645
+Reka Barton, Email: rbarton@umd.edu, Courses: TLPL 652
+Amanda Cataneo, Email: acataneo@umd.edu, Courses: TLPL 656
+Shenika Hankerson, Email: sdhanker@umd.edu, Courses: TLPL 661
+Jeff MacSwan, Email: macswan@umd.edu, Courses: TLPL 664
+Jessica Crawford, Email: jcraw1@umd.edu, Courses: TLPL 665
+Kellie Rolstad, Email: rolstad@umd.edu, Courses: TLPL 666
+Meghan Comstock, Email: mccom@umd.edu, Courses: TLPL 671
+Antonio Perez Belda, Email: anperez@umd.edu, Courses: TLPL 689, TLPL 678, TLPL 695, TLPL 696
+Campbell Scribner, Email: cfscrib@umd.edu, Courses: TLPL 681
+Amy Green, Email: amygreen@umd.edu, Courses: TLPL 688
+Jonathan Rivera, Email: jriver05@umd.edu, Courses: TLPL 688X
+Loren Jones, Email: cjones26@umd.edu, Courses: TLPL 689
+Claudia Galindo, Email: galindo@umd.edu, Courses: TLPL 692, TLPL 788M
+Daniel Levin, Email: dlevin2@umd.edu, Courses: TLPL 698
+Melanie Hardy-Skeberdis, Email: mhardy@umd.edu, Courses: TLPL 704
+Sarah McGrew, Email: mcgrew@umd.edu, Courses: TLPL 708A
+Andrew Brantlinger, Email: amb@umd.edu, Courses: TLPL 713, TLPL 728
+Margaret Marcus, Email: mmarcus@umd.edu, Courses: TLPL 743
+Danett Song, Email: dsong619@umd.edu, Courses: TLPL 764
+Sung-Woo Cho, Email: swcho@umd.edu, Courses: TLPL 765
+Tara Brown, Email: tmbrown@umd.edu, Courses: TLPL 774, TLPL 788E
+Janet Walkoe, Email: jwalkoe@umd.edu, Courses: TLPL 788K
+Cesar Guitunga, Email: cguitu@umd.edu, Courses: TLPL 788Q
+Rossina Liu, Email: rzliu@umd.edu, Courses: TLPL 788U
+Laura Mahalingappa, Email: lmaha@umd.edu, Courses: TLPL 788V
+Keisha Allen, Email: allenk@umd.edu, Courses: TLPL 788Z
+Jennifer Turner, Email: jdturner@umd.edu, Courses: TLPL 791
+Nihat Polat, Email: npolat@umd.edu, Courses: TLPL 794
+Alibi Shokputov, Email: ashokput@umd.edu, Courses: URSP 601
+Dawn Jourdan, Email: djourdan@umd.edu, Courses: URSP 603
+Kathryn Howell, Email: klhowell@umd.edu, Courses: URSP 709, URSP 605
+Chengri Ding, Email: cding@umd.edu, Courses: URSP 709, URSP 606
+David Rouse, Email: drouse@umd.edu, Courses: URSP 688I
+Hiroyuki Iseki, Email: hiseki@umd.edu, Courses: URSP 810, URSP 709, URSP 688L
+Ariel Bierbaum, Email: bierbaum@umd.edu, Courses: URSP 709, URSP 688X
+Willow Lung Amam, Email: lungamam@umd.edu, Courses: URSP 688Z, URSP 709
+Clara Irazabal Zurita, Email: irazabal@umd.edu, Courses: URSP 709, URSP 708
+Kevin Nelson, Email: knelso13@umd.edu, Courses: URSP 708
+Casey Dawkins, Email: dawkins1@umd.edu, Courses: URSP 804, URSP 709
+Gerrit Knaap, Email: gknaap@umd.edu, Courses: URSP 709
+Marccus Hendricks, Email: mdh1@umd.edu, Courses: URSP 709
+George Belov, Email: gbelov@umd.edu, Courses: VMSC 610
+Alix Berglund, Email: akberglu@umd.edu, Courses: VMSC 698
+Seth Dickey, Email: sdickey@umd.edu, Courses: VMSC 758
+Meiqing Shi, Email: mshi@umd.edu, Courses: VMSC 760
+Jaekeun Park, Email: jpark138@umd.edu, Courses: VMSC 760
+Sayan Bhattacharya, Email: sayanb@umd.edu, Courses: WGSS 601
+Alexis Lothian, Email: alothian@umd.edu, Courses: WGSS 618
+Zenzele Isoke, Email: zisoke@umd.edu, Courses: WGSS 628

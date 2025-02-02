@@ -1,0 +1,1220 @@
+Melissa Welsh, Courses: AGST640
+Maria Cameron, Courses: CMSC660, AMSC660
+Tobias von Petersdorff, Courses: AMSC666
+Dionisios Margetis, Courses: MATH673, AMSC673
+Konstantina Trivisa, Courses: AMSC698Q
+Eitan Tadmor, Courses: AMSC715, MATH858F
+Abba Gumel, Courses: AMSC721
+Instructor: TBA, Courses: BCHM889C, MUSC832A, MUSC629H, AMSC760, BCHM889M, BCHM889J, URSP709, BMGT848F, BCHM889P, HESP601, MUSC800W, BMGT878C, MUSC669V, DANC788, BCHM889F, DANC779, NIAS788W, BCHM889D, MUSC689, MUSC830W
+Radu Balan, Courses: AMSC762, MATH632
+Bayley Marquez, Courses: AMST878B, AMST601, AMST878A, AMST878C
+Eva Hageman, Courses: AMST628C, WGSS698E
+Cecile Accilien, Courses: FREN699D, AMST628G
+Psyche Williams-Forson, Courses: AMST629D
+Neel Ahuja, Courses: WGSS698A, AMST629F
+Diana Marsh, Courses: HIST610, ANTH655, AMST655, INST653
+Paul Jaeger, Courses: AMST857, ANTH857, INST787, HIST811, INST613
+Richard Kohn, Courses: ANSC625, ANSC624
+Tom Porter, Courses: ANSC644, BISI712
+Zhengguo Xiao, Courses: ANSC688I
+Debabrata Biswas, Courses: ANSC688M
+Younggeon Jin, Courses: ANSC688O
+Matthew Thomann, Courses: ANTH601, ANTH615
+Christina Getrich, Courses: ANTH606
+Andrea Lopez, Courses: ANTH612
+Matthew Gray, Courses: ANTH620, MEES620
+Matthew Houser, Courses: ANTH620, MEES620
+Miguel Vilar, Courses: ANTH625
+Paul Shackel, Courses: ANTH640
+Matthew Palus, Courses: ANTH799, ANTH741, ANTH749
+Marie Archambeault, Courses: ANTH743
+Lyle Torp, Courses: ANTH747
+Kelly Hockersmith, Courses: ANTH751
+Michael Konzak, Courses: ANTH752
+Kathryn Lafrenz Samuels, Courses: ANTH760
+Jonathan Poterjoy, Courses: AOSC600
+Da-Lin Zhang, Courses: AOSC610
+Russell Dickerson, Courses: AOSC620
+Jeffrey Henrikson, Courses: AOSC652
+Jacob Wenegrat, Courses: GEOL670, AOSC670
+Ross Salawitch, Courses: AOSC680
+Julie Gabrielli, Courses: ARCH600, ARCH797
+Daniel Curry, Courses: ARCH600
+Brittany L Williams, Courses: ARCH600
+Deokoh Woo, Courses: ARCH611
+Jana VanderGoot, Courses: ARCH618F
+Joseph Williams, Courses: ARCH628C, ARCH628N
+Michele Lamprakos, Courses: ARCH628K, ARCH678J
+Juan Burke, Courses: ARCH655
+Eric Jenkins, Courses: ARCH668P
+Peter Noonan, Courses: ARCH678C
+Debarati Majumdar Narayan, Courses: ARCH678Z
+Georgeanne Matthews, Courses: RDEV689Y, ARCH700
+Matthew Bell, Courses: ARCH700
+Andrew Pressman, Courses: ARCH770
+Hooman Koliji, Courses: ARCH797
+Lars Olson, Courses: AREC620
+Erich Battistin, Courses: AREC623
+James Archsmith, Courses: AREC785
+Cory Smith, Courses: AREC832
+Erik Lichtenberg, Courses: AREC891, AREC892
+Anthony Colantuono, Courses: ARTH638A
+Elizabeth Honig, Courses: ARTH698, ARTH692
+Joshua Shannon, Courses: ARTH698
+Maryl Gensheimer, Courses: ARTH698
+Emily Egan, Courses: ARTH698
+Karin Zitzewitz, Courses: ARTH788A, ARTH698
+Katherine Guinness, Courses: ARTT768
+Eliza Kempton, Courses: ASTR695, ASTR601
+Jessica Sunshine, Courses: ASTR630
+Christopher Reynolds, Courses: ASTR680
+Andrew Harris, Courses: ASTR688B
+Paul Paukstelis, Courses: BCHM661
+Jason Kahn, Courses: BCHM662
+Yanxin Liu, Courses: BCHM889A, BCHM671
+Myles Poulin, Courses: BCHM698
+Kunpeng Zhang, Courses: BDBA822, BMSO758Q, BDBA808C, BMGT808X, BDBA804, BUSM758V
+Balaji Padmanabhan, Courses: BDBA806
+Jui Ramaprasad, Courses: BDBA808A, BUDT756
+Bharti Motwani, Courses: BDBA808E, BMSO758V
+John Bono, Courses: BDBA808P, BUDT738, BMSO758P, BMSO601
+Erkut Ozbay, Courses: ECON635, BDBA820
+Ali Faraji-Rad, Courses: BUMK724, BDBA858A
+Pallassana Kannan, Courses: BUSI758V, BUSO758A, BUSM715, BDBA858G
+Siva Viswanathan, Courses: BUSO731, BDBA858J, BMGT808R, BUDT722
+Melissa Lucas, Courses: COMM686, BDBA858K, BUMK758G
+Judy Frels, Courses: BUSI787, BMGT612, BDBA858M, BUMK720, BUSM612, BUSO701
+Wendy Moe, Courses: BUSM758W, BDBA858N
+Yogesh Joshi, Courses: BDBA858P, BUSI781, BUSM706
+Mary Beth Furst, Courses: BUSI737, BUSI600, BUMK760, BUSO700, BMSO778M, BDBA858Q
+Steven Jay, Courses: BIOE605, BIOE689J
+Jenna Mueller, Courses: BIOE608
+Erika Moore, Courses: BIOE608
+Jose Aranda-Espinoza, Courses: BIOE610
+Huang Chiao Huang, Courses: BIOE612
+Austin Tapp, Courses: BIOE651
+Bahaa Ghammraoui, Courses: BIOE658J
+Valerie Merkle, Courses: BIOE658R
+Deborah Goldberg, Courses: BIOE674
+Alexander Xu, Courses: BIOE689F
+Katharina Maisel, Courses: BIOE689G
+Leonid Koralov, Courses: DATA601, BIOI601, MSML601
+Sandra Cerrai, Courses: DATA601, BIOI601, MSML601
+Jonathan Fernandes, Courses: DATA601, BIOI601, MSML601
+Christopher Cameron, Courses: DATA601, BIOI601, MSML601
+Stefan Doboszczak, Courses: DATA601, BIOI601, MSML601
+Roohollah Ebrahimian, Courses: MATH600, DATA601, BIOI601, MSML601
+Anna Szczekutowicz, Courses: DATA601, BIOI601, MSML601
+Mohammad Nayeem Teli, Courses: DATA602, MSML602, BIOI602
+Fardina Alam, Courses: DATA602, MSML602, BIOI602
+Maksym Morawski, Courses: DATA602, MSML602, BIOI602
+Charles Forgy, Courses: DATA602, MSML602, BIOI602
+Heng Huang, Courses: DATA602, MSML602, BIOI602
+Tammy Perrin, Courses: DATA602, MSML602, BIOI602
+Babak Azimi-Sadjadi, Courses: BIOI603, MSQC603, MSML603, DATA603
+Alejandra Mercado, Courses: MSML603, BIOI603, ENTS622, MSQC603, DATA603
+Kemal Davaslioglu, Courses: BIOI603, MSQC603, MSML603, DATA603
+Richard La, Courses: BIOI603, MSQC603, MSML603, DATA603
+Najib El-Sayed, Courses: BIOI604, BISI620, BISI622
+Volker Briken, Courses: BIOI604
+Shaojun Xie, Courses: BIOI611
+Nakyung Lee, Courses: BIOI621
+Gili Ad-Marbach, Courses: ENTM699K, BIOL608K, CBMG699K, CHEM608K
+Jonathan Simon, Courses: BIOL667
+Sergei Sukharev, Courses: BIPH704, BIOL704
+Gerald Wilkinson, Courses: BIOL708B
+Ricardo Araneda, Courses: BIOL708Q, NACS608, NACS728J
+Scott Juntti, Courses: BIOL709W
+Li Ma, Courses: BIOM601, BIOM688E
+Jiuzhou Song, Courses: BIOM688E
+Mohamed Salem, Courses: BIOM688E
+Arpita Upadhyaya, Courses: CHPH709L, BIPH698L, PHYS798L
+Daniel Gruner, Courses: BISI610
+Michael Cummings, Courses: BISI620
+Stephen Mount, Courses: BISI622, CBMG699D
+Wade Winkler, Courses: BISI701, ENTM701
+Leslie Pick, Courses: BISI701, ENTM701, ENTM788C
+David Mosser, Courses: CBMG699X, CBMG688J, BISI712
+Sheetal Singh, Courses: BMGT600
+Nick Seybert, Courses: BUSM602, BUAC707, BMGT602
+Ashish Kabra, Courses: BMGT606, BUSI718D, BULM710
+James Seward, Courses: BUSO758G, BMGT610
+Jennifer Marr, Courses: BMGT758E, BMGT868P
+Rellie Rozin, Courses: BMGT759, BMGT758N, BMSO759, BUSI710, BMGT868D
+Stephen Sclafani, Courses: BMGT758Z
+Jessica Clark, Courses: BUDT733, BMGT808Y
+Sean Cao, Courses: BMGT818E, BUAC758Y, BUAC731
+Michael Kimbrough, Courses: BMGT818R
+Raghu Raghavan, Courses: BMGT830
+Michael Fu, Courses: BMGT834
+Zhi-Long Chen, Courses: EMBA788W, BMGT838R, BUSM788W, BUSI788W, BUSO788W
+Yueyang Han, Courses: BMGT840
+Vojislav Maksimovic, Courses: BMGT848A, BUFN721
+Bo Zhou, Courses: BUMK773, BMGT858G
+Joseph Reiff, Courses: BMGT858R
+David Kirsch, Courses: BMGT868C
+Gilad Chen, Courses: BMGT868N
+Subrahmaniam Tangirala, Courses: BUSI662, BMGT868R
+Serguey Braguinsky, Courses: BMGT878M
+Brent Goldfarb, Courses: BUSI793, BMGT878P, BMGT878Y, BUSM798C
+Waverly Ding, Courses: BMGT878P
+David Waguespack, Courses: BMGT878R
+Evan Starr, Courses: BMGT878Y
+Sining Song, Courses: BMGT888W, BMGT888A
+Wilbur Chung, Courses: BMGT888B
+Maria Bardossy, Courses: BMSO600, BULM711
+Michael Trusov, Courses: BUMK766, BMSO758A
+Michel Wedel, Courses: BUMK742, BMSO758E
+Progyan Basu, Courses: BMSO778A
+Sarah Wolek, Courses: BMSO778C
+Alan Briggs, Courses: BMSO778D
+Susan White, Courses: BMSO778F
+Roy Thomason, Courses: BUSI662, BMSO778L
+Gosia Langa Basit, Courses: BMSO778N, BUSO711
+Thomas Guarrieri, Courses: BSST697, BSST630
+Jeffrey Davis, Courses: BSST634
+Sandra Scham, Courses: BSST635
+Marcus Boyd, Courses: BSST640
+Steve Sin, Courses: BSST650
+Anthony Kraemer, Courses: BSST651
+Naman Desai, Courses: BUSI611, BUSM616, BUAC710
+Samuel Handwerger, Courses: BUAC772, BUAC712
+James McKinney, Courses: BUAC722, BUAC716
+Jon Crocker, Courses: BUAC721, BULM758P
+Tunay Tunca, Courses: BUAC740, BUSM606
+Lu Zhang, Courses: BUAC746, BUSO616
+Darian Harnish, Courses: BUAC758A
+Lei Zhou, Courses: BUAC758Y
+Brian Jefferson, Courses: BUAC764, BUAC762
+Cary Gillett, Courses: BUDT700
+Woei-jyh Lee, Courses: BUDT702, BUDT703
+Manmohan Aseri, Courses: BUDT704
+Peng Huang, Courses: BUDT704
+Xiaojia Guo, Courses: BUDT705
+Tejwansh Anand, Courses: BUDT721, BUDT738
+Paul Shapiro, Courses: BUDT748, BUDT724
+Sujin Kim, Courses: BUSO603, BUDT730, BUDT731
+Alexander Estes, Courses: BUDT732
+Minoo Modaresnezhad, Courses: BUDT757, BUDT748
+Harish Neelakandan, Courses: BUDT758I
+Yi Xu, Courses: BUDT758L
+Kenyon Crowley, Courses: BUDT758M
+Suresh Acharya, Courses: BUSO624, BUDT758W
+Liu Yang, Courses: BUFN610, BUFN630
+Sarah Kroncke, Courses: BUFN620
+Serhiy Kozak, Courses: BUFN640, BUFN650
+Steven Heston, Courses: BUFN660
+Pablo Slutzky, Courses: BUSI741, BUFN717
+Mark Loewenstein, Courses: BUFN734, BUSI758K
+Russell Wermers, Courses: BUFN736
+Kenneth Fuller, Courses: BUSI758F, BUFN741
+George Gao, Courses: BUFN742
+Seokwoo Lee, Courses: BUFN758D
+Humberto Coronado, Courses: BULM700, BULM701, BULM721
+Philip Evers, Courses: BULM742
+Jewelyn Harrington, Courses: BULM750, BULM751
+Geoffrey Milsom, Courses: BULM756
+Hongyi Zhang, Courses: BUSO751, BULM758C
+Niratcha Tungtisanont, Courses: BULM758F
+Nima Farshchi, Courses: BULM758Z
+Jason Choi, Courses: BUMK726
+Christine Schaaf, Courses: BUMK758G
+Paulo Prochno, Courses: BUSI602
+Kazim Ruhi, Courses: BUSI634, ENTS635
+Anand Anandalingam, Courses: BUSI634
+Dan Goldsmith, Courses: BUSI650
+Cathy Yi Chen, Courses: BUSI650
+Rosellina Ferraro, Courses: BUSI650, EMBA789N
+Bennet Zelner, Courses: BUSI681
+Vijaya Venkataramani, Courses: BUSO711, BUSM754, BUSI710
+Ramakrishnan Balasubramanian, Courses: BUSI718D
+Joseph Bailey, Courses: BUSI791
+Nicole Coomber, Courses: BUSM600
+Rachelle Sampson, Courses: BUSM604, BUSO604
+Il-Horn Hann, Courses: BUSM621
+Richmond Mathews, Courses: BUSM758J, BUSM758P
+Myeong-Gu Seo, Courses: BUSM758N
+Haluk Unal, Courses: BUSM758T
+Neta Moye, Courses: BUSO600
+Michael Lipsitz, Courses: BUSO604
+Henry Boyd, Courses: BUSO612
+Norma Andrews, Courses: CBMG688C
+Wenxia Song, Courses: CBMG688D
+Sougata Roy, Courses: CBMG688D
+Roy Mariuzza, Courses: CBMG688J
+Margaret Scull, Courses: CBMG688K
+Jeffrey DeStefano, Courses: CBMG688K
+Amy Beaven, Courses: CBMG688W
+Brian Johnson, Courses: CCJS600
+Sarah Tahamont, Courses: CCJS620
+Lester Andrist, Courses: CCJS632, CCJS631
+Min Xie, Courses: CCJS650
+Robert Stewart, Courses: CCJS653
+Lauren Porter, Courses: CCJS654
+Maria Velez, Courses: CCJS699I
+Rachel Ellis, Courses: CCJS699Q
+Robert Brame, Courses: CCJS710
+Greg Midgette, Courses: CCJS720
+Peter Kofinas, Courses: CHBE609
+Michael Kio, Courses: CHBE610
+Jeffery Klauda, Courses: CHBE610
+Panagiotis Dimitrakopoulos, Courses: CHBE620
+Po-Yen Chen, Courses: CHBE652
+Akua Asa-Awuku, Courses: CHBE672
+Paul Albertus, Courses: CHBE673
+Kyu Yong Choi, Courses: CHBE690
+Taylor Woehl, Courses: CHBE693
+Chen Zhang, Courses: CHBE694
+Lawrence Sita, Courses: CHEM601
+Xiaodong Shi, Courses: CHEM640, CHEM611
+Sangbok Lee, Courses: CHEM624
+Benjamin Boyle, Courses: CHEM641
+Zhiwei Li, Courses: CHEM684
+Hongzhou Ye, Courses: CHEM690
+Alice Mignerey, Courses: CHEM889A
+Andrei Vedernikov, Courses: CHEM889D, CHEM889C
+Leah Dodson, Courses: CHPH709A, CHEM889F, CHEM889E
+Yun Liu, Courses: CHPH633, ENMA633
+Pratyush Tiwary, Courses: CHPH709B, PHYS709
+Wendell Hill, Courses: CHPH718I
+Cristina Banuelos, Courses: CLFS609K
+Marjan Alaghmand, Courses: CLFS610
+Oliver Gaycken, Courses: CMLT679B, ENGL759E
+Dave Levin, Courses: CMSC614
+Abhinav Bhatele, Courses: CMSC616
+Leonidas Lampropoulos, Courses: CMSC631
+Daniel Gottesman, Courses: CMSC657
+Thomas Goldstein, Courses: CMSC673
+Erin Molloy, Courses: CMSC702
+Nirupam Roy, Courses: CMSC715
+Mark Roberts, Courses: CMSC722
+Jordan Ying, Courses: LING723, INST735, CMSC723
+Naomi Feldman, Courses: LING723, INST735, LING888, CMSC723
+Amol Deshpande, Courses: CMSC724
+Huaishu Peng, Courses: CMSC730
+Michelle Mazurek, Courses: CMSC732
+Matthias Zwicker, Courses: CMSC740
+Uzi Vishkin, Courses: CMSC751, ENEE651, ENEE641
+Ramani Duraiswami, Courses: CMSC801, CMSC828N
+Pratap Tokekar, Courses: CMSC818B
+Yizheng Chen, Courses: CMSC818I
+Bahar Asgari, Courses: CMSC818J, ENEE759C
+Ian Miers, Courses: CMSC818L
+Rachel Rudinger, Courses: CMSC828J
+David Jacobs, Courses: CMSC828P
+Milijana Surbatovich, Courses: CMSC838N
+Jun Nishida, Courses: CMSC839A
+Gabriel Kaptchuk, Courses: CMSC839C, INST878D
+Ido Sivan-Sevilla, Courses: CMSC839C, INST878D, INST771
+Fumeng Yang, Courses: CMSC839E
+Christopher Metzler, Courses: CMSC848B, ENEE739Z
+Jia-Bin Huang, Courses: CMSC848K
+Ang Li, Courses: ENEE759Z, CMSC848Z
+Aravind Srinivasan, Courses: CMSC858A
+Ganga Dhanesh, Courses: COMM630
+Damien Pfister, Courses: MITH729, COMM698M, COMM652
+Sun Young Lee, Courses: COMM700
+Shawn Parry-Giles, Courses: COMM711
+Carina Zelaya, Courses: COMM715
+Kang Namkoong, Courses: COMM730
+Maura Keefe, Courses: DANC719, DANC788, DANC699, DANC600
+Crystal Davis, Courses: DANC604, THET606, DANC788
+Kendra Portier, Courses: DANC689G, DANC610, DANC628, DANC608, DANC777
+Lins Derry, Courses: THET608F, DANC608, DANC689F
+Samuel Crawford, Courses: DANC610, THET669I
+Ama Law, Courses: DANC689P, DANC689M, DANC648, DANC649, DANC689R
+Adriane Fang, Courses: DANC649, DANC779, DANC648, DANC788
+Patrik Widrig, Courses: DANC689M, DANC788
+Alvin Mayes, Courses: DANC779, DANC788
+Sara Pearson, Courses: DANC788
+Vincent Lyzinski, Courses: STAT705, DATA607
+Shabnam Tafreshi, Courses: DATA641, MSML641
+Samet Ayhan, Courses: MSML650, DATA650
+John Shea, Courses: ECON709, ECON601
+Boragan Aruoba, Courses: ECON601, ECON630, ECON808
+Lawrence Ausubel, Courses: ECON603
+Emel Filiz Ozbay, Courses: ECON603
+Jessica Goldberg, Courses: ECON616, ECON878
+Guido Kuersteiner, Courses: ECON623, ECON626
+Andrew Sweeting, Courses: ECON625
+Yusuf Masatlioglu, Courses: ECON637, ECON868
+Filipe Lage de Sousa, Courses: ECON641, ECON643
+Aaron Finkle, Courses: ECON641
+Colin Caines, Courses: ECON642
+John Straub, Courses: ECON643
+Ye Zhang, Courses: ECON645
+Samuel Rowe, Courses: ECON645
+Ginger Jin, Courses: ECON664
+Joonkyu Choi, Courses: ECON670
+Yong Paek, Courses: ECON674
+Steven Payson, Courses: ECON676
+Mahsa Agha Gholizadeh, Courses: ECON683
+Thomas Rumbaugh, Courses: ECON683
+Christian Krestel, Courses: ECON687
+Christopher Adams, Courses: ECON687
+John Haltiwanger, Courses: ECON701
+Daniel Vincent, Courses: ECON703
+Sergio Urzua, Courses: ECON708
+John Chao, Courses: ECON721, ECON828
+Pierre De Leo, Courses: ECON741
+Pablo Ottonello, Courses: ECON744
+Allan Drazen, Courses: ECON754
+Judith Hellerstein, Courses: ECON771
+Bridget Kelly, Courses: EDCP610, EDCP772
+Natasha Wyatt, Courses: EDCP610
+Jorinna Tran, Courses: EDCP615, EDCP614
+Jessica McKechnie, Courses: EDCP616, EDCP879
+Carlton Green, Courses: EDCP619B
+Paul Gold, Courses: EDCP622
+Colleen O'Neal, Courses: EDCP641, EDCP635, EDCP640
+Ileana Gonzalez, Courses: EDCP652
+Pepper Phillips, Courses: EDCP682
+Delida Sanchez, Courses: EDCP685
+Roger Worthington, Courses: EDCP695, EDCP698
+Richard Shin, Courses: EDCP697
+Ruogu Wang, Courses: EDCP700
+Chunyan Yang, Courses: EDCP717, EDCP746
+Megan Vaganek, Courses: EDCP738
+Christopher Travers, Courses: EDCP741, EDCP870
+Candace Moore, Courses: EDCP789R, EDCP775
+Michelle Espino, Courses: EDCP789R, EDCP798A
+Patty Perillo, Courses: EDCP871
+James McShay, Courses: EDCP871
+Marsha Guenzler-Stevens, Courses: EDCP888A
+Kristan Skendall, Courses: HESI672, EDCP888A
+Annie Goldthrite, Courses: EDCP888C
+Hedwig Teglasi, Courses: EDCP888C
+Cixin Wang, Courses: EDCP889C, EDCP888C
+Jioni Lewis, Courses: EDCP889C
+Patricia Alexander, Courses: EDHD629
+Richard Prather, Courses: EDHD629, EDHD780
+Lucas Butler, Courses: EDHD690
+Jennie Lee-Kim, Courses: EDHD718
+Natasha Cabrera, Courses: EDHD750
+Zeena Zakharia, Courses: EDHI680, EDHI605
+Steven Klees, Courses: EDHI672, EDHI606
+Sharon Fries-Britt, Courses: EDHI888, EDHI650
+Ashley Ogwo, Courses: EDHI652
+Awilda Rodriguez, Courses: EDHI888, EDHI665
+Jing Lin, Courses: EDHI750
+Marvin Titus, Courses: EDHI888
+Jeongeun Kim, Courses: EDHI888
+Hong Jiao, Courses: EDMS623
+Weimeng Wang, Courses: EDMS645
+Tessa Johnson, Courses: EDMS646
+Ji Seung Yang, Courses: EDMS651
+Tracy Sweet, Courses: EDMS655
+Jeffrey Harring, Courses: EDMS657, EDMS779M
+Peter Steiner, Courses: EDMS769C
+Seyma Intepe Tingir, Courses: EDSP625, EDSP602, EDSP690
+Heather Stormont, Courses: EDSP602
+Gulnoza Yakubova, Courses: EDSP670, EDSP604, EDSP860
+Kelli Cummings, Courses: EDSP613
+Carolyn Fink, Courses: EDSP623
+Alicia Woolf, Courses: EDSP652
+Kelly Piantedosi, Courses: EDSP652
+Sehrish Shikarpurya, Courses: EDSP671
+Lawrence Leak, Courses: EDSP678E
+Carl Lashley, Courses: EDSP678Q
+Lawrence Wexler, Courses: EDSP678W
+Katryna Andrusik, Courses: EDSP684
+Stacey Williams, Courses: EDSP692
+Paula Beckman, Courses: EDSP888M
+Brian King, Courses: EDUC646
+Sheila Jackson, Courses: EDUC670
+Christine Neumerski, Courses: EDUC702
+Drew Fagan, Courses: EDUC705
+Douglas Anthony, Courses: EDUC888
+Jeffrey Mund, Courses: EMBA798G
+Jacqueline Manger, Courses: EMBA798G
+Christine Hartzell, Courses: ENAE601
+Brent Barbee, Courses: ENAE603
+Inderjit Chopra, Courses: ENAE631, ENAE651
+Anubhav Datta, Courses: ENAE655, ENAE636
+Robert Sanner, Courses: ENAE641
+Ray Sedwick, Courses: ENAE662
+Pino Martin, Courses: ENAE673
+John Tritschler, Courses: ENAE681
+Stuart Laurence, Courses: ENAE686, ENAE682
+James Baeder, Courses: ENAE788G, ENAE684
+Christoph Brehm, Courses: ENAE686
+Jared Grauer, Courses: ENAE788B
+David Akin, Courses: ENAE788D, ENAE788X
+Liam Healy, Courses: ENAE788L
+Qingbin Cui, Courses: ENCE602
+John Johnson, Courses: ENCE662, ENCE607
+Yunfeng Zhang, Courses: ENCE613
+Shana Webster-Trotman, Courses: ENCE614
+Bilal Ayyub, Courses: ENSE698R, ENCE620, ENRE648M
+Miroslaw Skibniewski, Courses: ENCE622
+Gregory Baecher, Courses: ENCE627
+Michelle Bensi, Courses: ENCE688T, ENCE633
+Jongwan Eun, Courses: ENCE640
+Allen Davis, Courses: ENCE650
+Alba Torrents Capdevila, Courses: ENCE651, MEES698W
+Guangbin Li, Courses: ENCE652
+Mark Groff, Courses: ENCE664
+Thomas Powell, Courses: ENCE664
+Thomas Barham, Courses: ENCE664
+Neil Schulman, Courses: ENCE666
+Gang-Len Chang, Courses: ENCE670
+Paul Schonfeld, Courses: ENCE672
+Nii O Attoh-Okine, Courses: ENCE688B
+Cinzia Cirillo, Courses: ENCE688I
+Agisilaos Iliadis, Courses: ENEE600
+Reza Ghodssi, Courses: ENEE605
+Timothy Horiuchi, Courses: ENEE611
+Alexander Barg, Courses: ENEE620
+Behtash Babadi, Courses: ENEE630
+Donald Yeung, Courses: ENEE646
+John Baras, Courses: ENEE660
+Nuno Martins, Courses: ENEE662
+Mohammad Hafezi, Courses: ENEE680
+Edo Waks, Courses: ENEE690
+Sennur Ulukus, Courses: ENEE698Q
+Cunxi Yu, Courses: ENEE759U
+Perinkulam Krishnaprasad, Courses: ENEE762
+Mario Dagenais, Courses: ENEE789D
+Ronald Walsworth, Courses: ENEE789W
+Thomas Murphy, Courses: ENEE791
+Amy Karlsson, Courses: ENES602
+Min Wu, Courses: ENES604
+Damien Peters, Courses: ENES660
+James Green, Courses: ENES662
+Sharon Flank, Courses: ENES663
+Frankie Abralind, Courses: ENES665
+Harry D'Andrea, Courses: ENES672
+Michael Pratt, Courses: ENES673
+Michael O'Connor, Courses: ENES674
+Tushar Rathod, Courses: ENES680
+Mark Hopkins, Courses: ENFP610
+Arnaud Trouve, Courses: ENFP619
+Shuna Ni, Courses: ENFP621
+Duane Johnson, Courses: ENFP627
+James Milke, Courses: ENFP627
+Peter Sunderland, Courses: ENFP651
+Marc Janssens, Courses: ENFP652
+Gerald Haynes, Courses: ENFP661
+David Icove, Courses: ENFP661
+Andrew Kohout, Courses: ENFP664
+Noah Ryder, Courses: ENFP664
+Stanislav Stoliarov, Courses: ENFP671
+Tita Chico, Courses: ENGL601
+Joshua Weiner, Courses: ENGL688
+Gabrielle Fuentes, Courses: ENGL689
+Sangeeta Ray, Courses: ENGL709A
+Jason Rudy, Courses: ENGL738C, ENGL809
+Christina Walter, Courses: ENGL749A, ENGL798B
+Lillian-Yvonne Bertram, Courses: ENGL759F
+Scott Wible, Courses: ENGL776
+Gerard Passannante, Courses: ENGL888
+Yifei Mo, Courses: ENMA600
+Gibson Scisco, Courses: ENMA616
+Daphne Fuentevilla, Courses: ENMA616
+Julie Simmons, Courses: ENMA616
+Aristos Christou, Courses: ENMA626, ENRE600
+Ichiro Takeuchi, Courses: ENMA637, ENMA797
+Aaron Kusne, Courses: ENMA637
+John Cumings, Courses: ENMA641
+Shenqiang Ren, Courses: ENMA650
+Oded Rabin, Courses: ENMA660
+Sreeramamurthy Ankem, Courses: ENMA664
+Jiancun Rao, Courses: ENMA683, ENMA680
+Timothy Koeth, Courses: ENMA688
+Jin-Oh Hahn, Courses: ENME605
+Shapour Azarm, Courses: ENME610
+Bao Yang, Courses: ENME631
+Siddhartha Das, Courses: ENME640, ENPM672
+Eleonora Tubaldi, Courses: ENME645
+Amr Baz, Courses: ENME662
+Abhijit Dasgupta, Courses: ENME674
+Bongtae Han, Courses: ENME690
+Jay Lee, Courses: ENME737, ENRE648J, ENME691
+Avik Dutt, Courses: ENME692
+Kurt Radermacher, Courses: ENME701
+Michael Pecht, Courses: ENME737, ENRE648J
+Michael Azarian, Courses: ENME737, ENRE648J
+Steven Gabriel, Courses: ENRE648E, ENME741
+Ryan Sochol, Courses: ENME744
+Johan Larsson, Courses: ENME745
+Jelena Srebric, Courses: ENME753
+Michael Ohadi, Courses: ENME808Q
+Yancy Diaz-Mercado, Courses: ENME808T
+A Seyed, Courses: ENPM606
+Christopher Ackermann, Courses: ENPM611
+Karthikeyan Chandrashekar, Courses: ENPM611
+Tony Barber, Courses: ENPM808J, ENPM613, ENSE621
+Manoj Franklin, Courses: ENPM615, ENPM818G
+Jiazhen Ling, Courses: ENPM621
+Patrick Caton, Courses: ENPM622
+Karim Amrane, Courses: ENPM625
+Nikhil Chopra, Courses: ENPM633
+Michael Wittner, Courses: ENPM634
+Anindo Roy, Courses: ENPM640
+Josef Schaff, Courses: ENPM645
+Joshua Giltinan, Courses: ENPM655
+Mikael Lindvall, Courses: ENPM655
+Kyosung Choo, Courses: ENPM660
+Reza Monfaredi, Courses: ENPM662
+Thomas Dineen, Courses: ENPM665
+Everett Daviage, Courses: ENPM818R, ENPM818N, ENPM665
+Waseem Malik, Courses: ENPM667
+Gananand Kini, Courses: ENPM680
+Kevin Shivers, Courses: ENPM685
+Ryan Kropff, Courses: ENPM687
+Jonas Amoonarquah, Courses: ENPM687
+Wiehrs Collier, Courses: ENPM691
+Majid Raissi-Dehkordi, Courses: ENPM694
+Ido Dubrawsky, Courses: ENPM695
+Allen Hazelton, Courses: ENPM696
+Tommy Chang, Courses: ENPM700
+Zeid Kootbally, Courses: ENPM702
+George Zaki, Courses: ENPM703
+George Syrmos, Courses: ENPM808
+Benjamin Greene, Courses: ENPM809F
+Ashok Prajapati, Courses: ENPM818M
+Bertrand Sobesto, Courses: ENPM818P
+Katrina Groth, Courses: ENRE602
+Mohammad Modarres, Courses: ENRE641
+Yunfei Zhao, Courses: ENRE645
+Steven Biemer, Courses: ENSE623
+Dane Cooper, Courses: ENSE626
+Jennifer Mullinax, Courses: ENST689, ENST602
+Peter May, Courses: ENST603
+Paul Leisnham, Courses: ENST689, ENST606
+Raymond Weil, Courses: ENST689, ENST689X, ENST611
+Andrew Baldwin, Courses: ENST689, ENST650, MEES650
+William Bowerman, Courses: ENST689
+Frank Coale, Courses: ENST689
+Gary Felton, Courses: ENST689
+Reginal Harrell, Courses: ENST689
+Robert Hill, Courses: ENST689
+Patrick Kangas, Courses: ENST689
+Stephanie Lansing, Courses: ENST689
+Michael Kearney, Courses: ENST689
+Bahram Momen, Courses: ENST689
+Brian Needelman, Courses: ENST689
+Masoud Negahban-Azar, Courses: ENST689
+Mitchell Pavao-Zuckerman, Courses: ENST689
+Wendy Peer, Courses: ENST689, ENST689Y, PLSC608T
+Martin Rabenhorst, Courses: ENST689, ENST761
+David Tilley, Courses: ENST689
+Gurpal Toor, Courses: ENST689
+Stephanie Yarwood, Courses: ENST689
+Lance Yonkos, Courses: ENST689
+Jared Wilmoth, Courses: ENST689, ENST689M, ENST798
+Henry Gallo, Courses: ENST689, ENST798
+Marcia Shofner, Courses: ENTM710
+Huiyu Sheng, Courses: ENTM756
+Raymond StLeger, Courses: ENTM756
+Cerruti Hooks, Courses: ENTM769
+Kelly Hamby, Courses: ENTM798E
+Anahi Espindola, Courses: ENTM798E
+Joseph Augustine, Courses: ENTS630
+Zoltan Safar, Courses: ENTS640
+Michael Dellomo, Courses: ENTS656, ENTS657
+Jeff McKinney, Courses: ENTS669B
+Sanghamitra Dutta, Courses: ENTS669D
+Kamran Etemad, Courses: ENTS759I
+Edmond Shenassa, Courses: EPIB610, EPIB788
+Hongjie Liu, Courses: EPIB612
+Cher Dallal, Courses: EPIB642
+Yan Li, Courses: SURV740, EPIB650
+Mei-Ling Lee, Courses: EPIB651
+Tianzhou Ma, Courses: EPIB652
+Xin He, Courses: EPIB655
+Amanda Ng, Courses: EPIB697
+Mona Mittal, Courses: FMSC631, FMSC652
+Tiara Fennell, Courses: FMSC640, FMSC642, FMSC658
+Erica Turner, Courses: FMSC650
+Salwa Shan, Courses: FMSC745
+Christine Schull, Courses: FMSC750
+Julia Steinberg, Courses: FMSC850
+Mia Smith-Bynum, Courses: FMSC879
+Mel Scullen, Courses: FREN601
+Andrea Frisch, Courses: FREN629C
+Madeline Muravchik, Courses: FREN709
+Giovanni Baiocchi, Courses: GEOG601
+Laura Duncanson, Courses: GEOG642
+Xin Tao, Courses: GEOG652
+Jianguo Ma, Courses: GEOG797, GEOG653
+Jonathan Resop, Courses: GEOG654
+Jonathon Hathaway, Courses: GEOG661
+Ruibo Han, Courses: GEOG662, GEOG686
+John Armston, Courses: GEOG688T
+Kuishuang Feng, Courses: GEOG788F
+Leila De Floriani, Courses: GEOG798
+Sujay Kaushal, Courses: GEOL636, MEES698E
+Richard Walker, Courses: GEOL650
+Michael Evans, Courses: GEOL651
+Karen Prestegaard, Courses: GEOL652
+Mengqiang Zhu, Courses: GEOL688
+Megan Newcombe, Courses: GEOL789I, GEOL789A
+James Farquhar, Courses: GEOL789D
+Sarah Penniston-Dorland, Courses: GEOL789I
+John Scott, Courses: GERS618
+Julie Koser, Courses: GERS689L
+Hester Baer, Courses: GERS689N
+Lillian Doherty, Courses: GREK604
+Ernesto Calvo, Courses: GVPT600, GVPT729B
+Kristina Miler, Courses: GVPT870, GVPT600
+Richard Engstrom, Courses: GVPT601
+Deniz Cil, Courses: GVPT604, GVPT803
+David Cunningham, Courses: GVPT622
+Jacob Aronson, Courses: GVPT622
+Neil Lund, Courses: GVPT628
+Candace Turitto, Courses: GVPT635
+Shannon Carcelli, Courses: GVPT708A
+Hyunki Kim, Courses: GVPT708A
+Michael Hanmer, Courses: GVPT729A
+Johanna Birnir, Courses: GVPT729B
+Jennifer Wallace, Courses: GVPT761
+Breanna Gray, Courses: GVPT770
+Calvert Jones, Courses: GVPT888A
+John McCauley, Courses: GVPT888D
+Scott Kastner, Courses: GVPT889B
+Kai Kai Mascarenas, Courses: HESI671
+Jazmin Pichardo, Courses: HESI671
+Kimberly Jenkins, Courses: HESP606
+Yasmeen Shah, Courses: HESP610
+Jonet Artis, Courses: HESP613
+Nan Ratner, Courses: HESP626, HESP616
+C'Rai Weeden Shannon, Courses: HESP623
+Nancy Solomon, Courses: HESP624
+Samira Anderson, Courses: HESP630
+Paul Mayo, Courses: HESP639B
+Ed Bice, Courses: HESP639D
+Stacey Kane, Courses: HESP645
+Jessica Wertz, Courses: HESP648B, HESP648A
+Eliza Thompson, Courses: HESP648B, HESP702, HESP648A
+Eusebia Mont, Courses: HESP648B, HESP648A
+Ashley Webb, Courses: HESP648B, HESP648A
+Kristin Slawson, Courses: HESP648A
+Kathy Dow-Burger, Courses: HESP648B, HESP648A
+Courtney Overton, Courses: HESP648B
+Lacey Curry, Courses: HESP649A
+Lisa Rickard, Courses: HESP649A
+Christina Shields, Courses: HESP734, HESP649A
+Nicole Nguyen, Courses: HESP712, HESP649A, HESP729, HESP734, HESP829
+Sarah Sohns, Courses: HESP732, HESP649A
+Eric Hoover, Courses: HESP710, HESP700
+Matthew Goupell, Courses: HESP722, HESP712
+Kendell Adson, Courses: HESP736
+Susan Kern, Courses: HISP655, HISP710, HISP701, HISP660, HISP600, HISP629, HISP711
+John Sprinkle, Courses: HISP611
+Stefan Woehlke, Courses: HISP619P
+Michelle Magalong, Courses: HISP650
+Cristina Amoruso, Courses: HISP680
+Colleen Woods, Courses: HIST601
+Quincy Mills, Courses: HIST607
+Holly Brewer, Courses: HIST607
+Zachary Dorner, Courses: HIST608A
+Alejandro Caneque, Courses: HIST608G
+Melinda Baldwin, Courses: HIST608M
+Saverio Giovacchini, Courses: HIST608N
+Kenneth Cohen, Courses: HIST619F
+Christopher Bonner, Courses: HIST619G
+Madeline Hsu, Courses: HIST638G
+David Sicilia, Courses: HIST638I
+Matthew Miller, Courses: HIST638Q, PERS689T
+Sarah Cameron, Courses: HIST639Z
+Robyn Muncy, Courses: HIST819O
+Piotr H Kosicki, Courses: HIST819X
+Merianne Spencer, Courses: HLSA601
+Negin Fouladi, Courses: HLSA601
+Maushami DeSoto, Courses: HLSA611
+Shurooq Hasan, Courses: HLSA702
+Nate Apathy, Courses: HLSA711
+Xuanzi Qin, Courses: HLSA716
+Nina Omeaku, Courses: HLSA720
+Michel Boudreaux, Courses: HLSA727
+Rick Sperling, Courses: HLSA742
+Portia Buchongo, Courses: HLSA745
+Melvin Seale, Courses: HLSA750
+Jie Chen, Courses: HLSA765
+Priscilla Novak, Courses: HLSA770
+Lauren Edelstein, Courses: HLSA770
+Sherry Maykrantz, Courses: SPHL620, HLSA772
+Dahai Yue, Courses: HLSA775
+Dina Borzekowski, Courses: HLTH609
+Sandra Saperstein, Courses: HLTH672
+Aysha Jawed, Courses: HLTH672
+Cynthia Baur, Courses: HLTH674
+Elizabeth Aparicio, Courses: HLTH701
+Elaine Doherty, Courses: HLTH710
+Azieb Kidanu, Courses: HLTH710
+Hector Alcala, Courses: HLTH712, HLTH784
+Evelyn King-Marshall, Courses: HLTH778
+Meaghan McHugh, Courses: HLTH780
+Zahra Saboori, Courses: HLTH780
+Mira Azarm, Courses: IDEA659, IDEA698
+Christina Hnatov, Courses: IDEA659
+Ping Wang, Courses: INFM620, INFM600
+Douglas Oard, Courses: INFM603
+David Loshin, Courses: INFM737, INST764
+Ryan O'Grady, Courses: LBSC631, INST600, LBSC724
+Amelia Gibson, Courses: INST600, INST680
+Eric Hung, Courses: INST604, LBSC708Y
+Melissa Wertheimer, Courses: INST604
+Jason Baron, Courses: INST607
+Dennis Frezzo, Courses: INST608A
+Beth St Jean, Courses: INST608Q
+Galina Reitz, Courses: INST610
+Ursula Gorham-Oscilowski, Courses: INST615
+Renee Hill, Courses: INST620
+Zach Drake, Courses: INST627
+Alex Leitch, Courses: INST705, INST630, INST711
+Caro Williams-Pierce, Courses: INST631
+Rachael Bradley-Montgomery, Courses: INST639L
+Angela Rodgers-Koukoui, Courses: LBSC602, INST643
+Sheri Massey, Courses: INST650
+Waqas Shah, Courses: INST651
+Jesse Klein, Courses: INST661
+Vaishnav Kameswaran, Courses: INST704
+Tamara Clegg, Courses: INST710
+Kirtana Kalavagunta, Courses: INST711
+Jonathan Lazar, Courses: INST728A
+Jessica Grimmer, Courses: INST728B, LBSC731, LBSC671
+Rayna Arora, Courses: INST728C
+Lesley Langa, Courses: INST728D
+Tom Brinck, Courses: INST728F
+Naeemul Hassan, Courses: JOUR773, INST737
+Patricia Bunnell, Courses: INST752
+David Patrick, Courses: INST753
+Faisal Quader, Courses: INST754
+Md Hoque, Courses: INST760
+Stacy Surla, Courses: INST775
+Heera Lee, Courses: INST775
+Eun Kyoung Choe, Courses: INST828, INST779
+Jordon Steele, Courses: INST782
+Chad Doran, Courses: INST784
+Jessica Vitak, Courses: SURV612, INST808, INST798
+Vanessa Frias Martinez, Courses: INST800
+Joel Chan, Courses: INST801
+Elizabeth Bonsignore, Courses: INST878G
+Stephanie Valencia Valencia, Courses: INST878J
+Allison Jennings-Roche, Courses: INST878P
+Linda Steiner, Courses: JOUR601
+Alanna Kopania, Courses: JOUR668T, JOUR603
+Nicole Munchel, Courses: JOUR604
+Christine Harvey, Courses: JOUR620
+Joshua Davidsburg, Courses: JOUR661, JOUR620, JOUR668X
+James Carroll, Courses: JOUR625
+Christi Parsons, Courses: JOUR625
+Kathy Best, Courses: JOUR628C, JOUR628I
+Mark Hyman, Courses: JOUR628G
+Dana Priest, Courses: JOUR628N
+Steven Drummond, Courses: JOUR634
+Nathaniel Stevens, Courses: JOUR668O, JOUR636
+Adam Marton, Courses: JOUR655, JOUR652
+Stacey Decker, Courses: JOUR655, JOUR652
+Hyon-Young Kim, Courses: JOUR652
+Alison Burns, Courses: JOUR660
+Cindy Wright, Courses: JOUR662
+Robert Little, Courses: JOUR664
+Melvin Coffee, Courses: JOUR667
+Timothy Jacobsen, Courses: JOUR670, JOUR668N
+Joseph Yasharoff, Courses: JOUR668Y
+Krishnan Vasudevan, Courses: JOUR800, JOUR668Z
+Kaitlyn Wilson, Courses: JOUR682
+Jackie Padilla, Courses: JOUR689D
+David Oliver, Courses: JOUR689E
+James Risen, Courses: JOUR689I
+Michael Shear, Courses: JOUR689P
+Rob Wells, Courses: JOUR689R
+Sean Mussenden, Courses: JOUR689X
+Sarah Oates, Courses: JOUR698R
+Danielle McLean, Courses: JOUR702
+Derek Willis, Courses: JOUR772
+Daniel Trielli, Courses: JOUR772
+Steven Prior, Courses: KNES618
+Shannon Jette, Courses: KNES619
+Cara Grant, Courses: KNES678, KNES622
+Seppo Iso-Ahola, Courses: KNES660
+Hyuk Oh, Courses: KNES674
+David Andrews, Courses: KNES689C
+Jae Kun Shim, Courses: KNES689Q
+Sarah Glancy, Courses: KNES691
+Valerie Cholet, Courses: KNES780
+Ryan Long, Courses: LACS689, LACS688, LACS609
+Christopher Ellis, Courses: LARC620
+Naomi Sachs, Courses: LARC640
+Kelly Fleming, Courses: LARC642
+Caren Yglesias, Courses: LARC670
+Jennifer Janis, Courses: LARC721
+Deni Ruggeri, Courses: LARC748
+Katherine Wasdin, Courses: LATN672
+Gregory Bucher, Courses: LATN688I
+Jieun Yeon, Courses: LBSC602
+Kibbi Henderson, Courses: LBSC631
+Morgan Adle, Courses: LBSC644
+Jennifer Sturge, Courses: LBSC645
+Kathy Weaver, Courses: LBSC702, LBSC671
+Abbie Basile, Courses: LBSC723, LBSC707
+Victoria Van Hyning, Courses: LBSC731
+Kevin Washburn, Courses: LBSC742
+Bridgette Comanda, Courses: LBSC749
+Amber Pierdinock-Weed, Courses: LBSC751
+Benjamin Shaw, Courses: LBSC751
+Michelle McDaniel, Courses: LBSC770
+Juan Uriagereka, Courses: LING888, LING610
+William Idsardi, Courses: LING698, LING888, LING625
+Ellen Lau, Courses: LING848P, LING888, LING640
+Alexander Williams, Courses: LING660, LING888
+Valentine Hacquard, Courses: LING888, LING698T
+Kate Mooney, Courses: LING829A
+Philip Resnik, Courses: LING848P, LING888
+Aron Hirsch, Courses: LING879A, LING888
+Howard Lasnik, Courses: LING888
+Norbert Hornstein, Courses: LING888
+Tonia Bleam, Courses: LING888
+Jeffrey Lidz, Courses: LING888
+Andrea Zukowski, Courses: LING888
+Amy Weinberg, Courses: LING888
+Maria Polinsky, Courses: LING888
+Paul Pietroski, Courses: LING888
+Colin Phillips, Courses: LING888
+Margaret Antonisse, Courses: LING888
+Dori Bejleri, Courses: MATH606
+Harry Tamvakis, Courses: MATH620
+Manoussos Grillakis, Courses: MATH630
+Thomas Haines, Courses: MATH636
+Vadim Kaloshin, Courses: MATH642
+Zbigniew Blocki, Courses: MATH661
+Terence Long, Courses: MATH695
+Michael Laskowski, Courses: MATH712
+Jonathan Rosenberg, Courses: MATH730
+Richard Wentworth, Courses: MATH742
+Amin Gholampour, Courses: MATH808E
+Christian Rosendal, Courses: MATH818C
+CARLANGELO LIVERANI, Courses: MATH838C
+Yanir Rubinstein, Courses: MATH848N
+Wojciech Czaja, Courses: MATH858C
+Henri Berestycki, Courses: MATH858I
+Vyacheslav Lyubchich, Courses: MEES702, MEES613, MEES602
+Russell Hill, Courses: MEES603
+Cynthia Palinkas, Courses: MEES603, MEES640
+Lawrence Sanford, Courses: MEES607
+Jum Sook Chung, Courses: MEES608O
+Shao Du, Courses: MEES608O
+Elizabeth North, Courses: MEES615
+Kennedy Paynter, Courses: MEES623
+Andrea Pain, Courses: MEES640
+Keith Eshleman, Courses: MEES640
+Laura Lapham, Courses: MEES640
+Michael Gonsior, Courses: MEES640
+Joseph Jurisa, Courses: MEES640
+Ryan Woodland, Courses: MEES660
+Robert Hilderbrand, Courses: MEES660
+Tsvetan Bachvaroff, Courses: MEES680
+Eric Schott, Courses: MEES680
+Yantao Li, Courses: MEES680
+Genevieve Wilberg, Courses: MEES682
+Michael Wilberg, Courses: MEES682
+Matthew Fitzpatrick, Courses: MEES698C
+Emily Cohen, Courses: MEES698C
+Carys Mitchelmore, Courses: MEES698I
+Johan Schijf, Courses: MEES718L, MEES698M
+Mark Castro, Courses: MEES698V
+William Dennison, Courses: MEES698V
+Judith O'Neil, Courses: MEES698V
+Allen Place, Courses: MEES718L
+Victoria Coles, Courses: MEES718L
+Gregory Silsbe, Courses: MEES718L
+Vanessa Vargas-Nguyen, Courses: MEES718M
+Rense Kelsey, Courses: MEES718M
+Rachel Goldstein, Courses: MIEH600, MIEH609, MIEH786
+Muhiuddin Haider, Courses: MIEH605
+Paul Turner, Courses: MIEH609, MIEH786
+Amir Sapkota, Courses: MIEH609, MIEH786
+Amy Sapkota, Courses: MIEH609, MIEH786
+Donald Milton, Courses: MIEH786, MIEH609, MIEH783
+Robin Puett, Courses: MIEH609, MIEH786
+Sacoby Wilson, Courses: MIEH609, MIEH786
+Devon Payne-Sturges, Courses: MIEH609, MIEH786
+Rianna Murray, Courses: MIEH778, MIEH692
+Abdel-Razak Kadry, Courses: MIEH740
+Kathleen McPhaul, Courses: MIEH786, MIEH780
+Jennifer German, Courses: MIEH786
+Raffaele Viglianti, Courses: MITH628B
+Jonathan Dinman, Courses: MOCB608
+Jerry Wu, Courses: MSML642
+Alfredo Nava-Tudela, Courses: MSQC601
+Anil Zenginoglu, Courses: MSQC602
+Paul Lott, Courses: MSQC607
+Mike Hewitt, Courses: MUED672
+Adam Grise, Courses: MUED692
+Stephanie Prichard, Courses: MUED729, MUED697
+Kenneth Elpus, Courses: MUSC649W, MUED698V, MUED790
+Anna Nelson, Courses: MUSC550
+Natalie Conte, Courses: MUSC601, MUSC643, MUSC830A
+Delores Ziegler, Courses: MUSC603
+John Holiday, Courses: MUSC605
+Rita Sloan, Courses: MUSC609
+Corinne Hayes, Courses: MUSC611, MUSC811, MUSC813, MUSC613
+Steven Bailey, Courses: MUSC611, MUSC811, MUSC813, MUSC613
+David Neely, Courses: MUSC629R, MUSC629A, MUSC659B
+Andrea Brown, Courses: MUSC629F, MUSC629C
+Josanne Francis, Courses: MUSC629E, MUSC629D
+I Suadin, Courses: MUSC629G
+Mark Williams, Courses: MUSC653, MUSC629J, MUSC629Z
+Yuriko Gandolfo, Courses: MUSC629L, MUSC629K
+Jonathan Bisesi, Courses: MUSC800W, MUSC830W, MUSC629P
+Sebastian Wang, Courses: MUSC629Q
+Craig Potter, Courses: MUSC629U
+Michael Votta, Courses: MUSC629W, MUSC659C, MUSC689
+Gerard Kunkel, Courses: MUSC629Z
+Thomas Baldwin, Courses: MUSC629Z
+Hart Guonjian-Pettit, Courses: MUSC629Z
+Mai-Linh Pham, Courses: MUSC802A, MUSC830V, MUSC643, MUSC830A, MUSC699D
+William Robin, Courses: MUSC646
+Lars Helgert, Courses: MUSC648
+Matthew Valnes, Courses: MUSC648
+Jason Ferdinand, Courses: MUSC659A, MUSC649M, MUSC649B, MUSC649O, MUSC649A
+Anne Carswell, Courses: MUSC649E
+Thomas DeLio, Courses: MUSC651
+Leigh Pilzer, Courses: MUSC655
+Irina Muresanu, Courses: MUSC800S, MUSC660
+David Salness, Courses: MUSC669C
+Daniel Foster, Courses: MUSC669D
+Rachel Young, Courses: MUSC669E
+Richard Barber, Courses: MUSC669F
+Daniel Zimmerman, Courses: MUSC675
+Brendan Kibbee, Courses: MUSC679C
+Gretchen Horlacher, Courses: MUSC699I
+Olga Haldey, Courses: MUSC699R
+Kelsey Klotz, Courses: MUSC699X
+Nathan Lofton, Courses: MUSC758, MUSC757
+Sarah Frisof, Courses: MUSC800W, MUSC830W
+Emily Tsai, Courses: MUSC800W, MUSC830W
+Robert DiLutis, Courses: MUSC800W, MUSC830W
+Tim Powell, Courses: MUSC800W, MUSC830W
+Gregory Miller, Courses: MUSC800W, MUSC830W
+Paul Gekker, Courses: MUSC800W, MUSC830W
+Myles Blakemore, Courses: MUSC800W, MUSC830W
+Willie Clark, Courses: MUSC800W
+Joseph Grimmer, Courses: MUSC800W, MUSC830W
+Bradford Gowen, Courses: MUSC830P
+Aaron Goldman, Courses: MUSC830W
+Rodolphe Gentili, Courses: NACS640
+Jens Herberholz, Courses: NACS641
+Robert Slevc, Courses: NACS645
+Luiz Pessoa, Courses: NACS728F
+Joo Yun Jun, Courses: NACS728M
+Seong-Ho Lee, Courses: NFSC620
+Shaik Rahaman, Courses: NFSC621
+Hee-Jung Song, Courses: NFSC624
+Behrouz Meyssami, Courses: NFSC641
+Diana Obanda, Courses: NFSC678K
+Yuanyuan Li, Courses: NFSC678P
+David Lei, Courses: NFSC678R, NFSC688
+Ryan Blaustein, Courses: NFSC679G
+Liangli Yu, Courses: NFSC679J
+Abani Pradhan, Courses: NFSC679R
+Rohan Tikekar, Courses: NFSC679T
+Nadine Sahyoun, Courses: NFSC690
+Paolo Santorio, Courses: PHIL660
+Elizabeth Schechter, Courses: PHIL808K
+John Horty, Courses: PHIL808M
+Nicholas Laskowski, Courses: PHIL808N
+Zackaria Chacko, Courses: PHYS610
+Thomas Cohen, Courses: PHYS612, PHYS798B
+Zohreh Davoudi, Courses: PHYS624
+Jay Sau, Courses: PHYS626
+Theodore Jacobson, Courses: PHYS675
+Sarah Eno, Courses: PHYS685
+Steve Fetter, Courses: PLCY688P, PHYS688P
+Daniel Lathrop, Courses: PHYS715
+Steven Rolston, Courses: PHYS728J
+Johnpierre Paglione, Courses: PHYS838C, PHYS738
+Sankar Das Sarma, Courses: PHYS739, PHYS839A
+Xiangdong Ji, Courses: PHYS749
+Manuel Franco Sevilla, Courses: PHYS758E
+Kaustubh Agashe, Courses: PHYS759
+William Dorland, Courses: PHYS769
+Eun-Suk Seo, Courses: PHYS778
+Maissam Barkeshli, Courses: PHYS786
+Alexey Gorshkov, Courses: PHYS798Q
+Raman Sundrum, Courses: PHYS859C
+Alessandra Buonanno, Courses: PHYS879G
+Alec Worsnop, Courses: PLCY610
+Catherine Worsnop, Courses: PLCY630
+Eric Luedtke, Courses: PLCY631
+Elizabeth Duke, Courses: PLCY698T, PLCY631
+Julio Guzman, Courses: PLCY781, PLCY640
+Michael Busse, Courses: PLCY640
+Uri Dadush, Courses: PLCY700, PLCY641
+John Green, Courses: PLCY641
+Juan Martinez Guzman, Courses: PLCY670
+Claire Dunning, Courses: PLCY680
+Michael Woldemariam, Courses: PLCY680
+Nekeya O'Connor, Courses: PLCY688F
+Chloe Schwenke, Courses: PLCY688X
+Douglas Call, Courses: PLCY690, PLCY689E
+Leslie Jefferson, Courses: PLCY689Y
+Robert Sheehan, Courses: PLCY689Z
+Margaret Brindle, Courses: PLCY690
+David Backer, Courses: PLCY690
+Anand Patwardhan, Courses: PLCY741, PLCY690
+Paul Brown, Courses: PLCY690
+Angela Bies, Courses: PLCY690
+Bethany Henderson, Courses: PLCY698D
+Philip Joyce, Courses: PLCY717
+Nancy Gallagher, Courses: PLCY720
+Niambi Carter, Courses: PLCY734
+Robert Sprinkle, Courses: PLCY735
+Jarryd Page, Courses: PLCY740
+Thomas Hilde, Courses: PLCY744
+Joshua Itzkowitz Shifrinson, Courses: PLCY780
+Jiehong Lou, Courses: PLCY798N
+Yueming Qiu, Courses: PLCY798R
+Shanna Pearson, Courses: PLCY798V
+Joannie Tremblay-Boire, Courses: PLCY798Y
+Peter Reuter, Courses: PLCY798Z
+James Culver, Courses: PLSC608
+Shunyuan Xiao, Courses: PLSC608
+Mark Carroll, Courses: PLSC608T
+William Phillips, Courses: PLSC608T
+Paul Hanges, Courses: PSYC601
+Lacey Farrow, Courses: PSYC603
+Alexander Shackman, Courses: PSYC614
+Susanna Crowell McQuarrie, Courses: PSYC622
+Yevgeny Botanov, Courses: PSYC624, PSYC629B
+Mary Byrne, Courses: PSYC643, PSYC629C
+John Persampiere, Courses: PSYC629D
+Lea Dougherty, Courses: PSYC638, PSYC639
+Derek Iwamoto, Courses: PSYC638
+Rachel Singer, Courses: PSYC643
+Christina Danko, Courses: PSYC651, PSYC644
+Jack Blanchard, Courses: PSYC651
+Andrew Naber, Courses: PSYC653
+Joselito Lualhati, Courses: PSYC654
+Kenneth Yusko, Courses: PSYC732, PSYC660
+David Shar, Courses: PSYC661
+Jonathan Mohr, Courses: PSYC692
+James Grand, Courses: PSYC789K
+Linda Zou, Courses: PSYC798P
+Elizabeth Redcay, Courses: PSYC888A
+Jesse Saginor, Courses: RDEV688C, RDEV600
+Thomas Dwyer, Courses: RDEV603
+John Park, Courses: RDEV605
+Abigail Ferretti, Courses: RDEV620
+Robert McClennan, Courses: RDEV640
+Andrew Rose, Courses: RDEV660
+Suzanne White, Courses: RDEV660
+Ronald McDonald, Courses: RDEV670
+David Jefferson, Courses: RDEV689D
+Maria Day-Marshall, Courses: RDEV689Y
+Tanya Bansal, Courses: RDEV690
+Megan Masters, Courses: SLAA610
+Bronson Hui, Courses: SLAA649R, SLAA620
+Nan Jiang, Courses: SLAA742, SLAA640
+Ekaterina Sudina, Courses: SLAA749B
+Amelia Branigan, Courses: SOCY699C, SOCY601
+Collin Mueller, Courses: SOCY610
+Michael Rendall, Courses: SOCY611
+Meyer Kestnbaum, Courses: SOCY620
+Julia Chuang, Courses: SOCY632
+Nicol Lee, Courses: SOCY646
+Michael Vesely, Courses: SOCY657
+Long Doan, Courses: SOCY660, SOCY675
+Brian Connor, Courses: SOCY699M
+Elisa Gironzetti, Courses: SPAN605
+Thayse Leal Lima, Courses: SPAN609A
+Manel Lacorte, Courses: SPAN625
+Jose Magro, Courses: SPAN687
+Mehl Penrose, Courses: SPAN798O
+Eyda Merediz, Courses: SPAN798Q
+Laura Demaria, Courses: SPAN798U
+Sylvette La Touche-Howard, Courses: SPHL600
+Danielle Catona, Courses: SPHL620, SPHL601
+Jamie Trevitt, Courses: SPHL602, SPHL603
+Aaron Blakney, Courses: SPHL603
+Megan Trangsrud, Courses: SPHL603
+James Hagberg, Courses: SPHL612
+Yu Gu, Courses: STAT600
+Eric Slud, Courses: STAT700
+Yun Yang, Courses: STAT740
+Dmitry Dolgopyat, Courses: STAT818J
+Lizhen Lin, Courses: STAT818N
+John Kubale, Courses: SURV615
+Yajuan Si, Courses: SURV617
+Zeynep Suzer Gurtekin, Courses: SURV621
+Christopher Antoun, Courses: SURV621
+Raphael Nishimura, Courses: SURV626
+Stephanie Coffey, Courses: SURV627
+Aaron Maitland, Courses: SURV632
+Alexandru Cernat, Courses: SURV665
+Fiona Draxler, Courses: SURV667
+Partha Lahiri, Courses: SURV699
+Stanley Presser, Courses: SURV829, SURV699
+Frauke Kreuter, Courses: SURV699
+Sharan Sharma, Courses: SURV720
+Joerg Drechsler, Courses: SURV726
+Brian Kim, Courses: SURV727
+Christoph Kern, Courses: SURV727, SURV753
+Brady West, Courses: SURV740
+Trent Buskirk, Courses: SURV753
+Sunghee Lee, Courses: SURV829
+Carla Della Gatta, Courses: THET700, THET600
+James Harding, Courses: THET608M
+Susan O'Neill, Courses: THET633
+Misha Kachman, Courses: THET639, THET680
+Helen Huang, Courses: THET645, THET649
+Amith Chandrashaker, Courses: THET659, THET669O
+Andrew Cissna, Courses: THET669T
+Kate Keeney, Courses: THET669U
+Caitlin Marshall, Courses: THET713
+Theresa Robinson, Courses: TLPL689, TLPL678, TLPL618, TLPL698
+Andrew Elby, Courses: TLPL795, TLPL621
+Daman Harris, Courses: TLPL625
+Ying Alice Zhang, Courses: TLPL645
+Reka Barton, Courses: TLPL652
+Amanda Cataneo, Courses: TLPL656
+Shenika Hankerson, Courses: TLPL661
+Jeff MacSwan, Courses: TLPL664
+Jessica Crawford, Courses: TLPL665
+Kellie Rolstad, Courses: TLPL666
+Meghan Comstock, Courses: TLPL671
+Antonio Perez Belda, Courses: TLPL689, TLPL678, TLPL695, TLPL696
+Campbell Scribner, Courses: TLPL681
+Amy Green, Courses: TLPL688
+Jonathan Rivera, Courses: TLPL688X
+Loren Jones, Courses: TLPL689
+Claudia Galindo, Courses: TLPL692, TLPL788M
+Daniel Levin, Courses: TLPL698
+Melanie Hardy-Skeberdis, Courses: TLPL704
+Sarah McGrew, Courses: TLPL708A
+Andrew Brantlinger, Courses: TLPL713, TLPL728
+Margaret Marcus, Courses: TLPL743
+Danett Song, Courses: TLPL764
+Sung-Woo Cho, Courses: TLPL765
+Tara Brown, Courses: TLPL774, TLPL788E
+Janet Walkoe, Courses: TLPL788K
+Cesar Guitunga, Courses: TLPL788Q
+Rossina Liu, Courses: TLPL788U
+Laura Mahalingappa, Courses: TLPL788V
+Keisha Allen, Courses: TLPL788Z
+Jennifer Turner, Courses: TLPL791
+Nihat Polat, Courses: TLPL794
+Alibi Shokputov, Courses: URSP601
+Dawn Jourdan, Courses: URSP603
+Kathryn Howell, Courses: URSP709, URSP605
+Chengri Ding, Courses: URSP709, URSP606
+David Rouse, Courses: URSP688I
+Hiroyuki Iseki, Courses: URSP810, URSP709, URSP688L
+Ariel Bierbaum, Courses: URSP709, URSP688X
+Willow Lung Amam, Courses: URSP688Z, URSP709
+Clara Irazabal Zurita, Courses: URSP709, URSP708
+Kevin Nelson, Courses: URSP708
+Casey Dawkins, Courses: URSP804, URSP709
+Gerrit Knaap, Courses: URSP709
+Marccus Hendricks, Courses: URSP709
+George Belov, Courses: VMSC610
+Alix Berglund, Courses: VMSC698
+Seth Dickey, Courses: VMSC758
+Jaekeun Park, Courses: VMSC760
+Meiqing Shi, Courses: VMSC760
+Sayan Bhattacharya, Courses: WGSS601
+Alexis Lothian, Courses: WGSS618
+Zenzele Isoke, Courses: WGSS628

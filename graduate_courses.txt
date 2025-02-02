@@ -1,0 +1,2694 @@
+AGST 640 Analysis of Maryland Agriculture
+AMSC 660 Scientific Computing I
+AMSC 666 Numerical Analysis I
+AMSC 673 Partial Differential Equations I
+AMSC 698Q Advanced Topics in Applied Mathematics; The Mathematics of Quantum Information Science
+AMSC 715 Numerical Methods for Evolution Partial Differential Equations
+AMSC 721 Mathematical Population Biology
+AMSC 760 Applied Statistics Practicum
+AMSC 762 Data Analysis Project
+AMST 601 Introductory Theories and History in American Studies
+AMST 628C Seminar in American Studies; Race and Media Theory and Practice
+AMST 628G Seminar in American Studies; Haiti: Literature, Culture, and Identity
+AMST 629D Seminar in American Studies; Race, Class, and Material Culture
+AMST 629F Seminar in American Studies; Fascisms
+AMST 655 Introduction to Museum Scholarship
+AMST 857 Museum Scholarship Practicum
+AMST 878A American Studies Pedagogy Mentoring; Mentoring for First Year Teaching in American Studies
+AMST 878B American Studies Pedagogy Mentoring; Mentoring for Second Year Teaching in American Studies
+AMST 878C American Studies Pedagogy Mentoring; Mentoring for Third Year Teaching in American Studies
+ANSC 624 Recent Advances in Animal and Avian Sciences
+ANSC 625 Developing Presentation Skills
+ANSC 644 Molecular and Cellular Endocrinology
+ANSC 688I Special Topics; Comparative Vertebrate Immunology
+ANSC 688M Special Topics; The Gut Microbiome
+ANSC 688O Special Topics; Advanced Nutritional Pathophysiology
+ANTH 601 Applied Anthropology
+ANTH 606 Qualitative Methods in Applied Anthropology
+ANTH 612 Hypermarginality and Urban Health
+ANTH 615 Critical Global Health
+ANTH 620 Environment and Society
+ANTH 625 Molecular Anthropology
+ANTH 640 Advanced Studies in Theory and Practice of Historical Archaeology
+ANTH 655 Introduction to Museum Scholarship
+ANTH 741 Introduction to Cultural and Heritage Resource Management
+ANTH 743 Community Engagement and Consultation
+ANTH 747 Business of CRM
+ANTH 749 Cultural and Heritage Resource Management Internship
+ANTH 751 Project Management
+ANTH 752 Introduction to GIS for CRM
+ANTH 760 Development of Social/Cultural Theory
+ANTH 799 Master's Thesis Research
+ANTH 857 Museum Scholarship Practicum
+AOSC 600 Synoptic Meteorology I
+AOSC 610 Dynamics of the Atmosphere and Ocean I
+AOSC 620 Physics and Chemistry of the Atmosphere I
+AOSC 652 Analysis Methods in Atmospheric and Oceanic Science
+AOSC 670 Physical Oceanography
+AOSC 680 Introduction to Earth System Science
+ARCH 600 Integrated Design Studio V
+ARCH 611 Advanced Architecture Technology Seminar
+ARCH 618F Selected Topics in Architectural Technology; Alternative Building Technologies
+ARCH 628C Selected Topics in Architectural History; History of Structure and Construction
+ARCH 628K Selected Topics in Architectural History; Cities of the Early Modern Mediterranean
+ARCH 628N Selected Topics in Architectural History; Medieval Architecture
+ARCH 655 Urban Design Seminar
+ARCH 668P Advanced Selected Topics in Architecture; Resume and Portfolio Design
+ARCH 678C Advanced Selected Topics in Architecture; Architecture and Cinema: Place and Film
+ARCH 678J Advanced Selected Topics in Architecture; Adaptation
+ARCH 678Z Advanced Selected Topics in Architecture; Environmental Psychology
+ARCH 700 Urban Design Studio VII
+ARCH 770 Professional Practice of Architecture
+ARCH 797 Thesis Proseminar
+AREC 620 Optimization in Agricultural and Resource Economics
+AREC 623 Applied Econometrics I
+AREC 785 Advanced Economics of Natural Resources
+AREC 832 Agricultural Policy Analysis
+AREC 891 Introduction to Prospectus Development
+AREC 892 Dissertation Prospectus Development
+ARTH 638A Studies in Seventeenth-Century Southern European Art; Sources and Methods of Early Modern European and Euro-Colonial Iconography
+ARTH 692 Methods of Art History
+ARTH 698 Teaching Art History
+ARTH 788A Seminar in Indian and South Asian Art; Colonialism and the Art of South and Southeast Asia
+ARTT 768 Graduate Colloquium
+ASTR 601 Radiative Processes
+ASTR 630 Planetary Science
+ASTR 680 High Energy Astrophysics
+ASTR 688B Special Topics in Modern Astronomy; Current Astronomy Research
+ASTR 695 Introduction to Research
+BCHM 661 Nucleic Acids I
+BCHM 662 Nucleic Acids II
+BCHM 671 Protein Chemistry and Enzymic Catalysis
+BCHM 698 Literature Seminar in Biochemistry
+BCHM 889A Seminar; Biochemistry
+BCHM 889C Seminar; Allostery in DNA Binding
+BCHM 889D Seminar; Enzymology Recombination
+BCHM 889F Seminar; Antimicrobial Peptides
+BCHM 889J Seminar; Nucleic Acid Structures
+BCHM 889M Seminar; Modern Methods in NMR and Structural Biology
+BCHM 889P Seminar; Structure and Reactivity of Biopolymers
+BDBA 804 Big Data and AI for Business
+BDBA 806 Executive Decision Making in the Age of AI
+BDBA 808A Special Topics in Information Systems; Independent Research Study
+BDBA 808C Special Topics in Information Systems; Designing AI Systems
+BDBA 808E Special Topics in Information Systems; Data Visualization
+BDBA 808P Special Topics in Information Systems; Data Processing and Analysis in Python
+BDBA 820 Economics for Business Research
+BDBA 822 Quantitative Research Methods
+BDBA 858A Special Topics in Marketing; Customer Analysis
+BDBA 858G Special Topics in Marketing; Marketing Analytics
+BDBA 858J Special Topics in Marketing; Social Media and Web Analytics
+BDBA 858K Special Topics in Marketing; Business Communications
+BDBA 858M Special Topics in Marketing; Marketing Strategy
+BDBA 858N Special Topics in Marketing; Marketing in the Age of AI
+BDBA 858P Special Topics in Marketing; Innovation and Product Development
+BDBA 858Q Special Topics in Marketing; Innovation & Product Development
+BIOE 605 BIOE Graduate Studies I
+BIOE 608 Bioengineering Seminar Series
+BIOE 610 Mathematical Methods in Bioengineering
+BIOE 612 Physiological Evaluation of Bioengineering Designs
+BIOE 651 Applied Mathematics in Bioengineering
+BIOE 658J Special Topics in Bioengineering (M.Eng.); Introduction to Programming and Data Analysis using Python
+BIOE 658R Special Topics in Bioengineering (M.Eng.); Regulatory Affairs in Medical Product Development
+BIOE 674 Biopharmaceutical Process Development and Manufacturing
+BIOE 689F Special Topics in Bioengineering; Spatial Biology: Bioinformatics, Omics, and Technology
+BIOE 689G Special Topics in Bioengineering; Advanced Immunoengineering
+BIOE 689J Special Topics in Bioengineering; Therapeutic Development and Delivery
+BIOI 601 Probability and Statistics
+BIOI 602 Principles of Data Science
+BIOI 603 Principles of Machine Learning
+BIOI 604 Principles of Molecular Biology, Genetics and Genomics
+BIOI 611 Analysis of Gene Expression Data
+BIOI 621 Genome Assembly and Annotation
+BIOL 608K Biology Seminar; Biological Sciences Teaching and Learning in Higher Education
+BIOL 667 Mathematical Biology
+BIOL 704 Cell Biology from a Biophysical Perspective
+BIOL 708B Advanced Topics in Biology; Animal Behavior
+BIOL 708Q Advanced Topics in Biology; Neurobiology of Chemosensory Systems
+BIOL 709W Selected Advanced Topics in Biology; Molecular Neuroethology
+BIOM 601 Biostatistics I
+BIOM 688E Topics in Biometrics; Statistical Genomics
+BIPH 698L Biophysics Seminar; Biophysics
+BIPH 704 Cell Biology from a Biophysical Perspective
+BISI 610 Introduction to Behavior, Evolution, Ecology, & Systematics
+BISI 620 Bioinformatics and Genomics
+BISI 622 Programming for Biology
+BISI 701 Teaching & Professional Development in Biology
+BISI 712 Responsible Conduct of Research for Biologists
+BMGT 600 Leadership and Teamwork
+BMGT 602 Introduction to Financial Accounting
+BMGT 606 Data Driven Decision Making
+BMGT 610 Financial Management
+BMGT 612 Marketing Management
+BMGT 758E Special Topics in Business and Management; Business Ethics
+BMGT 758N Special Topics in Business and Management; Negotiation and Conflict Management
+BMGT 758Z Special Topics in Business and Management; Sports Sales and Sponsorship
+BMGT 759 Independent Study in Management
+BMGT 808R Special Topics in Information Systems; Research Seminar in Decision, Operations and Information Technologies
+BMGT 808X Special Topics in Information Systems; Machine Learning for Business Research
+BMGT 808Y Special Topics in Information Systems; Machine Learning for Applications in Business Research
+BMGT 818E Special Topics in Accounting and Information Assurance; Applied AI for Capital Markets and Disclosure Research
+BMGT 818R Special Topics in Accounting and Information Assurance; Workshop in Accounting Research
+BMGT 830 Operations Research: Linear Programming
+BMGT 834 Operations Research: Probabilistic Models
+BMGT 838R Special Topics in Operations Management/Management Science; Research Seminar in Decision, Operations and Information Technologies
+BMGT 840 Seminar in Financial Theory
+BMGT 848A Special Topics in Finance; Financial Research Methods
+BMGT 848F Special Topics in Finance; Workshop in Finance Research
+BMGT 858G Special Topics in Marketing; Analytical Models
+BMGT 858R Special Topics in Marketing; Marketing Research Seminar
+BMGT 868C Special Topics in Organizational Behavior/Human Resource Management; Career and Professionalization Workshop in Management and Organization
+BMGT 868D Special Topics in Organizational Behavior/Human Resource Management; Decision Making
+BMGT 868N Special Topics in Organizational Behavior/Human Resource Management; Open Science Workshop
+BMGT 868P Special Topics in Organizational Behavior/Human Resource Management; Organizational Behavior and Human Resource Management Presentations
+BMGT 868R Special Topics in Organizational Behavior/Human Resource Management; OBHR Foundations
+BMGT 878C Special Topics in Strategic Management and Entrepreneurship; Cross Disciplinary Workshop
+BMGT 878M Special Topics in Strategic Management and Entrepreneurship; Formal Models of Entrepreneurship and Innovation
+BMGT 878P Special Topics in Strategic Management and Entrepreneurship; Strategy and Entrepreneurship PhD Presentations
+BMGT 878R Special Topics in Strategic Management and Entrepreneurship; Strategy and Entrepreneurship Research Design
+BMGT 878Y Special Topics in Strategic Management and Entrepreneurship; Best Methods
+BMGT 888A Special Topics in Supply Chain Management; Research Seminar in Sustainable Supply Chains and Operations Management
+BMGT 888B Special Topics in Supply Chain Management; Economics of International Business
+BMGT 888W Special Topics in Supply Chain Management; Workshop in Supply Chain Management
+BMSO 600 Data, Models and Decisions
+BMSO 601 Database Management Systems
+BMSO 758A Special Topics in Business; Social Media and Web Analytics
+BMSO 758E Special Topics in Business; Advanced Marketing Analytics
+BMSO 758P Special Topics in Business; Data Processing and Analysis in Python
+BMSO 758Q Special Topics in Business; Big Data and Artificial Intelligence for Business
+BMSO 758V Special Topics in Business; Data Visualization
+BMSO 759 Independent Study in Business
+BMSO 778A Special Topics in Business; Financial Accounting
+BMSO 778C Special Topics in Business; Career Coaching and Development
+BMSO 778D Special Topics in Business; Data Driven Decision Making
+BMSO 778F Special Topics in Business; Financial Management
+BMSO 778L Special Topics in Business; Leadership and Teamwork
+BMSO 778M Special Topics in Business; Marketing Management
+BMSO 778N Special Topics in Business; Negotiation and Conflict Management
+BSST 630 Motivations and Intents of Terrorists and Terrorist Groups
+BSST 634 Legal and Criminal Approaches to Counterterrorism
+BSST 635 Countering Violent Extremism: Policy and Practice
+BSST 640 Theories of Security and Terrorism Studies
+BSST 650 Foundations of Insider Risk Management & Mitigation
+BSST 651 The Psychology of Malicious Insiders
+BSST 697 Capstone
+BUAC 707 Financial Statement Analysis for Accountants and Auditors
+BUAC 710 Advanced Managerial Accounting and Control Systems
+BUAC 712 Business Communications for Accountants and Auditors
+BUAC 716 Auditing Automation and Analytics
+BUAC 721 Business Law for Managers
+BUAC 722 Applied Research for Accounting and Auditing
+BUAC 731 Intermediate Accounting I
+BUAC 740 Data Driven Decision Making
+BUAC 746 Systems for Data Analysis
+BUAC 758A Special Topics in Accounting and Information Assurance; Accounting for Income Tax and Database Management
+BUAC 758Y Special Topics in Accounting and Information Assurance; AI Literacy: Business Data and AI Applications
+BUAC 762 Tax I: Taxation of Individuals & Forecasting Analytics
+BUAC 764 Tax II: Taxation of Corporations & Other Entities
+BUAC 772 Database Management and State and Local Taxation
+BUDT 700 Business Communication
+BUDT 702 Database Management Systems
+BUDT 703 Database Management Systems
+BUDT 704 Data Processing and Analysis in Python
+BUDT 705 Data Visualization for Business
+BUDT 721 Digital Transformation in Business
+BUDT 722 Managing Digital Business Markets
+BUDT 724 Project Management in Dynamic Environments
+BUDT 730 Data Models and Decisions
+BUDT 731 Data, Models, and Decisions Using R
+BUDT 732 Decision Analytics
+BUDT 733 Data Mining and Predictive Analytics
+BUDT 738 Industry Seminar
+BUDT 748 Industry Practicum
+BUDT 756 Causal Inference & A/B Testing
+BUDT 757 Cybersecurity
+BUDT 758I Special Topics in Decision, Operations and Information Technologies; Applied Finance Information Systems
+BUDT 758L Special Topics in Decision, Operations and Information Technologies; Price Optimization & Revenue Management
+BUDT 758M Special Topics in Decision, Operations and Information Technologies; Healthcare Information Systems
+BUDT 758W Special Topics in Decision, Operations and Information Technologies; Capstone Project in Business Analytics
+BUFN 610 Financial Management
+BUFN 620 Capital Markets
+BUFN 630 Valuation in Corporate Finance
+BUFN 640 Financial Data Analytics
+BUFN 650 Machine Learning in Finance
+BUFN 660 Derivative Securities
+BUFN 717 Entrepreneurial Finance and Private Equity
+BUFN 721 International Investment
+BUFN 734 Portfolio Management
+BUFN 736 Quantitative Investment Strategies
+BUFN 741 Advanced Capital Markets
+BUFN 742 Financial Engineering
+BUFN 758D Special Topics in Finance; big data in finance
+BULM 700 Business Fundamentals for Supply Chain Managers I
+BULM 701 Business Fundamentals for Supply Chain Managers II
+BULM 710 Data Driven Decision Making I
+BULM 711 Data Driven Decision Making II
+BULM 721 Global Supply Chain Management
+BULM 742 Global Supply Chain Resources Planning
+BULM 750 Lean Sigma for Supply Chain I
+BULM 751 Lean Sigma for the Supply Chain II
+BULM 756 Supply Chain Strategy
+BULM 758C Special Topics in Logistics, Business and Public Policy; Assessing & Managing Supply Chain Risks
+BULM 758F Special Topics in Logistics, Business and Public Policy; Sustainable Supply Chain Management
+BULM 758P Special Topics in Logistics, Business and Public Policy; Policy and Legal Context for Sustainability Management
+BULM 758Z Special Topics in Logistics, Business and Public Policy; Strategic Management with a Sustainable Mindset
+BUMK 720 Marketing Strategy
+BUMK 724 Customer Analysis
+BUMK 726 Statistical Programming for Customer Analytics
+BUMK 742 Marketing Analytics for Consulting
+BUMK 758G Special Topics in Marketing
+BUMK 760 Business Policies and Ethics
+BUMK 766 Digital Analytics
+BUMK 773 Pricing Analytics and Strategies
+BUSI 600 Fundamentals of Business Decision Making
+BUSI 602 Leading with a Strategic Mindset
+BUSI 611 Managerial Accounting
+BUSI 634 Operations Management
+BUSI 650 Marketing Management
+BUSI 662 Leadership and Teamwork
+BUSI 681 Managerial Economics and Public Policy
+BUSI 710 Competitive and Collaborative Negotiation
+BUSI 718D Special Topics in Business; Data Driven Analytics
+BUSI 737 Innovation & Product Development
+BUSI 741 Financial Strategy for Corporations
+BUSI 758F Special Topics in Business; Investment Fund Management
+BUSI 758K Special Topics in Business; Portfolio Management
+BUSI 758V Special Topics in Business; Digital Promotion and Advertising
+BUSI 781 Marketing Emergent Technology
+BUSI 787 Integrative Capstone
+BUSI 788W Introduction to Global Business Experience; Doing Business in Asia: Supply Chain Challenges and Opportunities in Asia
+BUSI 791 Research and Development Strategy and Process
+BUSI 793 Technology Entrepreneurship, Innovation and Commercialization
+BUSM 600 Leadership and Teamwork
+BUSM 602 Introduction to Financial Accounting
+BUSM 604 Managerial Economics and Public Policy
+BUSM 606 Data Driven Decision Making
+BUSM 612 Marketing Management
+BUSM 616 Managerial Accounting
+BUSM 621 Digital Transformation in Business
+BUSM 706 Innovation & Product Development
+BUSM 715 Digital Marketing
+BUSM 754 Competitive and Collaborative Negotiation
+BUSM 758J Special Topics in Business; Financial Management I
+BUSM 758N Special Topics in Business; Managing Change
+BUSM 758P Special Topics in Business; Financial Management II
+BUSM 758T Special Topics in Business; Financial Institutions in the Era of FinTech and AI
+BUSM 758V Special Topics in Business; Designing AI Systems
+BUSM 758W Special Topics in Business; Marketing in the Age of AI
+BUSM 788W Global Business Experience; Doing Business in Asia: Supply Chain Challenges and Opportunities in Asia
+BUSM 798C Business Consulting; Technology and Entrepreneurship
+BUSO 600 Leadership and Teamwork
+BUSO 603 Data Analysis
+BUSO 604 Managerial Economics and Public Policy
+BUSO 612 Marketing Management
+BUSO 616 Managerial Accounting
+BUSO 624 Operations Management
+BUSO 700 Fundamentals of Business
+BUSO 701 Integrative Business Capstone
+BUSO 711 Executive Powers and Negotiation
+BUSO 731 Social Media and Web Analytics
+BUSO 751 Supply Chain Risk Management
+BUSO 758A Special Topics in Business; Marketing Analytics
+BUSO 758G Special Topics in Business; Financial Restructuring
+BUSO 788W Business Consulting; Doing Business in Asia: Supply Chain Challenges and Opportunities in Asia
+CBMG 688C Special Topics in Cell Biology and Molecular Genetics
+CBMG 688D Special Topics in Cell Biology and Molecular Genetics; Genetics: Cell Biology I - Structure and Function
+CBMG 688J Special Topics in Cell Biology and Molecular Genetics; Genetics: Immunology and Host Defense
+CBMG 688K Special Topics in Cell Biology and Molecular Genetics; Genetics: Molecular Virology
+CBMG 688W Special Topics in Cell Biology and Molecular Genetics; Principles of Microscopy
+CBMG 699D Special Problems in Cell Biology and Molecular Genetics; Molecular Genetics: Bioinformatics and Computation Biology
+CBMG 699K Special Problems in Cell Biology and Molecular Genetics; Biological Sciences Teaching and Learning in Higher Education
+CBMG 699X Special Problems in Cell Biology and Molecular Genetics; Host Pathogen Interactions
+CCJS 600 Criminal Justice
+CCJS 620 Fundamentals of Criminological Research
+CCJS 631 Ethics in Criminal Justice
+CCJS 632 Making Sense of Criminal Justice Methods and Statistics
+CCJS 650 Research Practicum
+CCJS 653 Seminar in Corrections
+CCJS 654 History of Criminological Thought
+CCJS 699I Special Criminological Problems; Communities and Crime
+CCJS 699Q Special Criminological Problems; Seminar on Qualitative Analysis
+CCJS 710 Advanced Statistics Methods - Limited Dependent Variables
+CCJS 720 Criminal Justice System Planning: Policy Analysis for Crime Control
+CHBE 609 Graduate Seminar
+CHBE 610 Chemical Engineering Thermodynamics
+CHBE 620 Methods of Engineering Analysis
+CHBE 652 Introduction of Machine Learning in Chemical Engineering
+CHBE 672 Control of Air Pollution Sources
+CHBE 673 Electrochemical Energy Engineering
+CHBE 690 Polymer Reaction Engineering
+CHBE 693 Chemical Processes in Beer Brewing
+CHBE 694 Sustainable Separations and Carbon Capture
+CHEM 601 Structure and Bonding of Molecules and Materials
+CHEM 608K Selected Topics in Inorganic Chemistry; Chemistry Teaching and Learning in Higher Education
+CHEM 611 Professional Skills for New Graduate Students
+CHEM 624 Electrical Methods of Quantitative Analysis
+CHEM 640 Problems in Organic Reaction Mechanisms
+CHEM 641 Organic Reaction Mechanisms
+CHEM 684 Chemical Thermodynamics
+CHEM 690 Quantum Chemistry I
+CHEM 889A Seminar; Analytical, Nuclear and Environmental Chemistry
+CHEM 889C Seminar; Inorganic Chemistry
+CHEM 889D Seminar; Organic Chemistry
+CHEM 889E Seminar; Physical Chemistry
+CHEM 889F Seminar; Chemical Physics
+CHPH 633 Advanced Characterization of Soft Matter Materials
+CHPH 709A Seminar in Chemical Physics; Physical Chemistry
+CHPH 709B Seminar in Chemical Physics; Statistical Physics
+CHPH 709L Seminar in Chemical Physics; Biophysics
+CHPH 718I Special Topics in Chemical Physics; Chemical Physics Rotation
+CLFS 609K Special Topics; Current Topics in Biomedical Research
+CLFS 610 Natural Products Chemistry
+CMLT 679B Topics in Comparative Studies; Methods and Issues in Cinema and Media Studies
+CMSC 614 Computer and Network Security
+CMSC 616 Foundations of Parallel Computing
+CMSC 631 Program Analysis and Understanding
+CMSC 657 Introduction to Quantum Information Processing
+CMSC 660 Scientific Computing I
+CMSC 673 Capstone in Machine Learning
+CMSC 702 Algorithmic Evolutionary Biology
+CMSC 715 Wireless and Mobile Systems for the IoT
+CMSC 722 Artificial Intelligence Planning
+CMSC 723 Natural Language Processing
+CMSC 724 Database Management Systems
+CMSC 730 Interactive Technologies in Human-Computer Interaction
+CMSC 732 Human Factors in Security and Privacy
+CMSC 740 Advanced Computer Graphics
+CMSC 751 Parallel Algorithms
+CMSC 801 Department Internal Research Seminar
+CMSC 818B Advanced Topics in Computer Systems; Decision-Making for Robotics
+CMSC 818I Advanced Topics in Computer Systems; Large Language Models, Security, and Privacy
+CMSC 818J Advanced Topics in Computer Systems; Domain Specific Architecture
+CMSC 818L Advanced Topics in Computer Systems; Fantastic Zero-Knowledge Proofs and How to Use Them
+CMSC 828J Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding
+CMSC 828N Advanced Topics in Information Processing; Computational Audition
+CMSC 828P Advanced Topics in Information Processing; AI/ML at Scale
+CMSC 838N Advanced Topics in Programming Languages; Language-based Security
+CMSC 839A Advanced Topics in Human-Computer Interaction; Embodied Media Design
+CMSC 839C Advanced Topics in Human-Computer Interaction; Governing Algorithms & Algorithmic Governance
+CMSC 839E Advanced Topics in Human-Computer Interaction; Uncertainty Communication for Decision-Making
+CMSC 848B Selected Topics in Information Processing; Computational Imaging
+CMSC 848K Selected Topics in Information Processing; Multimodal Foundation Models
+CMSC 848Z Selected Topics in Information Processing; Federated Learning
+CMSC 858A Advanced Topics in Theory of Computing; Concentration Inequalities for Randomized Algorithms and Machine Learning
+COMM 630 Seminar in Public Relations Management
+COMM 652 Contemporary Rhetorical Theory
+COMM 686 Teaching Communication
+COMM 698M Special Problems in Communication; Colloquium in Digital Studies
+COMM 700 Introduction to Graduate Study in Communication
+COMM 711 Historical/Critical Methods in Communication Research
+COMM 715 Advanced Qualitative Methods in Communication Research
+COMM 730 Seminar in Health Communication
+DANC 600 Graduate Dance Research
+DANC 604 Graduate Studies in Dance Pedagogy
+DANC 608 Graduate Choreography I: Creative Process
+DANC 610 Workshop in the Direction of Dance Production
+DANC 628 Graduate Ballet
+DANC 648 Advanced Modern Dance Technique I
+DANC 649 Advanced Modern Dance Technique II
+DANC 689F Special Topics in Dance; Aesthetics of Collaboration in Performance: Theory & Practice
+DANC 689G Special Topics in Dance; Graduate Contemporary Dance
+DANC 689M Special Topics in Dance; Dance Pedagogy - Modern Technique
+DANC 689P Special Topics in Dance; Pedagogy Practicum: Hip Hop
+DANC 689R Special Topics in Dance; Graduate Dance Repertory
+DANC 699 Thesis Writing Lab
+DANC 719 Graduate Choreography III: Projects
+DANC 777 Internship in Dance
+DANC 779 Master's Tutorial for Performance
+DANC 788 Master's Tutorial for Choreography; Graduate Tutorial
+DATA 601 Probability and Statistics
+DATA 602 Principles of Data Science
+DATA 603 Principles of Machine Learning
+DATA 607 Communication in Data Science and Analytics
+DATA 641 Natural Language Processing
+DATA 650 Cloud Computing
+ECON 601 Macroeconomic Analysis I
+ECON 603 Microeconomic Analysis I
+ECON 616 Economic Development II
+ECON 623 Econometrics I
+ECON 625 Computational Economics
+ECON 626 Empirical Microeconomics
+ECON 630 Computational Methods in Macroeconomics
+ECON 635 Experimental Economics
+ECON 637 Decision Theory
+ECON 641 Microeconomic Analysis
+ECON 642 Topics in Applied Macroeconomics
+ECON 643 Empirical Analysis I: Foundations of Empirical Research
+ECON 645 Empirical Analysis III: Econometric Modeling and Forecasting
+ECON 664 Empirical Studies in Industrial Organization
+ECON 670 Financial Economics
+ECON 674 Economic Analysis of Law
+ECON 676 Economic Development
+ECON 683 International Macroeconomics and Finance
+ECON 687 Economics Applications of R Programming
+ECON 701 Advanced Macroeconomics I
+ECON 703 Advanced Microeconomics I
+ECON 708 Advanced Topics in Applied and Theoretical Microeconomics
+ECON 709 Advanced Topics in Applied and Theoretical Macroeconomics
+ECON 721 Econometrics III
+ECON 741 Advanced International Economics I
+ECON 744 Advanced Topics in International Economics
+ECON 754 Theory of Political Economy
+ECON 771 Advanced Labor Economics: Theory and Evidence
+ECON 808 Workshop on Macroeconomics, International Macroeconomics and International Finance; Workshop in Applied Economics
+ECON 828 Workshop in Econometrics
+ECON 868 Workshop in Industrial Organization, Microeconomic Theory and Behavioral and Experimental Economics
+ECON 878 Workshop in Development, Labor and Public Economics
+EDCP 610 Professional Orientation
+EDCP 614 Counseling Skills: Introduction to Practicum
+EDCP 615 Counseling I: Appraisal
+EDCP 616 Counseling II: Theory and Practice
+EDCP 619B Practicum in Counseling
+EDCP 622 Human Development in the Counseling Context
+EDCP 635 School Consultation I
+EDCP 640 School Psychology Seminar: Overview of the Specialty
+EDCP 641 School Psychology Seminar: Professional Ethics
+EDCP 652 Research in Counseling
+EDCP 682 Counseling Psychology Didactic Practicum in Group Interventions
+EDCP 685 Counseling Psychology Didactic Practicum in Counseling Supervision
+EDCP 695 Ethical and Professional Issues in Counseling Psychology
+EDCP 697 Multicultural Issues in Counseling Psychology
+EDCP 698 Advanced Didactic Practicum in Counseling Psychology
+EDCP 700 Theories and Strategies of Counseling Psychology
+EDCP 717 Evaluation of Research in Counseling
+EDCP 738 Practicum in Child Assessment
+EDCP 741 Multicultural Practice in Student Affairs: Self, Education, and Society
+EDCP 746 Clinical Supervision of Pupil Personnel Services
+EDCP 772 Research in Student Affairs
+EDCP 775 Facilitating Student Learning in Higher Education
+EDCP 789R Advanced Topics in Counseling and Personnel Services; College Teaching Seminar
+EDCP 798A Special Problems in Counseling and Personnel Services; Research Design and Proposal Writing Seminar
+EDCP 870 Professional Issues Seminar
+EDCP 871 Student Affairs Doctoral Capstone Seminar
+EDCP 879 Internship in School Counseling
+EDCP 888A Apprenticeship in Counseling and Personnel Services; College Student Personnel
+EDCP 888C Apprenticeship in Counseling and Personnel Services; School Psychology
+EDCP 889C Internship in Counseling and Personnel Services
+EDHD 629 Developmental Science Seminar and Colloquium
+EDHD 690 Theoretical Foundations of Human Development
+EDHD 718 Apprenticeship in College Teaching; Apprenticeship in College Teaching
+EDHD 750 Culture, Context, and Development
+EDHD 780 Research Methods in Human Development
+EDHI 605 Comparative Education
+EDHI 606 Political Economy of Education in a Global Context
+EDHI 650 Professional Seminar in Higher and Adult Education
+EDHI 652 Higher Education in American Society
+EDHI 665 College Access and Choice
+EDHI 672 Modes of Inquiry in Education Research
+EDHI 680 Gender, Development, and Education
+EDHI 750 International Higher Education
+EDHI 888 Apprenticeship in Education
+EDMS 623 Applied Measurement: Issues and Practices
+EDMS 645 Quantitative Research Methods I
+EDMS 646 General Linear Models I
+EDMS 651 General Linear Models II
+EDMS 655 Introduction to Multilevel Modeling
+EDMS 657 Exploratory Latent and Composite Variable Methods
+EDMS 769C Special Topics in Applied Statistics in Education; Causal Mediation Analysis
+EDMS 779M Seminar in Applied Statistics; Mathematical Foundations and Simulation Techniques
+EDSP 602 Instruction of Students with Severe Disabilities I
+EDSP 604 Methods of Teaching Autistic Students
+EDSP 613 Principles and Practices in Positive Behavior interventions and Classroom Supports
+EDSP 623 Challenges and Issues in Behavioral and Learning Disorders
+EDSP 625 Evidence Based Practices for Individuals with Significant Disabilities
+EDSP 652 Curriculum and Instruction: Elementary Special Education
+EDSP 670 Single Case Research Designs in Education
+EDSP 671 Qualitative Methodologies in Special Education
+EDSP 678E Seminar in Special Education; Leading Instructional Improvement in Special Education
+EDSP 678Q Seminar in Special Education; Organizational Leadership I: Change in Special Education
+EDSP 678W Seminar in Special Education; Critical Policy and Research to Practice Issues for Administrators
+EDSP 684 Reading and Writing Instruction in Special Education II
+EDSP 690 Teacher Candidate Research Seminar in Special Education
+EDSP 692 Graduate Internship I: Elementary/Middle Special Education
+EDSP 860 Doctoral Research Seminar
+EDSP 888M Apprenticeship in Special Education; MidPoint Evaluation Capstone Proposal
+EDUC 646 Leading Instructional Excellence
+EDUC 670 Learning Communities
+EDUC 702 Applied Research Design for Education Leaders
+EDUC 705 Education Policy Making and the School Leader
+EDUC 888 Applied Apprenticeship in Education
+EMBA 788W Executive Skills Mastery; Doing Business in Asia: Supply Chain Challenges and Opportunities in Asia
+EMBA 789N Leadership Mastery
+EMBA 798G Action Learning Project
+ENAE 601 Astrodynamics
+ENAE 603 Near-Earth Object Exploration
+ENAE 631 Helicopter Aerodynamics I
+ENAE 636 Helicopter Dynamics II
+ENAE 641 Linear System Dynamics
+ENAE 651 Smart Structures
+ENAE 655 Structural Dynamics
+ENAE 662 Space Propulsion and Power
+ENAE 673 Aerodynamics of Incompressible Fluids
+ENAE 681 Engineering Optimization
+ENAE 682 Hypersonic Aerodynamics
+ENAE 684 Computational Fluid Dynamics I
+ENAE 686 Computational and Experimental Methods for Hypersonic Flows
+ENAE 788B Selected Topics in Aerospace Engineering; Aircraft System Identification
+ENAE 788D Selected Topics in Aerospace Engineering; Advanced Space Systems Design
+ENAE 788G Selected Topics in Aerospace Engineering; Offshore Wind Energy
+ENAE 788L Selected Topics in Aerospace Engineering; Optimal Estimation of Dynamic Systems
+ENAE 788X Selected Topics in Aerospace Engineering; Planetary Surface Robotics
+ENCE 602 Project Procurement Management
+ENCE 607 Mastering Agile Project Management
+ENCE 613 Structural Dynamics
+ENCE 614 Communications for Project Managers
+ENCE 620 Risk Analysis in Engineering and Economics
+ENCE 622 Construction Automation & Robotics
+ENCE 627 Project Risk Management
+ENCE 633 Assessment of Natural Hazards for Engineering Applications
+ENCE 640 Advanced Soil Mechanics
+ENCE 650 Process Dynamics in Environmental Systems
+ENCE 651 Chemistry of Natural Waters
+ENCE 652 Microbiological Principles of Environmental Engineering
+ENCE 662 Introduction to Project Management
+ENCE 664 Legal Aspects of Engineering Design and Construction
+ENCE 666 Cost Engineering and Control
+ENCE 670 Highway Traffic Characteristics and Measurements
+ENCE 672 Regional Transportation Planning
+ENCE 688B Advanced Topics in Civil Engineering; Probability Graphical Models
+ENCE 688I Advanced Topics in Civil Engineering; Discrete Choice Analysis
+ENCE 688T Advanced Topics in Civil Engineering; Disaster Resilience Seminar
+ENEE 600 Solid State Electronics
+ENEE 605 Design and Fabrication of Micro-Electro-Mechanical Systems (MEMS)
+ENEE 611 Integrated Circuit Design and Analysis
+ENEE 620 Random Processes in Communication and Control
+ENEE 630 Advanced Digital Signal Processing
+ENEE 641 Mathematical Foundations for Computer Engineering
+ENEE 646 Digital Computer Design
+ENEE 651 Parallel Algorithms
+ENEE 660 System Theory
+ENEE 662 Convex Optimization
+ENEE 680 Fundamentals of Electromagnetics
+ENEE 690 Introduction to Quantum Mechanics
+ENEE 698Q Graduate Seminar; Colloquium Series
+ENEE 739Z Advanced Topics in Signal Processing; Computational Imaging
+ENEE 759C Advanced Topics in Computer Engineering; Domain Specific Architecture
+ENEE 759U Advanced Topics in Computer Engineering; Computer-Aided Design of Digital Circuits
+ENEE 759Z Advanced Topics in Computer Engineering; Federated Learning
+ENEE 762 Stochastic Control
+ENEE 789D Advanced Topics in Electrophysics; Optoelectronics Lab
+ENEE 789W Advanced Topics in Electrophysics; Advanced Topics in Electrophysics: Incubating Quantum Leaps
+ENEE 791 Quantum Electronics II
+ENES 602 Future Faculty Program Seminar II
+ENES 604 Future Faculty Program Teaching Practicum
+ENES 660 Fundamentals of Product Management
+ENES 662 Innovative Ideas and Concept Development
+ENES 663 Strategies for Managing Innovation
+ENES 665 Innovative Thinking
+ENES 672 Launching Technology Startup Ventures
+ENES 673 Financing the Product Life Cycle
+ENES 674 Managing Product Development and Operations
+ENES 680 Building and Leading Innovative Organizations
+ENFP 610 Advanced Special Hazard Suppression Systems
+ENFP 619 Graduate Seminar
+ENFP 621 Analytical Procedures of Structural Fire Protection
+ENFP 627 Advanced Smoke Management and Fire Alarm Systems
+ENFP 651 Advanced Fire Dynamics
+ENFP 652 Fire Assessment Methods
+ENFP 661 Forensic Fire Analysis
+ENFP 664 Advanced Industrial Fire Safety
+ENFP 671 Material Flammability
+ENGL 601 Introduction to Graduate Studies
+ENGL 688 Poetry Workshop
+ENGL 689 Fiction Workshop
+ENGL 709A Seminar in Transnational Literatures and Cultures; At the Limit: Violence, Resistance and the Ethics of Representation
+ENGL 738C Seminar in Nineteenth-Century Literature; Indigenous and Imperial Archives
+ENGL 749A Studies in Twentieth-Century Literature; Alimentary Tracts: Stories, Being, and the Ways of Food
+ENGL 759E Seminar in Literature and the Other Arts; Methods and Issues in Cinema and Media Studies
+ENGL 759F Seminar in Literature and the Other Arts; Computers Killed the Creative Writing Star
+ENGL 776 Seminar in Modern Rhetorical Theory
+ENGL 798B Critical Theory Colloquium
+ENGL 809 Academic Publishing Workshop
+ENGL 888 Practicum in English Studies
+ENMA 600 Advanced Atomistic Modeling in Materials
+ENMA 616 Lithium Battery Fundamentals, Safety, and Assembly
+ENMA 626 Fundamentals of Failure Mechanisms
+ENMA 633 Advanced Characterization of Soft Matter Materials
+ENMA 637 Machine Learning for Materials Science
+ENMA 641 Nanotechnology Characterization
+ENMA 650 Nanometer Structure of Materials
+ENMA 660 Thermodynamics in Materials Science
+ENMA 664 Advanced Environmental Effects on Engineering Materials
+ENMA 680 Determination of Structure, Chemical Composition and Defects in Materials
+ENMA 683 Structural Determination Laboratory
+ENMA 688 Seminar in Materials Science and Engineering
+ENMA 797 Independent Study
+ENME 605 Advanced Systems Control
+ENME 610 Engineering Optimization
+ENME 631 Advanced Conduction and Radiation Heat Transfer
+ENME 640 Fundamentals of Fluid Mechanics
+ENME 645 Fluid-Structure Interactions
+ENME 662 Linear Vibrations
+ENME 674 Finite Element Methods
+ENME 690 Mechanical Fundamentals of Electronic Systems
+ENME 691 Industrial Artificial Intelligence
+ENME 692 Engineering Quantum Systems and Sensors
+ENME 701 Sustainable Energy Conversion and the Environment
+ENME 737 Application of AI in Reliability: Prognostics and Systems Health Management (PHM)
+ENME 741 Operations Research Models in Engineering
+ENME 744 Additive Manufacturing
+ENME 745 Numerical Methods in Engineering
+ENME 753 Indoor Environment and Mechanical Systems
+ENME 808Q Advanced Topics in Mechanical Engineering; Modern Climate Control and Building Energy Design/Analysis
+ENME 808T Advanced Topics in Mechanical Engineering; Network Control Systems
+ENPM 606 Data Science
+ENPM 611 Software Engineering
+ENPM 613 Software Design & Implementation
+ENPM 615 Embedded Systems
+ENPM 621 Heat Pump and Refrigeration Systems Design Analysis
+ENPM 622 Energy Conversion I - Stationary Power
+ENPM 625 Heating, Ventilation and Air Conditioning of Buildings
+ENPM 633 Introduction to Machine Learning
+ENPM 634 Penetration Testing
+ENPM 640 Rehabilitation Robotics
+ENPM 645 Human-Robot Interaction
+ENPM 655 AI-Based Software Systems
+ENPM 660 Wind Energy Engineering
+ENPM 662 Introduction to Robot Modeling
+ENPM 665 Cloud Security
+ENPM 667 Control of Robotic Systems
+ENPM 672 Fundamentals for Thermal Systems
+ENPM 680 Introduction to Secure Coding for Software Engineering
+ENPM 685 Security Tools for Information Security
+ENPM 687 Digital Forensics and Incidence Responses
+ENPM 691 Hacking of C programs and Unix Binaries
+ENPM 694 Networks and Protocols
+ENPM 695 Secure Operating Systems
+ENPM 696 Reverse Software Engineering
+ENPM 700 Software Development for Robotics
+ENPM 702 Introductory Robot Programming
+ENPM 703 Fundamentals of AI and Deep Learning
+ENPM 808 Advanced Topics in Engineering
+ENPM 808J Advanced Topics in Engineering; Design of Experiments
+ENPM 809F Special Topics in Engineering; Internet of Things
+ENPM 818G Variable Topics in Engineering; Embedded Systems Hardware
+ENPM 818M Variable Topics in Engineering; Introduction to Networking and Distributed Systems 5G/6G
+ENPM 818N Variable Topics in Engineering; Cloud Computing
+ENPM 818P Variable Topics in Engineering; Linux System Administration
+ENPM 818R Variable Topics in Engineering; Virtualization and Container Technologies
+ENRE 600 Fundamentals of Failure Mechanisms
+ENRE 602 Principles of Reliability Analysis
+ENRE 641 Probabilistic Physics of Failure and Accelerated Testing
+ENRE 645 Human Reliability Analysis
+ENRE 648E Special Problems in Reliability Engineering; Operations Research Models in Engineering
+ENRE 648J Special Problems in Reliability Engineering; Application of AI in Reliability: Prognostics and Systems Health Management (PHM)
+ENRE 648M Special Problems in Reliability Engineering; Risk Analysis in Engineering and Economics
+ENSE 621 Systems Engineering Concepts and Processes: A Model-Based Approach
+ENSE 623 System Development, Verification, and Validation
+ENSE 626 System Life Cycle Analysis and Risk Management
+ENSE 698R Special Topics in Systems Engineering; Risk Analysis in Engineering and Economics
+ENST 602 Research Principles and Methodology in Environmental Scienceand Technolgy
+ENST 603 Advanced Invasive Species Ecology
+ENST 606 Advanced Ecosystem Health and Natural Resource Management
+ENST 611 Advanced Principles of Soil Fertility
+ENST 650 Advanced Wetland Ecology
+ENST 689 Special Topics
+ENST 689M Special Topics; Advanced Soil Chemistry
+ENST 689X Special Topics; Methods in University Teaching
+ENST 689Y Special Topics; Advances in Research, Plant Membrane Biology
+ENST 761 Methods in Pedological Investigations
+ENST 798 Graduate Seminar
+ENTM 699K Advanced Entomology; Biological Sciences Teaching and Learning in Higher Education
+ENTM 701 Teaching & Professional Development in Biology
+ENTM 710 Insect Biodiversity, Physiology and Ecology
+ENTM 756 Insect Diseases and Pathology
+ENTM 769 Capstone: Scholarly Paper
+ENTM 788C Entomological Topics; Colloquium
+ENTM 798E Topic Seminar; Professional Development for Life Scientists
+ENTS 622 Introduction to Digital Communication Systems
+ENTS 630 The Economics of International Telecommunications
+ENTS 635 Decision Support Methods for Telecommunication Managers
+ENTS 640 Networks and Protocols I
+ENTS 656 Introduction to Cellular Communication Networks
+ENTS 657 Satellite Communication Systems
+ENTS 669B Special Topics in Computing; Distributed Systems in a Virtual Environment
+ENTS 669D Special Topics in Computing; Foundations of Machine Learning
+ENTS 759I Advanced Topics in Communications; Selected Topics in 5G System Design and Evolution
+EPIB 610 Foundations of Epidemiology
+EPIB 612 Epidemiologic Study Design
+EPIB 642 Obesity Epidemiology: Hormones and Cancer
+EPIB 650 Biostatistics I
+EPIB 651 Applied Regression Analysis
+EPIB 652 Categorical Data Analysis
+EPIB 655 Longitudinal Data Analysis
+EPIB 697 Public Health Data Management
+EPIB 788 Critical Readings in Epidemiology and Biostatistics
+FMSC 631 Trauma & Addiction in Family Life
+FMSC 640 Family Therapy: Theory and Techniques
+FMSC 642 Normal and Abnormal Individual and Family Development
+FMSC 650 Ethical, Legal, and Professional Principles in Couple and Family Therapy
+FMSC 652 Psychopathology and Diagnosis in Family Systems
+FMSC 658 Supervised Clinical Practice in Couple and Family Therapy
+FMSC 745 Diversity and Social Justice In Couple and Family Therapy
+FMSC 750 Family and Health Policy
+FMSC 850 Maternal & Child Health Epidemiology
+FMSC 879 Preparing Future Faculty and Professionals Seminar
+FREN 601 The History of the French Language
+FREN 629C Special Topic in Sixteenth Century French Literature; French Colonies 1550-1700
+FREN 699D Seminar; Haiti: Literature, Culture, and Identity
+FREN 709 College Teaching of French
+GEOG 601 The Nature and Practice of Science
+GEOG 642 Biogeography and Environmental Change
+GEOG 652 Digital Image Processing and Analysis
+GEOG 653 Spatial Analysis
+GEOG 654 GIS and Spatial Modeling
+GEOG 661 Fundamentals of Geospatial Intelligence
+GEOG 662 Advances in GIS and Remote Sensing
+GEOG 686 Mobile GIS and Geocomputing
+GEOG 688T Selected Topics in GIS; Technologies for Computational Earth Observations
+GEOG 788F Selected Topics in Geography; Deforestation, Land Grab, and Global Commodity Chains
+GEOG 797 Professional Project
+GEOG 798 Selected Topics in Geography: Seminar Series; Departmental Seminar
+GEOL 636 Ecosystem Restoration
+GEOL 650 Isotope and Trace Element Geochemistry
+GEOL 651 Statistics for Geoscientists
+GEOL 652 Advanced Watershed and Wetland Hydrology
+GEOL 670 Physical Oceanography
+GEOL 688 Geology Colloquium; Geology Colloquium
+GEOL 789A Recent Advances in Geology; Current Topics in Volcanology
+GEOL 789D Recent Advances in Geology; Methane Isotopologue Geochemistry
+GEOL 789I Recent Advances in Geology; Recent Advances in Igneous and Metamorphic Petrology
+GERS 618 College Teaching of German
+GERS 689L Special Topics - M.A. Level; Gender and Sexuality in German Literature and Society
+GERS 689N Special Topics - M.A. Level; New German Cinema
+GREK 604 Homer
+GVPT 600 Professionalization Seminar in Political Science
+GVPT 601 Research Design for Political Analytics
+GVPT 604 Introduction to War and Armed Conflict in World Politics
+GVPT 622 Quantitative Methods For Political Science
+GVPT 628 Advanced Topics in Coding for Political Analysis
+GVPT 635 Public Opinion
+GVPT 708A Seminar in International Relations Theory; International Relations Theory
+GVPT 729A Special Topics in Quantitative Political Analysis; Advanced Maximum Likelihood Estimation
+GVPT 729B Special Topics in Quantitative Political Analysis; Applied Social Data Science
+GVPT 761 International Political Economy
+GVPT 770 Seminar in American Political Institutions
+GVPT 803 Seminar in International Political Organization
+GVPT 870 Interest Groups Politics in the United States
+GVPT 888A Selected Topics in Comparative Governmental Institutions; Authoritarianism
+GVPT 888D Selected Topics in Comparative Governmental Institutions; Political Economy of Development
+GVPT 889B Selected Topics in Area Problems in International Relations; International Relations Theory and East Asia
+HESI 671 Intergroup Dialogue Facilitation Practicum
+HESI 672 Individual and Organizational Assessment in Student Affairs
+HESP 601 Foundations of Scientific Inquiry
+HESP 606 Basic Hearing Measurements
+HESP 610 Language Disorders in Adults
+HESP 613 Autism Spectrum Disorders
+HESP 616 Language Disorders in the Pre-school Age
+HESP 623 Education, Policy & Advocacy in Bilingual Service Delivery
+HESP 624 Voice Disorders
+HESP 626 Language disorders in school-aged children and adolescents
+HESP 630 Electrophysiological Measurements
+HESP 639B Special Topics in Hearing and Speech Sciences; Introduction to Signal Processing in the Auditory and Communication Sciences
+HESP 639D Special Topics in Hearing and Speech Sciences; Advanced Dysphagia
+HESP 645 Pediatric Audiology
+HESP 648A Clinical Practice in Speech: Diagnostic Procedures
+HESP 648B Clinical Practice in Speech: Therapeutic Procedures
+HESP 649A Clinical Practice in Audiology: Diagnostic Procedures
+HESP 700 Hearing Aids
+HESP 702 Diagnostic Procedures in Speech-Language Pathology
+HESP 710 Industrial and Environmental Noise Problems
+HESP 712 Cochlear Implants and Other Implantable Technologies
+HESP 722 Psychoacoustics
+HESP 729 Advanced Clinical Practice in Audiology; Advanced Graduate Laboratory Practicum in Audiology
+HESP 732 Hearing Aids Lab
+HESP 734 Basic Hearing Measurement Laboratory
+HESP 736 Electrophysiological Measurements Lab
+HESP 829 Clinical Internship Residency
+HISP 600 History, Theory, and Practice of Historic Preservation
+HISP 611 Historical Research Methods
+HISP 619P Special Topics in Historic Preservation; Excavating Local Heritage: An Archaeology and Preservation Field School
+HISP 629 Independent Studies in Historic Preservation
+HISP 650 Historic Preservation Studio Workshop
+HISP 655 American Vernacular Architecture
+HISP 660 Internship in Historic Preservation
+HISP 680 Preservation Economics
+HISP 701 Certificate Portfolio Project
+HISP 710 Final Project in Historic Preservation I
+HISP 711 Final Project in Historic Preservation II
+HIST 601 History and Contemporary Theory
+HIST 607 The Teaching of History in Institutions of Higher Learning
+HIST 608A General Seminar; American History
+HIST 608G General Seminar; Colonial Latin America
+HIST 608M General Seminar; History of Science, Technology, Environment, and Medicine
+HIST 608N General Seminar; Global Interaction and Exchange
+HIST 610 Introduction to Museum Scholarship
+HIST 619F Special Topics in History; Making Public History: Behind the Scenes at the National Museum of American History
+HIST 619G Special Topics in History; Slavery, Freedom, and Citizenship: Readings in Nineteenth Century United States History
+HIST 638G Special Topics in History; Readings in Race and Migration
+HIST 638I Special Topics in History; Readings in American Capitalism
+HIST 638Q Special Topics in History; Sufism: History, Literature, and Politics of Islamic Mysticism
+HIST 639Z Special Topics in History; Issues and Themes in Soviet History
+HIST 811 Museum Scholarship Practicum
+HIST 819O Special Topics in History: Independent Research; United States History: Reconstruction to the Present
+HIST 819X Special Topics in History: Independent Research; Research in European History
+HLSA 601 Introduction to Health Systems
+HLSA 611 Introduction to Health Equity
+HLSA 702 Policy and Politics of Health
+HLSA 711 Health Economics and Analysis
+HLSA 716 Pharmaceutical Policy and Economics
+HLSA 720 Health Law and Ethics
+HLSA 727 Causal Inference in Health Services Research
+HLSA 742 Quantitative Methods in Healthcare Administration
+HLSA 745 Public Health Practice and Management
+HLSA 750 Healthcare Management Information Systems
+HLSA 765 Dissertation Proposal Development Seminar
+HLSA 770 Continuous Quality Improvement in Healthcare
+HLSA 772 Healthcare Leadership and Communications
+HLSA 775 Health Services and Policy Research Methods
+HLTH 609 Public Health Journal Club
+HLTH 672 Public Health Informatics
+HLTH 674 Health Literacy
+HLTH 701 Mixed Methods in Behavioral and Community Health Research
+HLTH 710 Methods and Techniques of Research
+HLTH 712 Applied Research Methods in Behavioral and Community Health
+HLTH 778 Practical Experience in Public Health
+HLTH 780 Community Health
+HLTH 784 Guided Capstone Preparation Seminar
+IDEA 659 The Innovation Studio
+IDEA 698 Independent Study in Design Thinking
+INFM 600 Information Environments
+INFM 603 Information Technology and Organizational Context
+INFM 620 Introduction to Strategic Information Management
+INFM 737 Information Management Capstone Experience
+INST 600 Foundations for Librarians and Information Professionals
+INST 604 Introduction to Archives and Digital Curation
+INST 607 Government Information
+INST 608A Special Topics in Information Studies; Electronics for Makers
+INST 608Q Special Topics in Information Studies; Consumer Health Informatics
+INST 610 Information Ethics
+INST 613 Information and Human Rights
+INST 615 Information Professionals and the Law
+INST 620 Diverse Populations, Inclusion, and Information
+INST 627 Data Analytics for Information Professionals
+INST 630 Introduction to Programming for the Information Professional
+INST 631 Fundamentals of Human-Computer Interaction
+INST 639L Practical Skills in HCI; Accessibility Evaluation Workshop
+INST 643 Curation in Cultural Institutions
+INST 650 Facilitating Youth Learning in Formal and Informal Environments
+INST 651 Promoting Rich Learning with Technology
+INST 653 Introduction to Museum Scholarship
+INST 661 Introduction to Game, Entertainment, and Media Analytics
+INST 680 Health Informatics
+INST 704 Inclusive Design in HCI
+INST 705 Game Design Studio
+INST 710 User Experience Research Methods
+INST 711 Interaction Design Studio
+INST 728A Special Topics in Information Studies; Digital Accessibility Law and Management
+INST 728B Special Topics in Information Studies; Music Encoding for Preservation & Research
+INST 728C Special Topics in Information Studies; Advanced Visual Design for Interfaces
+INST 728D Special Topics in Information Studies; Learning and Community Engagement in Museums
+INST 728F Special Topics in Information Studies; Generative AI in UX: Transforming UX Practice
+INST 735 Natural Language Processing
+INST 737 Introduction to Data Science
+INST 752 Location Intelligence
+INST 753 Data Governance and Data Quality
+INST 754 Data Integration and Preparation for Analytics
+INST 760 Data Visualization
+INST 764 Data Literacy for Arts and Entertainment Management
+INST 771 Foundations of Cybersecurity
+INST 775 HCIM CAPSTONE PREP
+INST 779 Readings Seminar; Readings Seminar
+INST 782 Arrangement, Description, and Access for Archives
+INST 784 Digital Preservation
+INST 787 Museum Scholarship Practicum
+INST 798 Seminar in Research Methods and Data Analysis
+INST 800 The Engaged Intellectual: An Introduction to Research and Academic Work
+INST 801 Theoretical and Epistemological Foundations in Information Studies
+INST 808 Seminar in Research Methods and Data Analysis
+INST 828 Readings Seminar
+INST 878D Special Topics in Information Studies; Governing Algorithms & Algorithmic Governance
+INST 878G Special Topics in Information Studies; Participatory Design and Participatory Action Research
+INST 878J Special Topics in Information Studies; Accessible Computer Mediated Communication
+INST 878P Special Topics in Information Studies; Leading an Inclusive Information Organization
+JOUR 601 Theories of Journalism and Public Communication
+JOUR 603 News Videography
+JOUR 604 Introduction to Multimedia Skills for Graduate Certificate Programs
+JOUR 620 Public Affairs Reporting
+JOUR 625 Advanced Capital News Service Bureau
+JOUR 628C Specialized Topics in News Writing and Reporting; Advanced Howard Center Investigations I
+JOUR 628G Specialized Topics in News Writing and Reporting; Sports Enterprise Reporting
+JOUR 628I Specialized Topics in News Writing and Reporting; Advanced Howard Center Investigations II
+JOUR 628N Specialized Topics in News Writing and Reporting; Reporting on Journalists Imprisoned Overseas
+JOUR 634 Audio and Podcast Reporting
+JOUR 636 Studio Production
+JOUR 652 Interactive Design and Development
+JOUR 655 Advanced Online News Bureau
+JOUR 660 Broadcast News Writing
+JOUR 661 Television Reporting and Production
+JOUR 662 Broadcast News Producing
+JOUR 664 Advanced Audio and Podcast Reporting
+JOUR 667 Broadcast News Bureau
+JOUR 668N Topics in Broadcasting and Electronic Media; Advanced Photojournalism
+JOUR 668O Topics in Broadcasting and Electronic Media; Advanced Studio Production
+JOUR 668T Topics in Broadcasting and Electronic Media; Documentary Video Production and Cinematography
+JOUR 668X Topics in Broadcasting and Electronic Media; Documentary Filmmaking
+JOUR 668Y Topics in Broadcasting and Electronic Media; Sports Producing
+JOUR 668Z Topics in Broadcasting and Electronic Media; Visual Theories: Examining Representation in Documentary, Film and Digital Media
+JOUR 670 Photojournalism
+JOUR 682 Sports Reporting and Writing
+JOUR 689D News Coverage of Specialized Topics; Social Video Journalism
+JOUR 689E News Coverage of Specialized Topics; Entertainment, Arts and Culture Reporting
+JOUR 689I News Coverage of Specialized Topics; Investigative Reporting
+JOUR 689P News Coverage of Specialized Topics; Beyond the Briefing Room: Covering the White House and National Politics in a Divided America
+JOUR 689R News Coverage of Specialized Topics; Computational Text Analysis
+JOUR 689X News Coverage of Specialized Topics; Investigative Reporting with Artificial Intelligence and Open Source Intelligence (OSINT) Data
+JOUR 698R Special Problems in Communication; Research Proposal Preparation
+JOUR 702 Journalism Law and Ethics
+JOUR 772 Data Journalism
+JOUR 773 Computational Journalism
+JOUR 800 Introduction to Doctoral Study in Journalism and Public Communication
+KNES 618 Current Readings in Exercise and Applied Physiology
+KNES 619 Current Readings in Physical Cultural Studies
+KNES 622 Teaching Secondary Physical Education
+KNES 660 Psychology of Athletic Performances
+KNES 674 Quantitative Methods in Cognitive Motor Behavior
+KNES 678 Professional Seminar for Teacher Development in Physical Education
+KNES 689C Special Problems in Kinesiology; Sport, Media, and Culture
+KNES 689Q Special Problems in Kinesiology; Clinical Biomechanics: Musculoskeletal Injury
+KNES 691 Muscular Aspects of Exercise Physiology
+KNES 780 Preparation for Capstone Project in Physical Activity and Public Health
+LACS 609 Colloquium in Latin American and Caribbean Studies
+LACS 688 Experiential Learning in Latin American and Caribbean Studies
+LACS 689 Research Praxis in Latin American and Caribbean Studies
+LARC 620 Graphic Tools for Landscape Representation
+LARC 640 Graduate Studio I
+LARC 642 Graduate Studio III
+LARC 670 Landscape Architecture Theory and Criticism
+LARC 721 Landscape Construction Methods and Materials
+LARC 748 Advanced Special Topics Studio
+LATN 672 Historical Development of the Latin Language
+LATN 688I Special Topics in Latin Literature; Latin Prose Composition
+LBSC 602 Serving Information Needs
+LBSC 631 Achieving Organizational Excellence
+LBSC 644 Collection Development
+LBSC 645 Literature and Materials for Children
+LBSC 671 The Lifecycle of Information
+LBSC 702 User Instruction
+LBSC 707 Field Study in Information Service
+LBSC 708Y Special Topics in Library and Information Science; Community Archives
+LBSC 723 Advocacy and Support for Information Services
+LBSC 724 Public Library Seminar
+LBSC 731 Special Collections
+LBSC 742 Collaborative Instructional Design and Evaluation
+LBSC 749 Internship in School Libraries
+LBSC 751 Research and Teaching Fellowship II
+LBSC 770 Metadata and Tools for Information Professionals
+LING 610 Syntactic Theory
+LING 625 Morphology and the Lexicon
+LING 640 Psycholinguistics
+LING 660 Introduction to Semantics
+LING 698 Directed Study; Seminar
+LING 698T Directed Study; Pedagogy for Linguistics
+LING 723 Natural Language Processing
+LING 829A Seminar in Phonological Theory
+LING 848P Seminar in Computational Linguistics; Computing and the Brain
+LING 879A Seminar in Semantics
+LING 888 Doctoral Research Paper
+MATH 600 Abstract Algebra I
+MATH 606 Algebraic Geometry I
+MATH 620 Algebraic Number Theory I
+MATH 630 Real Analysis I
+MATH 632 Functional Analysis
+MATH 636 Representation Theory
+MATH 642 Dynamical Systems I
+MATH 661 Complex Analysis II
+MATH 673 Partial Differential Equations I
+MATH 695 Teaching Seminar
+MATH 712 Mathematical Logic I
+MATH 730 Fundamental Concepts of Topology
+MATH 742 Geometric Analysis
+MATH 808E Selected Topics in Algebra; Complex abelian varieties
+MATH 818C Selected Topics in Logic; Descriptive Set Theory and Abstract Analysis
+MATH 838C Topics in Dynamics
+MATH 848N Selected Topics in Geometry and Topology; Topics in Differential Geometry
+MATH 858C Selected Topics in Analysis; Mathematical Methods in Machine Learning
+MATH 858F Selected Topics in Analysis; Collective Dynamics of Active Particles
+MATH 858I Selected Topics in Analysis; Reaction - Diffusion Equations
+MEES 602 R Programming Basics
+MEES 603 Responsible Conduct of Research
+MEES 607 Quantitative Methods in Environmental Sciences
+MEES 608O Seminar in Marine-Estuarine-Environmental Sciences; Topics in OMICS: From Environmental Studies to Human Health
+MEES 613 Environmental Statistics I
+MEES 615 Scientific Writing and Communication
+MEES 620 Environment and Society
+MEES 623 Comparative Animal Physiology
+MEES 640 Interconnected Earth Systems: Land, Ocean, and Estuary
+MEES 650 Advanced Wetland Ecology
+MEES 660 Ecological Systems
+MEES 680 Cell and Molecular Biology for the Environmental Scientist- From Genes to Ecosystems
+MEES 682 Fishery Science and Management
+MEES 698C Special Topics in Marine-Estuarine-Environmental Sciences; Spatial Ecology in R
+MEES 698E Special Topics in Marine-Estuarine-Environmental Sciences; Ecosystem Restoration
+MEES 698I Special Topics in Marine-Estuarine-Environmental Sciences; Chesapeake Bay Health
+MEES 698M Special Topics in Marine-Estuarine-Environmental Sciences; Modeling Chemical Equilibrium in Natural Waters
+MEES 698V Special Topics in Marine-Estuarine-Environmental Sciences; Environmental Field Methods
+MEES 698W Special Topics in Marine-Estuarine-Environmental Sciences; Chemistry of Natural Water
+MEES 702 R Programming Advanced
+MEES 718L Study Groups on Issues in Marine Estuarine Enviornmental Sciences; Iron Addition to the Ocean: Climate Fix or Climate Disaster
+MEES 718M Study Groups on Issues in Marine Estuarine Enviornmental Sciences; Coastal Environment and Community Health
+MIEH 600 Foundations of Environmental Health
+MIEH 605 Fundamentals of Global Health
+MIEH 609 Methods in Environmental Health
+MIEH 692 UMD Global STEWARDS: Project-Based Data Practicum at the Nexus of Food, Energy, and Water Systems
+MIEH 740 Environmental Health Risk Assessment
+MIEH 778 Practical Experience in Public Health
+MIEH 780 Occupational Health
+MIEH 783 Proposal Development and Marketing for Public Health Scientists
+MIEH 786 Capstone Project in Public Health
+MITH 628B Special Topics in Digital Humanities; Research Assistantship
+MITH 729 Colloquium in Digital Studies
+MOCB 608 Molecular and Cell Biology Seminar
+MSML 601 Probability and Statistics
+MSML 602 Principles of Data Science
+MSML 603 Principles of Machine Learning
+MSML 641 Natural Language Processing
+MSML 642 Robotics
+MSML 650 Cloud Computing
+MSQC 601 Mathematics and Methods of Quantum Computing
+MSQC 602 Physics of Quantum Devices
+MSQC 603 Principles of Machine Learning
+MSQC 607 Advanced Topics in Quantum Computing
+MUED 672 Advanced Instrumental Methods in Music Education
+MUED 692 Foundations and Perspectives of Music Education
+MUED 697 Curriculum & Assessment in Music Education
+MUED 698V Current Trends in Music Education; Vocal Pedagogy for the Choral Conductor
+MUED 729 Doctoral Colloquium in Music Education
+MUED 790 Design and Analysis of Research in Music Education
+MUSC 550 Theory of Music Graduate Review
+MUSC 601 Advanced English Lyric Diction
+MUSC 603 Advanced German Lyric Diction
+MUSC 605 Opera Repertory I
+MUSC 609 Piano Chamber Music Practicum and Analysis
+MUSC 611 Opera Techniques I
+MUSC 613 Opera Techniques III
+MUSC 629A Ensemble; Symphony Orchestra
+MUSC 629C Ensemble; Wind Ensemble
+MUSC 629D Ensemble; Steel Band Ensemble
+MUSC 629E Ensemble; Advanced Steel Band Ensemble
+MUSC 629F Ensemble; Marching Band
+MUSC 629G Ensemble; Balinese Gamelan
+MUSC 629H Ensemble; Harp
+MUSC 629J Ensemble; Jazz Ensemble
+MUSC 629K Ensemble; Japanese Koto
+MUSC 629L Ensemble; Advanced Japanese Koto
+MUSC 629P Ensemble; Percussion Ensemble
+MUSC 629Q Ensemble; Korean Percussion Ensemble
+MUSC 629R Ensemble; Repertoire Orchestra
+MUSC 629U Ensemble; University Band
+MUSC 629W Ensemble; Wind Orchestra
+MUSC 629Z Ensemble; Jazz Combo
+MUSC 643 Seminar in Solo Vocal Literature I
+MUSC 646 Introduction to Musicology
+MUSC 648 Seminar in Music Research; Seminar in Music Research
+MUSC 649A Ensemble; University of Maryland Chorale
+MUSC 649B Ensemble; Chamber Singers
+MUSC 649E Ensemble; Ensemble: Gospel Choir
+MUSC 649M Ensemble; Ensemble: Tactus (Tenor & Bass Choir)
+MUSC 649O Ensemble; Opera Chorus
+MUSC 649W Ensemble; Treble Choir
+MUSC 651 The Theories of Heinrich Schenker
+MUSC 653 Jazz Improvisation I
+MUSC 655 Theory of Jazz
+MUSC 659A Seminar in Repertoire and Pedagogy
+MUSC 659B Seminar in Repertoire and Pedagogy; Orchestral Repertoire and Pedagogy
+MUSC 659C Seminar in Repertoire and Pedagogy; Wind Repertoire and Pedagogy
+MUSC 660 String Pedagogy
+MUSC 669C Orchestral Excerpts for String Players; Violin
+MUSC 669D Orchestral Excerpts for String Players; Viola
+MUSC 669E Orchestral Excerpts for String Players; Orchestral Excerpts for String Players: Cello
+MUSC 669F Orchestral Excerpts for String Players; Bass
+MUSC 669V Orchestral Excerpts for String Players; Harp
+MUSC 675 Music Theory Pedagogy
+MUSC 679C Seminar in Ethnomusicology; Music and the Postcolonial African City
+MUSC 689 Advanced Conducting
+MUSC 699D Selected Topics in Music; Diction for Pianists
+MUSC 699I Selected Topics in Music; Music and Dance: An Introduction to Choreomusical Analysis
+MUSC 699R Selected Topics in Music; Readings in Russian and Soviet Music
+MUSC 699X Selected Topics in Music; Music and Race
+MUSC 757 Aural Skills for Conductors
+MUSC 758 Advanced Aural Skills for Conductors
+MUSC 800S Advanced Seminar in Music Pedagogy
+MUSC 800W Advanced Seminar in Music Pedagogy
+MUSC 802A Advanced Seminar in Music Pedagogy III
+MUSC 811 Doctoral Opera Techniques
+MUSC 813 Doctoral Opera Techniques III
+MUSC 830A Doctoral Seminar in Music Literature
+MUSC 830P Doctoral Seminar in Music Literature
+MUSC 830V Doctoral Seminar in Music Literature
+MUSC 830W Doctoral Seminar in Music Literature
+MUSC 832A Doctoral Seminar in Music Literature
+NACS 608 Neuroscience and Cognitive Science Seminar
+NACS 640 Foundational Readings Seminar
+NACS 641 Introduction to Neurosciences
+NACS 645 Cognitive Science
+NACS 728F Selected Topics in Neuroscience and Cognitive Science; Introduction to Functional Magnetic Resonance Imaging
+NACS 728J Selected Topics in Neuroscience and Cognitive Science; Neurobiology of Chemosensory Systems
+NACS 728M Selected Topics in Neuroscience and Cognitive Science; Grant Writing
+NFSC 620 Diet and Cancer Prevention
+NFSC 621 Advanced Current Topics in Nutrition and Chronic Disease
+NFSC 624 Advanced Research Design and Methods in Nutrition Education
+NFSC 641 Fermented Food, Feed, and Pharmaceuticals
+NFSC 678K Selected Topics in Nutrition; Gut Microbiota Health and Metabolic Disease
+NFSC 678P Selected Topics in Nutrition; Precision Nutrition and Human Health
+NFSC 678R Selected Topics in Nutrition; Advanced Human Nutrition
+NFSC 679G Selected Topics in Food Science; R for Applied Genomics
+NFSC 679J Selected Topics in Food Science; Nutraceuticals and Functional Foods
+NFSC 679R Selected Topics in Food Science; Food Safety and Nutrition Risk Assessment
+NFSC 679T Selected Topics in Food Science; Advanced Food Processing and Safety
+NFSC 688 Seminar in Nutrition and Food Science
+NFSC 690 Nutrition and Aging
+NIAS 788W Advanced Topics; Wing Theory
+PERS 689T Special Topics in Persian Studies
+PHIL 660 Metaphysics, Mind, and Language
+PHIL 808K Seminar in the Problems of Philosophy
+PHIL 808M Seminar in the Problems of Philosophy
+PHIL 808N Seminar in the Problems of Philosophy; Naturalism, Nonnaturalism, and Normativity
+PHYS 610 Mathematical Methods and Their Applications in Classical Mechanics and Electrodynamics I
+PHYS 612 Quantum and Statistical Physics I
+PHYS 624 Advanced Quantum Mechanics
+PHYS 626 Quantum Many-Body Theory II
+PHYS 675 Introduction to Relativity, Gravitation and Cosmology
+PHYS 685 Research Electronics
+PHYS 688P Interdisciplinary Topics in Physics; Science, Technology, and National Security
+PHYS 709 Seminar in General Physics; Statistical Physics
+PHYS 715 Chaotic Dynamics
+PHYS 728J Seminar in Atomic and Molecular Physics; JQI Seminar
+PHYS 738 Seminar in Experimental Solid State Physics; Quantum Mechanical Many-Body Problems
+PHYS 739 Seminar in Theoretical Solid State Physics; Quantum Mechanical Many-Body Problems
+PHYS 749 Seminar in Theoretical Nuclear Physics
+PHYS 758E Seminar in Elementary Particles and Quantum Field Theory; Seminar in Elementary Particles and Quantum Field Theory
+PHYS 759 Seminar in Elementary Particles and Quantum Field Theory
+PHYS 769 Seminar in Plasma Physics
+PHYS 778 Seminar in Space and Cosmic Ray Physics
+PHYS 786 Machine Learning for Physicists
+PHYS 798B Special Problems in Advanced Physics; Physics Colloquium
+PHYS 798L Special Problems in Advanced Physics; Biophysics
+PHYS 798Q Special Problems in Advanced Physics; Seminar in Quantum Physics, Information, and Technology
+PHYS 838C Special Topics in Experimental Solid State Physics; Superconductivity, Quantum Materials and Nanoscience Seminar
+PHYS 839A Special Topics in Theoretical Solid State Physics; Theory of Low Dimensional Systems
+PHYS 859C Special Topics in Elementary Particles and Quantum Field Theory; Cosmology and Particle Physics
+PHYS 879G Special Topics in General Relativity; Gravitational-Wave Physics
+PLCY 610 Quantitative Aspects of Public Policy
+PLCY 630 Normative and Political Dimensions of Public Policy
+PLCY 631 Governance: Leadership, Management and Accountability
+PLCY 640 Microeconomic and Policy Analysis
+PLCY 641 Macroeconomics and Policy Analysis
+PLCY 670 Public Budgeting & Financial Management
+PLCY 680 Examining Social Identity and Pluralism in Public Policy
+PLCY 688F Topics in Public Policy; State, Local & Non-Profit Financial Management
+PLCY 688P Topics in Public Policy; Science, Technology, and National Security
+PLCY 688X Topics in Public Policy; Human Dignity
+PLCY 689E Public Policy Topics; Program Evaluation and Cost-Benefit Analysis
+PLCY 689Y Public Policy Topics; Nonprofit Fundraising
+PLCY 689Z Public Policy Topics; Strategic Management for NonProfit and Public Organizations
+PLCY 690 Policy Engagement Project
+PLCY 698D Selected Topics in Public Affairs; Social Entrepreneurship
+PLCY 698T Selected Topics in Public Affairs; Managing Across Sectors
+PLCY 700 Trade Policy, Geopolitics, Development and Climate
+PLCY 717 Federal Budgeting: Policy and Process
+PLCY 720 International Security Policy
+PLCY 734 Foundations of Social Policy
+PLCY 735 Health Policy
+PLCY 740 Public Policy and the Environment
+PLCY 741 Global Environmental Problems
+PLCY 744 Environment and Development
+PLCY 780 The American Foreign Policy-Making Process
+PLCY 781 International Economic Policy
+PLCY 798N Readings in Public Policy; Energy Economics
+PLCY 798R Readings in Public Policy; Quantitative Research Methods and Public Policy
+PLCY 798V Readings in Public Policy; Policy Process Research and Theory
+PLCY 798Y Readings in Public Policy; Nonprofit Management and Leadership
+PLCY 798Z Readings in Public Policy; Qualitative Research Methods and Public Policy
+PLSC 608 Research Methods
+PLSC 608T Research Methods; Supervised Teaching
+PSYC 601 Quantitative Methods I
+PSYC 603 Introduction to Industrial and Organizational Psychology
+PSYC 614 Emotion: From Biological Foundations to Contemporary Debates in the Psychological Sciences
+PSYC 622 Research Methods in Clinical Psychology
+PSYC 624 Adult Psychopathology
+PSYC 629B Clinical Laboratory; Assessment Practicum
+PSYC 629C Clinical Laboratory; Adult Therapy Practicum
+PSYC 629D Clinical Laboratory; Child and Adolescent Therapy Practicum
+PSYC 638 Externship in Professional Psychology
+PSYC 639 Internship in Professional Psychology
+PSYC 643 Ethics and Foundations of Assessment and Clinical Intervention
+PSYC 644 Basic Foundation of Clinical Interventions
+PSYC 651 Writing and Critical Thinking
+PSYC 653 The Business of Evaluation: Research Methods at Work
+PSYC 654 Advanced Analytical Thinking: Statistical Methods at Work II
+PSYC 660 Performance Management, Compensation, and Benefits
+PSYC 661 Practicum in IO Psychology
+PSYC 692 Assessment in Counseling Psychology I
+PSYC 732 Selection and Classification Issues in Organizations
+PSYC 789K Special Research Problems; Multilevel Theory and Dynamics
+PSYC 798P Graduate Seminar; Stereotyping and Prejudice
+PSYC 888A Research Methods in Psychology; Developmental Seminar
+RDEV 600 Principles and Practice of Real Property Development
+RDEV 603 Introduction to Real Property Finance
+RDEV 605 Tax and Accounting for Real Property Developers
+RDEV 620 Market Analysis for Real Property Development
+RDEV 640 Principles of Urban Design for Real Property Developers
+RDEV 660 Commercial Leasing for Real Property Developers
+RDEV 670 Negotiating Agreements & Resolving Conflicts when Developing Real Property
+RDEV 688C Selected Topics in Real Estate Development; Real Estate Case Study Competition
+RDEV 689D Current Topics in Real Estate Development; Affordable Housing Asset Management
+RDEV 689Y Current Topics in Real Estate Development; Guided Real Estate Development Project
+RDEV 690 Capstone Project: Real Property Feasibility Study
+SLAA 610 Research and Theories in Second Language Acquisition
+SLAA 620 Second Language Research Methodologies
+SLAA 640 Psycholinguistics
+SLAA 649R Special Topics in Second Language Acquisition; Research Critique
+SLAA 742 Second Language Processing
+SLAA 749B Special Topics in Second Language Learning; Individual Differences in SLA
+SOCY 601 Statistics For Sociological Research I
+SOCY 610 Logic of Social Inquiry
+SOCY 611 Introduction to Demographic Methods
+SOCY 620 Development of European and American Sociological Theory
+SOCY 632 Introduction to Qualitative Research Methods
+SOCY 646 Public Image Management and Policy Solutions
+SOCY 657 Constitutional Law and Public Safety
+SOCY 660 Theories of Social Psychology
+SOCY 675 Sociology of Emotions
+SOCY 699C Special Social Problems; Introduction to Computing for Sociologists
+SOCY 699M Special Social Problems; Pro-Seminar for BA/MA Students
+SPAN 605 Teaching Spanish I
+SPAN 609A Medieval Spanish Literature; Tropical Dreams: Nature and Art in Brazil
+SPAN 625 Introduction to Hispanic Linguistics I:Basic Concepts
+SPAN 687 Critical Language Pedagogy for Social Justice
+SPAN 798O Open Seminar; The Radical Naturalists
+SPAN 798Q Open Seminar; The Early Modern: Colonial and Transatlantic Crossroads
+SPAN 798U Open Seminar; Text and Image: An (Amphibian?) Approach
+SPHL 600 Foundations of Public Health
+SPHL 601 Core Concepts in Public Health
+SPHL 602 Foundations of Epidemiology and Biostatistics
+SPHL 603 Public Health Data Laboratory
+SPHL 612 Research Ethics
+SPHL 620 Leadership, Teams, and Coalitions: Policy to Advocacy
+STAT 600 Probability Theory I
+STAT 700 Mathematical Statistics I
+STAT 705 Computational Statistics
+STAT 740 Linear Statistical Models I
+STAT 818J Selected Topics in Statistics; Large Deviations
+STAT 818N Selected Topics in Statistics; Statistical Foundations of Deep Neural Network Models
+SURV 612 Ethical Considerations for Data Science Research
+SURV 615 Statistical Modeling and Machine Learning I
+SURV 617 Applications of Statistical Modeling
+SURV 621 Fundamentals of Data Collection I
+SURV 626 Sampling
+SURV 627 Experimental Design and Causal Inference
+SURV 632 Cognition, Communication and Survey Measurement
+SURV 665 Introduction to Real World Data Management
+SURV 667 Introduction to Record Linkage with Big Data Applications
+SURV 699 Special Topics in Survey Methodology; Reading in Survey Methodology
+SURV 720 Total Survey Error and Data Quality I
+SURV 726 Multiple Imputation
+SURV 727 Fundamentals of Computing and Data Display
+SURV 740 Fundamentals of Inference
+SURV 753 Machine Learning II
+SURV 829 Doctoral Research Seminar in Survey Methodology
+THET 600 Introduction to Graduate Research Methods
+THET 606 Teaching Theatre
+THET 608F Seminar: Theory and Performance Studies; Aesthetics of Collaboration in Performance: Theory & Practice
+THET 608M Seminar: Theory and Performance Studies; Theatre About Show Business
+THET 633 Figure Drawing for Theatre Design
+THET 639 Graduate Design Studio - Scenery
+THET 645 Graduate Rendering for Costume Design
+THET 649 Graduate Design Studio - Costume
+THET 659 Graduate Design Studio - Lighting
+THET 669I Independent Study; Sound Design
+THET 669O Independent Study; Graduate Lighting Design Studio II
+THET 669T Independent Study; Theatre Graphics II: Computer Assisted Design
+THET 669U Independent Study; Arts Entrepreneurship: Theory and Practice
+THET 680 History of Fashion for Theatre
+THET 700 Introduction to Graduate Research Methods
+THET 713 Performance Studies
+TLPL 618 Digital Learning Tools and Communities
+TLPL 621 Learning and Teaching in the Physical Sciences I
+TLPL 625 Teaching Science in Elementary Schools
+TLPL 645 Content Area Reading
+TLPL 652 Multicultural Materials and Instruction for P-12 Readers
+TLPL 656 Teaching Culturally and Linguistically Diverse Exceptional Learners
+TLPL 661 Multiliteracies: Theory and Practice
+TLPL 664 Foundations of Second Language Education: Legal, Social and Historical Trends and Issues
+TLPL 665 Methods for Teaching Multilingual Learners
+TLPL 666 English Grammar for Teachers of English to Speakers of Other Languages
+TLPL 671 Education Policy Analysis
+TLPL 678 Professional Seminar in Education
+TLPL 681 History of Education in the United States
+TLPL 688 Special Topics in Education
+TLPL 688X Special Topics in Education; Teaching & Learning Computer Science & Computational Thinking for Elementary & Middle School
+TLPL 689 Internship in Education
+TLPL 692 Statistical Literacy for Education Research
+TLPL 695 Methods I: K-12 World Language Methods and Technology
+TLPL 696 Advanced K-12 World Language Methods and Technology
+TLPL 698 Conducting Research on Teaching
+TLPL 704 Research Methodologies and Educational Practice
+TLPL 708A Special Topics in Technology, Learning & Leadership; TLL Graduate Research Seminar
+TLPL 713 Mathematics and Science Education Policy, Professional Development and Teacher Preparation
+TLPL 728 Research Seminar in Mathematics and Science Education
+TLPL 743 Teaching English Language Learners: Current and Future Research Directions
+TLPL 764 Data Management and Coding in Stata
+TLPL 765 Quantitative Applicaltions for Education Policy Analysis
+TLPL 774 Urban Education
+TLPL 788E Special Topics in Education; Professional Seminar in Urban Education
+TLPL 788K Special Topics in Education; Teacher Cognition
+TLPL 788M Special Topics in Education; Research Development Workshop
+TLPL 788Q Special Topics in Education; Seminar in Teacher Education and Professional Development
+TLPL 788U Special Topics in Education; Race, Whiteness, and Identity
+TLPL 788V Special Topics in Education; Sociolinguistics
+TLPL 788Z Special Topics in Education; Teaching and Learning in/with Communities
+TLPL 791 Qualitative Research I: Design and Fieldwork
+TLPL 794 Foundations of Educational Research I
+TLPL 795 Foundations of Educational Research II
+URSP 601 Research Methods
+URSP 603 Land Use Planning: Concepts and Techniques
+URSP 605 Planning History and Theory
+URSP 606 Planning Economics
+URSP 688I Recent Developments in Urban Studies; The Comprehensive Plan
+URSP 688L Recent Developments in Urban Studies; Planning Technology
+URSP 688X Recent Developments in Urban Studies; Planning, Policy, and Public Education
+URSP 688Z Recent Developments in Urban Studies; Planning & Design in the Multicultural Metropolis
+URSP 708 Community Planning Studio
+URSP 709 Field Instruction
+URSP 804 Advanced Planning Theory
+URSP 810 Contemporary Metropolitan Issues
+VMSC 610 Recombinant Viral Vectors
+VMSC 698 One Health Seminar
+VMSC 758 Journal Club in Comparative Biomedical Sciences
+VMSC 760 Immunology of Infectious Diseases
+WGSS 601 Theoretical Foundations in Women, Gender, and Sexuality Studies
+WGSS 618 Feminist Pedagogy
+WGSS 628 Women, Gender, and Sexuality Studies Colloquium
+WGSS 698A Special Topics in Women, Gender, and Sexuality Studies; Fascisms
+WGSS 698E Special Topics in Women, Gender, and Sexuality Studies; Race and Media Theory and Practice
+AMSC 808A Advanced Topics in Applied Mathematics
+AMST 799 Master's Thesis Research
+ANTH 657 Approaches to Sustainable Development
+ANTH 664 Anthropology of Cultural Heritage
+ANTH 673 Native American Languages and Cultures
+ANTH 688B Current Developments in Anthropology; Educational Anthropology
+ANTH 701 Anthropology Internship Preparation
+ANTH 789 Internship
+AOSC 798 Directed Graduate Research
+ARCH 628R Selected Topics in Architectural History; A Global History of Modern Architecture
+AREC 699 Special Problems in Agricultural and Resource Economics
+AREC 799 Master's Thesis Research
+AREC 898 Pre-Candidacy Research
+AREC 899 Doctoral Dissertation Research
+ARTH 899 Doctoral Dissertation Research
+BDBA 808B Special Topics in Information Systems; Independent Research Study
+BDBA 808D Special Topics in Information Systems; Independent Research Study
+BIOE 631 Biosensor Techniques, Instrumentation, and Applications
+BIOE 658G Special Topics in Bioengineering (M.Eng.); Genome Editing & Synthetic Biology
+BIOE 658W Special Topics in Bioengineering (M.Eng.); Biosensor Techniques, Instrumentation, and Applications
+BIOI 610 Genome Annotation
+BIOL 899 Doctoral Dissertation Research
+BISI 699 Special Problems in Biological Sciences
+BISI 898 Pre-Candidacy Research
+BISI 899 Doctoral Dissertation Research
+BMSO 602 Decision Analytics
+BMSO 603 Data Mining and Predictive Analytics
+BMSO 758B Special Topics in Business; Strategy Analytics
+BMSO 758G Special Topics in Business; Customer Equity Management
+BUDT 753 Blockchain Technologies and Business Applications
+BUDT 759 Independent Study in Decision and Information Technologies
+BUSI 641 Corporate Finance II
+BUSI 718F Special Topics in Business; Advanced Financial Modeling & Equity Analysis
+BUSI 730 Marketing Research Methods
+BUSI 744 Derivative Securities
+BUSI 752 Data Mining and Predictive Analytics
+BUSI 758D Special Topics in Business; Business Decoded
+BUSI 758E Special Topics in Business; Business Decoded
+BUSI 758M Special Topics in Business; Digital Marketing Strategy
+BUSI 758Q Special Topics in Business; MBA Consulting Practicum
+BUSI 758R Special Topics in Business; Ethical Leadership
+BUSI 764 Business Law for Managers
+BUSI 785 Project Management in Dynamic Environments
+BUSI 786 Technology Management Capstone Action Learning Project
+BUSO 703 Action Learning Project II
+BUSO 704 Ethical Leadership
+BUSO 705 Business Communications
+BUSO 713 Supply Chain Management
+BUSO 716 Decision Modeling
+BUSO 732 Managing Digital Business Markets and Platforms
+BUSO 741 Consumer Behavior
+BUSO 750 Global Trade Logistics
+BUSO 758J Special Topics in Business; Corporate Finance II
+BUSO 758P Special Topics in Business; Applied Equity Analysis
+CBMG 899 Doctoral Dissertation Research
+CCJS 671 Technology in Modern Policing
+CHBE 648 Special Problems in Chemical Engineering
+CHBE 898 Pre-Candidacy Research
+CHPH 718D Special Topics in Chemical Physics; Sodium Spinor Bose-Einstein Condensation
+CLFS 609E Special Topics; Immunology
+CLFS 609J Special Topics; Evolutionary Biology
+CLFS 619C Special Topics in Chemistry; Chemical Biology
+CLFS 725 Experimental Design
+COMM 798F Independent Study; English Fluency
+COMM 798G Independent Study; Editing in English Writing
+DANC 698 Independent Study in Dance
+DATA 612 Deep Learning
+ECON 644 Empirical Analysis II: Introduction to Economic Models
+ECON 671 Economics of Health Care
+ECON 672 Program Analysis and Evaluation
+ECON 677 International Trade and Applications
+ECON 698 Selected Topics in Economics
+EDCP 611 Career Development Theory and Programs
+EDCP 632 Cognitive Assessment
+EDCP 654 History of Psychological Science
+EDCP 789C Advanced Topics in Counseling and Personnel Services; Student Activism in American Higher Education
+EDCP 798D Special Problems in Counseling and Personnel Services; Data Analysis and Scholarly Writing
+EDHI 681 Education for Global Peace
+EDHI 788C Special Topics in Education Policy and Administration; U.S. Perspectives on International Education and Development
+EDHI 788E Special Topics in Education Policy and Administration; Applied Inquiry in Higher Education
+EDHI 788T Special Topics in Education Policy and Administration; International Education & Cultural Exchange: Policies & Practice Education
+EDHI 788V Special Topics in Education Policy and Administration; Contemplative Education
+EDHI 789 Doctoral Practicum in Administration and Supervision
+EDSP 600 Issues and Trends in Educating Individuals with Disabilities
+EDSP 606 Advanced Study in Inclusive Practices in The Schools
+EDSP 611 Teaching Students with Disabilities in Elementary Classrooms
+EDSP 624 Assessment in Early Childhood Special Education
+EDSP 888L Apprenticeship in Special Education; Leadership Proposal Project
+EDUC 640 Introduction to Educational Leadership
+EDUC 701 Applied Research and Data Based Decision Making for School Leaders
+EDUC 703 Conducting Library Research for Dissertations
+EDUC 704 Introduction to Writing the Dissertation in Practice
+EDUC 767 Seminar on School District Leadership
+EDUC 888T Applied Apprenticeship in Education
+ENCE 623 Introduction to Advanced Scheduling
+ENCE 625 Project Administration
+ENCE 661 Project Cost Accounting and Finance
+ENES 664 Business Modeling and Customer Validation
+ENES 667 Market Development and Commercialization
+ENES 670 Financial Management and New Venture Financing
+ENES 676 Negotiation and Problem-Solving
+ENES 677 Data Analysis and Decision Making
+ENFP 613 Advanced Life Safety Analysis
+ENGL 679 Professional and Career Mentoring for Master's Students
+ENGL 898 Pre-Candidacy Research
+ENNU 899 Doctoral Dissertation Research
+ENPM 626 Waste and Biomass Energy Conversion
+ENPM 652 Applied Finite Element Methods
+ENPM 654 Energy Systems Management
+ENSE 799 Systems Engineering Thesis; Masters Thesis Research
+ENST 608A Research Methods; Field Studies in Pedology
+ENTM 735 Sustainability
+ENTM 760 Insects in the 21st Century
+ENTS 699R Independent Study in Telecommunications
+EPIB 611 Intermediate Epidemiology
+EPIB 620 Chronic Disease Epidemiology
+EPIB 660 Analysis of National Health Survey Data
+EPIB 667 Applied Machine Learning with Python
+EPIB 695 Introduction to R for Health Data Analysis
+FMSC 645 Sexuality: Issues in Family Therapy and Service Delivery
+FMSC 698V Advanced Topics in Family Science; Violence in Families
+FMSC 898 Pre-Candidacy Research
+GEOG 656 Advanced Programming for GIS
+GEOG 657 Web Programming
+GEOG 666 Drones for Data Collection
+GEOG 682 Open Source Intelligence
+GEOG 687 Applied GEOINT- Regional Geostrategic Issues
+HESI 789T Special Topics in Higher Education and Student Affairs; Student Affairs Dissertation Mechanics
+HESP 603 Seminar in Cultural and Linguistic Diversity in Communication Disorders
+HESP 605 Assessment & Intervention in Bilingual Populations
+HESP 621 Bilingualism in Children and Adults
+HESP 625 Dysphagia
+HESP 627 Augmentative and Alternative Communication
+HESP 634 Anatomy and Physiology of the Auditory and Vestibular Systems
+HESP 649B Clinical Practice in Audiology - Aural Rehabilitation
+HESP 728 Advanced Clinical Practice in Speech
+HESP 729 Advanced Clinical Practice in Audiology
+HESP 735 Hearing, Aging, and Public Health
+HESP 859 Capstone Research Project II
+HLSA 688 Independent Study
+HLSA 730 Healthcare Human Resources
+HLSA 778 Practical Experience in Public Health
+HLSA 786 Capstone Project in Public Health
+HLSA 799 Master's Thesis Research
+HLTH 602 Global Health and Social Justice
+HLTH 665 Health Behavior I: Theoretical Foundations of Health Behavior
+INST 608A Special Topics in Information Studies; Spatial Representation and Analysis for Library and Archives
+INST 608C Special Topics in Information Studies; Network Representation and Analysis for Library and Archives
+INST 608G Special Topics in Information Studies; Generative AI and Large Language Models for Library and Archives
+INST 702 Advanced Usability Testing
+INST 818 Individual Research Experience
+JOUR 502 Basics of Writing and Editing
+JOUR 689F News Coverage of Specialized Topics; Political Convention Coverage
+JOUR 689G News Coverage of Specialized Topics; Political Convention Coverage II
+KNES 600 Kinesiology in Public Health
+KNES 601 Epidemiology of Physical Activity
+KNES 603 Research Methods in Kinesiology & Public Health
+KNES 621 Teaching Elementary Physical Education
+KNES 778 Practical Experience in Physical Activity and Public Health
+KNES 798 Internship in Physical Education/Sports Management
+KNES 898 Pre-Candidacy Research
+LBSC 646 Literature and Materials for Young Adults
+LBSC 708A Special Topics in Library and Information Science; Planning Successful Events
+LBSC 708X Special Topics in Library and Information Science; Roles and Responses during Crises
+LBSC 708Z Special Topics in Library and Information Science; Using Technology for Interactive Instruction
+LING 689 Independent Study
+LING 896 Research Paper in Minor Area
+MIEH 607 One Health: Food Safety and Security
+MIEH 788 Critical Readings in Environmental Health
+MIEH 898 Pre-Candidacy Research
+MIEH 899 Doctoral Dissertation Research
+MLSC 620 Language at the Museum: Engaging the Public in Language Science
+MSML 606 Algorithms and Data Structures for Machine Learning
+MSML 612 Deep Learning
+MUED 690 Research Methods in Music and Music Education
+MUED 698M Current Trends in Music Education; Comprehensive Musicianship through Performance in Ensembles
+MUED 698T Current Trends in Music Education; Teaching Music with Technology
+MUSC 699U Selected Topics in Music; Music Theory Pedagogy in the 21st Century
+NACS 899 Doctoral Dissertation Research
+NFSC 678A Selected Topics in Nutrition
+NFSC 898 Pre-Candidacy Research
+PLCY 611 Quantitative Analysis of Policy Issues
+PSYC 625 Clinical Assessment: Psychometric Principles, Testing and Behavior
+PSYC 629F Clinical Laboratory; Fundamentals of Supervision and Consultation
+PSYC 632 Behavioral and Cognitive Behavioral Intervention for Children and Adolescents
+PSYC 650 Culture and Diversity in Mental Health
+PSYC 652 Analytical Thinking: Statistical Methods at Work
+PSYC 655 Talent Development
+PSYC 656 Business Fundamentals and Legal Issues facing Organizations
+PSYC 657 Managing Strategic Organizational Change
+RDEV 688P Selected Topics in Real Estate Development; Entrepreneurship for Real Estate Development
+RDEV 689N Current Topics in Real Estate Development; Construction Methods and Materials: Introduction
+SOCY 670 Applied Research Methods and Technological Training Approaches
+SOCY 758 Advanced Special Topics in Sex Roles
+SURV 611 Review of Statistical Concepts
+SURV 624 Privacy Law
+SURV 656 Web Survey Methodology
+SURV 673 Introduction to Python and SQL
+SURV 725 Item Nonresponse and Imputation
+SURV 736 Introduction to Web Scraping with R
+TLPL 614 Assessing Mathematical Understanding
+TLPL 646 Linguistics in Education
+TLPL 660 Foundations of Literacy and Biliteracy Development
+TLPL 680 Foundations of Education
+TLPL 685 Teaching Social Studies in Elementary Schools
+TLPL 688C Special Topics in Education; Engineering
+TLPL 688I Special Topics in Education; Art Integration
+TLPL 690 Critical Literacies, Digital Technology & Instruction for Diverse Classrooms
+TLPL 691 Research Methods
+TLPL 733 Advanced Clinical Practices in Reading Assessment
+TLPL 734 Advanced Clinical Practices in Reading Instruction
+TLPL 780 Contested Control: School Choice, Localism, and Centralization
+TLPL 799 Master's Thesis Research
+TLPL 889 Internship in Education
+TLPL 898 Pre-Candidacy Research
+TLPL 899 Doctoral Dissertation Research
+VMSC 899 Dissertation ResearchANSC 688G Special Topics; Animal Biotechnology Recombinant DNA Laboratory
+ANSC 699 Special Problems in Animal Science
+ANTH 607 Anthropology and Development
+ANTH 688C Current Developments in Anthropology; Climate Cultures
+ANTH 688J Current Developments in Anthropology; Educational Anthropology
+ANTH 742 Advanced Methods in CRM
+ANTH 744 Collections, Data Management and Cultural Materials Preservation
+ANTH 799 Master's Thesis Research; Cultural and Heritage Resource Management Thesis
+ARCH 628Q Selected Topics in Architectural History; history of japanese architecture
+ARTT 698A Directed Graduate Studies in Studio Art
+ARTT 698B Directed Graduate Studies in Studio Art
+BCHM 677 Computational Tools in Biochemistry
+BDBA 858R Special Topics in Marketing; Platform Strategy and Transformation
+BIOL 708F Advanced Topics in Biology; Infectious Disease Dynamics: A Systems Approach
+BMGT 758J Special Topics in Business and Management; International Business
+BMGT 758K Special Topics in Business and Management; Organizational Change
+BMGT 828 Independent Study in Business and Management
+BMGT 898 Pre-Candidacy Research
+BMSO 778K Special Topics in Business; Business Ethics
+BMSO 778Q Special Topics in Business; Experiential Learning I
+BUSI 718C Special Topics in Business; Organizational Change
+BUSI 758L Special Topics in Business; Law for Technology Managers
+BUSO 714 International Business
+BUSO 758C Special Topics in Business; Corporate Venturing
+BUSO 758F Special Topics in Business; Platform Strategy and Transformation
+CHBE 899 Doctoral Dissertation Research; Chemical Engineering
+CHEM 612 Scientific Presentations
+CLFS 609B Special Topics; The Biology of Reproduction
+CLFS 609F Special Topics; Principles of Paleobiology
+CLFS 619A Special Topics in Chemistry; Molecular Spectroscopy
+COMM 798 Independent Study
+DANC 689U Special Topics in Dance; Embodiment and Performance Technologies II
+ECON 675 Environmental Economics
+ECON 684 Applied Time Series Analysis and Forecasting
+EDCP 620 Introduction to Mental Disorders
+EDCP 665 Family and Social Support Systems
+EDCP 694 Student Leadership Development
+EDCP 701 Theories and Methods of Intervention
+EDCP 743 Developmental Psychopathology
+EDCP 788 Advanced Practicum
+EDCP 888A Apprenticeship in Counseling and Personnel Services
+EDHI 788B Special Topics in Education Policy and Administration; Leadership in Multicultural Teams for Successful Project Management
+EDHI 788K Special Topics in Education Policy and Administration; The Quest to End Genocide Through Education
+EDHI 788Q Special Topics in Education Policy and Administration; Decolonial Approaches to Education Development and Research
+EDHI 898 Pre-Candidacy Research
+EDMS 798 Special Problems in Education
+EDSP 601 Special Education for School Counselors
+EDSP 673 Evaluating Evidence-Based Practices in Special Education
+EMBA 759 Independent Study
+ENAE 899 Doctoral Dissertation Research
+ENCE 689 Seminar
+ENCE 799 Master's Thesis Research
+ENCE 899 Doctoral Dissertation Research
+ENEE 898 Pre-Candidacy Research
+ENES 671 Legal Aspects of Entrepreneurship
+ENGL 699 Independent Study
+ENRE 899 Doctoral Dissertation Research
+ENSE 799 Systems Engineering Thesis
+ENST 799 Master's Thesis Research
+ENTM 730 Plant Diagnostics
+ENTM 747 Pollinator Health
+EPIB 898 Pre-Candidacy Research
+EPIB 899 Doctoral Dissertation Research
+FMSC 630 Family Therapy with Children and Adolescents
+FMSC 632 Testing and Assessment in Couple and Family Therapy
+FMSC 654 Clinical Marriage and Family Therapy Practice
+FMSC 789 Non-Thesis Research
+GEOG 646 Programming for GIS
+GEOG 651 Spatial Statistics
+GEOG 655 Spatial Database System
+GEOG 660 Advanced Remote Sensing Using Lidar
+GEOG 664 GEOINT Systems and Platforms
+GEOG 665 Algorithms for Geospatial Intelligence Analysis
+GEOG 899 Doctoral Dissertation Research
+GEOL 799 Master's Thesis Research
+GEOL 899 Doctoral Dissertation Research
+GVPT 728 Advanced Topics in Modeling and Political Analysis
+HESP 617 Cultural and Linguistic Diversity in Communication and its Disorders
+HESP 639 Special Topics in Hearing and Speech Sciences; Cochlear Implants
+HESP 639A Special Topics in Hearing and Speech Sciences; Traumatic Brain Injury
+HESP 704 Audiology Practice Management
+HISP 619G Special Topics in Historic Preservation; GIS for the Built Environment
+HLSA 898 Pre-Candidacy Research
+HLSA 899 Doctoral Dissertation Research
+HLTH 688 Special Problems in Health Education
+HLTH 898 Pre-Candidacy Research
+HLTH 899 Doctoral Dissertation Research
+INST 633 Analyzing Social Networks and Social Media
+INST 670 Introduction to Javascript Programming
+INST 671 Introduction to Web Programming
+INST 673 Hands On Machine Learning with Weka
+KNES 643 Public Health & Physical Activity in the Classroom
+LACS 609 Colloquium in Latin American and Caribbean Studies; Colloquium
+MIEH 620 Global Health Communication and Promotion
+MUED 669 Domain Project in Music Education I
+MUED 679 Domain Project in Music Education II
+MUED 689 Domain Project in Music Education III
+MUED 698L Current Trends in Music Education; Teaching, Learning, and Music
+NACS 898 Pre-Candidacy Research
+NFSC 899 Doctoral Dissertation Research
+PHYS 899 Doctoral Dissertation Research
+PLCY 698W Selected Topics in Public Affairs; Professional Gaming
+PLCY 752 Managing Differences:Resolving Conflict and Negotiating Agreements
+PSYC 899 Doctoral Dissertation Research
+SPHL 631 Racial Trauma and Racial Healing
+SPHL 709 Reading Public Health Emergencies Through Information and Communication Research and Policy
+STAT 689 Research Interactions in Statistics
+TDPS 789 Professional Development in Dance and Theatre
+THET 669C Independent Study; Embodiment and Performance Technologies II
+THET 788 Design for Live Performance Tutorial
+THET 789 Theatre Design Process and Production
+URSP 688K Recent Developments in Urban Studies; Urban Design and Graphic Communication Skills, Strategies, and Software
+AGST 605 Extension Research Methods with Applied Data Analysis
+AGST 799 Master's Thesis Research
+AMSC 661 Scientific Computing II
+AMSC 663 Advanced Scientific Computing I
+AMSC 674 Partial Differential Equations II
+AMSC 714 Numerical Methods For Stationary PDEs
+AMSC 764 Advanced Numerical Optimization
+AMSC 808X Advanced Topics in Applied Mathematics; Numerical Methods for Data Science and Machine Learning
+AMST 603 Current Approaches to American Studies
+AMST 628D Seminar in American Studies; Black Digitalities
+AMST 628J Seminar in American Studies; The Poetics of the Black Feminist Imagination
+AMST 628P Seminar in American Studies; Race Sex Power in the City
+AMST 629G Seminar in American Studies; Politics of Fantasy
+AMST 629N Seminar in American Studies; The Devil in the Archive: Ethno-demonology and the Origins of Native Literatures in the Americas
+AMST 659C Special Topics: Collaborative Curation; Community-Centered Exhibition Creation in a Local Museum
+AMST 856 Museum Research Seminar
+ANSC 627 Molecular and Quantitative Genetics
+ANSC 630 Animal Metabolism
+ANSC 688J Special Topics; Zoonotic Diseases and Control
+ANSC 688W Special Topics; Advanced Animal Welfare
+ANTH 613 Health Inequities, Care, and Justice in the United States
+ANTH 630 Quantification and Statistics in Applied Anthropology
+ANTH 641 Introduction to Zooarchaeology
+ANTH 654 Political Ecology
+ANTH 666 Anthropology of Work
+ANTH 689M Special Problems in Anthropology; Music, Language, and Signs
+ANTH 722 Ecological Anthropology
+ANTH 740 Theories of the Past and Accomplishments of Archaeology
+ANTH 745 International Heritage Management
+ANTH 746 Applied Archaeological Theory
+ANTH 856 Museum Research Seminar
+AOSC 602 Mesoscale Meteorology
+AOSC 611 Dynamics of the Atmosphere and Oceans II
+AOSC 615 Data Assimilation
+AOSC 617 Atmospheric and Oceanic Climate
+AOSC 621 Physics and Chemistry of the Atmosphere II
+AOSC 625 Remote Inference of Atmospheric Properties by Satellite
+AOSC 633 Atmospheric Chemistry and Climate
+AOSC 647 Machine Learning in Earth Science
+AOSC 650 NEURAL NETWORKS FOR THE PHYSICAL SCIENCES
+AOSC 658Z Special Topics in Meteorology; Tropical Cyclone Dynamics
+ARCH 601 Topical Design Studio VI
+ARCH 618G Selected Topics in Architectural Technology; Building Optimization
+ARCH 618I Selected Topics in Architectural Technology; Design Morphology
+ARCH 635 Seminar in the History of Modern Architecture
+ARCH 654 Urban Development and Design Theory
+ARCH 668I Advanced Selected Topics in Architecture; Ecological Design Thinking through Diagrams and Visual Storytelling
+ARCH 668K Advanced Selected Topics in Architecture; Design Thinking for the Entrepreneurial Architect
+ARCH 668P Advanced Selected Topics in Architecture; Architecture:Resume and Portfolio Design
+ARCH 678O Advanced Selected Topics in Architecture; Three-Dimensional Digital Documentation: Using Laser-based Meausrement Systems
+AREC 610 Microeconomic Applications in Agricultural and Resource Markets
+AREC 624 Applied Econometrics II
+AREC 783 Environmental Taxation and Regulation
+AREC 815 Experimental and Behavioral Economics
+AREC 847 Networks, Social Learning and Technology Adoption
+AREC 869B Advanced Topics in Agricultural and Resource Economics; Applied Economic Decision-Making Under Uncertainty
+ARTH 708F Seminar in Ancient Art and Archaeology; Monuments and Topography of the City of Rome
+ARTH 759C Seminar in Twentieth-Century Art; Contemporary Art in Local Collections
+ARTH 789A Selected Topics in Art History; The Uses of the Past in China and Beyond, 1600-2000
+ASTR 615 Computational Astrophysics
+ASTR 670 Interstellar Medium and Gas Dynamics
+ASTR 688C Special Topics in Modern Astronomy; Seminar in Modern Astronomy Research
+BCHM 669C Special Topics in Biochemistry; Protein Folding and Disease
+BCHM 669D Special Topics in Biochemistry; Drug Discovery
+BCHM 675 Biophysical Chemistry
+BCHM 676 Biological Mass Spectrometry
+BCHM 889B Seminar
+BCHM 889D Seminar; Enzymology of Recombination
+BCHM 889E Seminar
+BIOE 606 BIOE Graduate Studies II
+BIOE 654 Physiology for Bioengineers
+BIOE 658B Special Topics in Bioengineering (M.Eng.); Introduction to Medical Image Analysis
+BIOE 658E Special Topics in Bioengineering (M.Eng.); Biomedical Device Development
+BIOE 689A Special Topics in Bioengineering; Engineering Approaches to Photomedicine
+BIOE 689N Special Topics in Bioengineering; Network Neuroscience and Brain Dynamic Analysis
+BIOE 689W Special Topics in Bioengineering; Mastering Scientific Writing: From Grants to Publications
+BIOE 689X Special Topics in Bioengineering; Macroscale Biomechanics
+BIOI 605 Data Sources and Data Management in Bioinformatics
+BIOI 606 Sequence Alignment
+BIOI 607 Data Structures and Algorithms for Bioinformatics
+BIOL 705 Statistics & Modeling for Biologists
+BIOL 706 Quantitative and Computational Biosciences
+BIOL 708R Advanced Topics in Biology; Population Ecology
+BIOL 709V Selected Advanced Topics in Biology; Biology of Vision
+BISI 632 Genetics I: Gene Expression
+BMGT 604 Managerial Economics and Public Policy
+BMGT 614 Strategic Management
+BMGT 758A Special Topics in Business and Management; AI and Business Strategy
+BMGT 758C Special Topics in Business and Management; Consumer Behavior
+BMGT 758D Special Topics in Business and Management; Name, Image, and Likeness
+BMGT 758G Special Topics in Business and Management; Global Sports Entrepreneurship
+BMGT 758M Special Topics in Business and Management; Operations and Events Management
+BMGT 758O Special Topics in Business and Management; Navigating Organizational Networks
+BMGT 758Q Special Topics in Business and Management; Foundations of Consulting
+BMGT 758R Special Topics in Business and Management; Marketing Research Methods
+BMGT 758T Special Topics in Business and Management; Entrepreneurship and New Ventures
+BMGT 758V Special Topics in Business and Management; Valuation in Corporate Finance
+BMGT 758W Special Topics in Business and Management; Foundations of AI
+BMGT 758X Special Topics in Business and Management; Experiential Learning I
+BMGT 758Y Special Topics in Business and Management; Experiential Learning II
+BMGT 808D Special Topics in Information Systems; Information Systems in Economics I
+BMGT 808E Special Topics in Information Systems; Information Systems in Economics II
+BMGT 818F Special Topics in Accounting and Information Assurance; Topics in Financial Accounting and Corporate Governance
+BMGT 838I Special Topics in Operations Management/Management Science; Integer Programming
+BMGT 838O Special Topics in Operations Management/Management Science; Operations Management Seminar
+BMGT 838Q Special Topics in Operations Management/Management Science; Emerging Topics in Analytics
+BMGT 868T Special Topics in Organizational Behavior/Human Resource Management; Seminar on Teams
+BMGT 868V Special Topics in Organizational Behavior/Human Resource Management; Strategic Human Resource Management
+BMGT 878C Special Topics in Strategic Management and Entrepreneurship; Cross Discilpinary Workshop in Strategy and Entrepreneurship
+BMSO 758F Special Topics in Business; Financial Analytics
+BMSO 758N Special Topics in Business; Introduction to Financial Accounting
+BMSO 758R Special Topics in Business; Introduction to Supply Chain Analytics
+BMSO 758T Special Topics in Business; Enterprise Cloud Computing and Advanced Technologies
+BMSO 778B Special Topics in Business; Digital Transformation in Business
+BMSO 778E Special Topics in Business; Experiential Learning II
+BMSO 778G Special Topics in Business; Strategic Management
+BMSO 778J Special Topics in Business; Creative Problem Solving for Leaders
+BMSO 778O Special Topics in Business; Organizational Change
+BMSO 778P Special Topics in Business; Managerial Economics and Public Policy
+BMSO 778R Special Topics in Business; Name, Image, and Likeness
+BSST 631 Societal Impacts of and Responses to Terrorism
+BSST 633 Research Methods in Terrorism and Counterterrorism
+BSST 641 U.S. Security Infrastructure
+BSST 643 Great Powers & Near-Peer Competition
+BSST 645 Non-state Actors Threats and Responses
+BSST 652 Managing Insider Threat Activities
+BSST 653 Investigative Thinking, Analysis and Decision-making in Insider Risk Management & Mitigation
+BUAC 706 Business Ethics for Accountants and Auditors
+BUAC 714 Forensic Accounting/Auditing
+BUAC 732 Intermediate Accounting II
+BUAC 735 External Auditing
+BUAC 742 Accounting Analytics
+BUAC 744 Valuation Measurement, Reporting, and Auditing for Accountants and Auditors
+BUAC 752 Internal Auditing I: Assurance and Consulting Services
+BUAC 758U Special Topics in Accounting and Information Assurance; Advanced Accounting
+BUAC 766 Data Security and Taxation of Not-for-Profit Entities
+BUAC 767 Tax IV: Real Estate Taxation
+BUAC 770 Tax V: Visual Analytics and International Tax
+BUDT 723 Business Process Analysis for IS
+BUDT 737 Enterprise Cloud Computing and Big Data
+BUDT 751 Harnessing AI for Business
+BUDT 754 IoT Applications for Business
+BUDT 758D Special Topics in Decision, Operations and Information Technologies; Data Visualization & Web Analytics
+BUDT 758J Special Topics in Decision, Operations and Information Technologies; Enterprise Cloud Computing & Big Data
+BUDT 758O Special Topics in Decision, Operations and Information Technologies; Designing AI Systems
+BUDT 758T Special Topics in Decision, Operations and Information Technologies; Data Mining and Predictive Analytics
+BUDT 758V Special Topics in Decision, Operations and Information Technologies; Operations Analytics
+BUDT 758X Special Topics in Decision, Operations and Information Technologies; Sustainability Analytics
+BUDT 758Z Special Topics in Decision, Operations and Information Technologies; Computer Simulation for Business Applications
+BUFN 670 Financial Mathematics
+BUFN 710 Financial Strategy for Corporations
+BUFN 712 Financial Restructuring
+BUFN 726 Institutional Asset Management
+BUFN 730 Advanced Financial Modeling and Equity Analysis
+BUFN 732 Fixed Income Analysis
+BUFN 744 Fixed Income Derivatives
+BUFN 745 Financial Programming
+BUFN 746 Enterprise and Credit Risk Management
+BUFN 758C Special Topics in Finance; Climate Modeling and Analytics Tools
+BUFN 758J Special Topics in Finance; Carbon Accounting and Financial Disclosures
+BUFN 758L Special Topics in Finance; FinTech and Cryptocurrency
+BUFN 758T Special Topics in Finance; Portfolio Analysis, Investment Strategies and Climate
+BUFN 758X Special Topics in Finance; Market Microstructure
+BUFN 758Z Special Topics in Finance; Global Equity Fund
+BULM 731 Technology Applications in Supply Chain Management
+BULM 735 Project Management in Dynamic Environments
+BULM 754 Global Transportation Management
+BULM 758D Special Topics in Logistics, Business and Public Policy; Buyer-Supplier Relation
+BULM 758N Special Topics in Logistics, Business and Public Policy; Introduction to Supply Chain Sustainability
+BUMK 744 Marketing Research and Analytics
+BUMK 746 Data Science for Customer Analytics
+BUMK 747 CRM Analytics
+BUMK 770 Retail Analytics
+BUMK 776 Action Learning Project
+BUSI 610 Introduction to Financial Accounting
+BUSI 621 Digital Transformation in Business
+BUSI 640 Corporate Finance
+BUSI 683 The Global Economic Environment
+BUSI 690 Strategic Management
+BUSI 718A Special Topics in Business; Foundations of AI
+BUSI 718K Special Topics in Business; Legal Environment of Sustainability
+BUSI 718N Special Topics in Business; Customer Lifetime Valuation
+BUSI 718Q Special Topics in Business; The Business of Washington
+BUSI 721 Creativity for Business Leaders and Entrepreneurs
+BUSI 731 Managing Brands and Products
+BUSI 740 Valuation in Corporate Finance
+BUSI 745 Fixed Income Analysis
+BUSI 758A Special Topics in Business; Cyber/Enterprise Risks and Resilience Modeling
+BUSI 758B Special Topics in Business; Leadership, Ethics & Technology
+BUSI 758G Special Topics in Business; Corporate Risk Management
+BUSI 758W Special Topics in Business; Systems and Design Thinking
+BUSI 758X Special Topics in Business; AI and Business Strategy
+BUSI 782 Science and Technology Project Valuation
+BUSI 784 Systems Design, Development, Test and Evaluation
+BUSI 788V Introduction to Global Business Experience; Doing Business in Asia
+BUSM 614 Strategic Management
+BUSM 624 Operations Management
+BUSM 626 The Global Economic Environment
+BUSM 701 Marketing Research Methods
+BUSM 702 Consumer Behavior
+BUSM 733 Valuation in Corporate Finance
+BUSM 735 Financial Strategy for Corporations
+BUSM 738A Investment Fund Management; Mayer Fund
+BUSM 750 Project Management in Dynamic Environments
+BUSM 758A Special Topics in Business; AI and Business Strategy
+BUSM 758F Special Topics in Business; New Venture Financing
+BUSM 758I Special Topics in Business; Advanced Financial Modeling and Equity Analysis
+BUSM 758M Special Topics in Business; Entrepreneurship and New Ventures
+BUSM 758Q Special Topics in Business; Sustainability in Business and Management
+BUSM 758R Special Topics in Business; Foundations of AI
+BUSM 758Z Special Topics in Business; Integrative Capstone
+BUSM 761 Data Mining and Predictive Analytics
+BUSM 762 Decision Analytics
+BUSM 775 Global Strategy
+BUSM 788V Global Business Experience; Doing Business in Asia
+BUSO 601 Corporate Finance I
+BUSO 602 Financial Accounting
+BUSO 614 Strategic Management
+BUSO 620 Strategic Information Systems
+BUSO 626 The Global Economic Environment
+BUSO 702 Action Learning Project I
+BUSO 706 Organizational Change
+BUSO 712 Entrepreneurship
+BUSO 733 Data Mining and Predictive Analytics
+BUSO 740 Customer Equity Management
+BUSO 752 Innovative Solutions to Supply Chain Challenges
+BUSO 758K Special Topics in Business; Marketing in the Age of AI
+BUSO 758R Special Topics in Business; Commercial Bank Management
+BUSO 788V Business Consulting; Doing Business in Asia
+CBMG 613 Microbiomes in Health, Disease, and Application
+CBMG 688B Special Topics in Cell Biology and Molecular Genetics; Responsible Conduct of Research for Advanced Scholars
+CBMG 688G Special Topics in Cell Biology and Molecular Genetics; Computational Structural Biology
+CBMG 688I Special Topics in Cell Biology and Molecular Genetics; Genetic Analysis
+CBMG 688U Special Topics in Cell Biology and Molecular Genetics; Rigor and Reproducibility in Research
+CBMG 699C Special Problems in Cell Biology and Molecular Genetics; Cell Biology
+CBMG 699W Special Problems in Cell Biology and Molecular Genetics; Immunology
+CCJS 610 Research Methods in Criminal Justice and Criminology
+CCJS 621 General Linear Models in Criminal Justice Research
+CCJS 633 Translating Research into Practice
+CCJS 651 Seminar in Criminology
+CCJS 658 Civil Legal Issues in Policing
+CCJS 660 Gender and Crime
+CCJS 670 Race, Crime, and Criminal Justice
+CCJS 700 Advanced Research Methods in Criminology and Criminal Justice
+CHBE 630 Transport Phenomena
+CHBE 640 Advanced Chemical Reaction Kinetics
+CHBE 651 Photovoltaics: Solar Energy
+CHBE 680 Bionanotechnology: Physical Principles
+CHBE 686 Advanced Heterogeneous Catalysis for Energy Applications
+CHBE 697 Protein Engineering
+CHEM 608M Selected Topics in Inorganic Chemistry; ORGANOMETALLIC CHEMISTRY
+CHEM 625 Separation Methods in Quantitative Analysis
+CHEM 647 Organic Synthesis
+CHEM 648P Special Topics in Organic Chemistry; SPECIAL TOPICS IN ORGANIC CHEMISTRY: CHEMICAL BIOLOGY
+CHEM 687 Statistical Mechanics and Chemistry
+CHEM 703 Introduction to Nonequilibrium Statistical Physics
+CHEM 705 Nuclear Chemistry
+CHEM 889G Seminar; Physical Organic Chemistry
+CHPH 703 Introduction to Nonequilibrium Statistical Physics
+CLAS 699 Independent Study in Classical Civilization
+CLFS 609L Special Topics; Beyond Race: Human Biological Diversity
+CLFS 619B Special Topics in Chemistry; Environmental Chemistry
+CLFS 665 Ecology and Global Change
+CLFS 690 Biochemistry
+CMSC 624 Database System Architecture and Implementation
+CMSC 656 Introduction to Cryptography
+CMSC 661 Scientific Computing II
+CMSC 701 Computational Genomics
+CMSC 711 Computer Networks
+CMSC 714 High Performance Computing Systems
+CMSC 725 Geographical Information Systems and Spatial Databases
+CMSC 734 Information Visualization
+CMSC 752 Ramsey Theory and its Applications
+CMSC 764 Advanced Numerical Optimization
+CMSC 800 How to Conduct Great Research
+CMSC 818G Advanced Topics in Computer Systems; Information-Centric Design of Systems
+CMSC 818Q Advanced Topics in Computer Systems; Cloud Networking and Computing
+CMSC 828C Advanced Topics in Information Processing
+CMSC 828F Advanced Topics in Information Processing
+CMSC 828G Advanced Topics in Information Processing; Systems for Machine Learning
+CMSC 838E Advanced Topics in Programming Languages; Compiler Construction
+CMSC 838M Advanced Topics in Programming Languages; Physically-based Modeling, Simulation & Animation
+CMSC 848G Selected Topics in Information Processing; Selected Topics in Machine Learning
+CMSC 848M Selected Topics in Information Processing; Multimodal Computer Vision
+CMSC 848O Selected Topics in Information Processing; Long-Context Language Models
+CMSC 858P Advanced Topics in Theory of Computing; Shared-Memory Algorithms
+CMSC 858Q Advanced Topics in Theory of Computing; Quantum Algorithms
+COMM 602 Communication Theory
+COMM 698C Special Problems in Communication; Risk and Crisis Communication
+COMM 738G Seminar in Mediated Communication; Race, Media, and Popular Culture
+COMM 760 Seminar in Political Communication
+COMM 789G Seminar: Special Topics in Intercultural Communication; Intergroup Communication
+DANC 611 Dance Technology and Media
+DANC 689 Special Topics in Dance
+DANC 689D Special Topics in Dance; Immersive Visual and Embodied Interfaces for Dance
+DANC 689G Special Topics in Dance; Advanced Hip Hop
+DANC 689N Special Topics in Dance; Dance Pedagogy - Creative Process
+DANC 708 Graduate Choreography II: Collaboration; Collaborative Work
+DANC 766 Graduate Movement Observation and Analysis
+DATA 604 Data Representation and Modeling
+DATA 605 Big Data Systems
+DATA 606 Algorithms for Data Science
+ECON 602 Macroeconomic Analysis II
+ECON 604 Microeconomic Analysis II
+ECON 611 Seminar in American Economic Development
+ECON 624 Econometrics II
+ECON 636 Behavioral Economics
+ECON 652 Public Economics I
+ECON 662 Theories of Industrial Organization
+ECON 673 Information, Game Theory and Market Design
+ECON 702 Advanced Macroeconomics II
+ECON 704 Advanced Microeconomics II
+ECON 722 Econometrics IV
+ECON 743 Topics in International Finance
+ECON 747 The Macreconomics of Imperfect Capital Markets
+ECON 752 Public Economics II
+ECON 772 Population Economics
+ECON 781 Valuing Environmental Benefits
+ECON 808 Workshop on Macroeconomics, International Macroeconomics and International Finance
+EDCP 612 Multicultural Issues in Counseling and Personnel Services
+EDCP 621 Practicum in School Counseling
+EDCP 625 Counseling the Chemically Dependent
+EDCP 630 School-Based Behavioral Interventions
+EDCP 633 Diagnostic Appraisal of Children I
+EDCP 636 School Consultation II
+EDCP 651 Group Counseling in Schools
+EDCP 680 Basic Didactic Practicum in Counseling Psychology
+EDCP 686 Counseling Psychology Didactic Practicum in Career Interventions
+EDCP 742 Examining College Environments and Outcomes
+EDCP 750 Therapeutic Approaches with Children
+EDCP 788A Advanced Practicum; Social Justice Practicum
+EDCP 789R Advanced Topics in Counseling and Personnel Services
+EDCP 797 Capstone Course: Program Planning
+EDHD 718 Apprenticeship in College Teaching
+EDHD 720 Social Development and Socialization Processes
+EDHD 760 Advanced Educational Psychology
+EDHD 775 Human Development and Neuroscience
+EDHD 840 Language and Literacy Development
+EDHI 607 Culture and Education in a Global Context
+EDHI 677 Ranking System in Higher Education: How They Work and Why They Matter
+EDHI 684 Alternative Education, Alternative Development
+EDHI 754 Higher Education Finance
+EDHI 788J Special Topics in Education Policy and Administration; Education in Conflict and Emergencies
+EDHI 788M Special Topics in Education Policy and Administration; Introduction to Higher Education Policy
+EDHI 788O Special Topics in Education Policy and Administration; International Education Grant/Proposal Writing
+EDHI 788P Special Topics in Education Policy and Administration; Redefining the Purpose and Promise of Minority-Serving Institutions in the 21st Century
+EDMS 626 Instrumentation
+EDMS 647 Causal Inference and Evaluation Methods
+EDMS 722 Structural Modeling
+EDMS 724 Modern Measurement Theory
+EDSP 603 Supporting Access for Students with Multiple Disabilities Across Settings
+EDSP 614 Instruction of Students with Severe Disabilities II
+EDSP 615 Assessment Techniques and Practices in Special Education
+EDSP 616 Reading and Writing Instruction in Special Education I
+EDSP 683 Assessment and Instruction in Mathematics in Special Education
+EDSP 687 Collaborative Partnerships in Special Education
+EDSP 695 Graduate Internship II: Elementary/Middle Special Education
+EDSP 798R Special Problems in Special Education; Using Research to Lead School Improvement
+EDSP 872 Theory and Empirical Design in Educational Research
+EDUC 645 Leading Instructional Improvement
+EDUC 671 Education Law, Finance and Policy
+EDUC 740 Managing Educational Organizations in a Diverse Society
+EDUC 760 The Human Dimension in Administration
+EMBA 788V Executive Skills Mastery; Doing Business in Asia
+ENAE 633 Helicopter Dynamics
+ENAE 634 Helicopter Design
+ENAE 635 Helicopter Stability and Control
+ENAE 646 Advanced Dynamics of Aerospace Systems
+ENAE 652 Computational Structural Mechanics
+ENAE 654 Mechanics of Composite Structures
+ENAE 656 Aeroelasticity
+ENAE 665 Advanced Airbreathing Propulsion
+ENAE 667 Advanced Space Propulsion and Power
+ENAE 674 Aerodynamics of Compressible Fluids
+ENAE 676 Turbulence
+ENAE 685 Computational Fluid Dynamics II
+ENAE 697 Space Human Factors and Life Support
+ENAE 741 Interplanetary Navigation and Guidance
+ENAE 788G Selected Topics in Aerospace Engineering; Fundamentals of Offshore Wind Energy
+ENAE 788M Selected Topics in Aerospace Engineering; Hands On Autonomous Aerial Robotics
+ENAE 788O Selected Topics in Aerospace Engineering; Introduction to Autonomous Multi-Robot Swarms
+ENAE 788Q Selected Topics in Aerospace Engineering; An Introduction to Hydrodynamic Stability
+ENAE 788T Selected Topics in Aerospace Engineering; Introduction to Space Solar
+ENAE 788V Selected Topics in Aerospace Engineering; Motion Planning for Autonomous Systems
+ENAE 788Z Selected Topics in Aerospace Engineering; Decision Making Under Uncertainty
+ENCE 604 Sustainabilty Fundamentals for Project Managers
+ENCE 647 Slope Stability and Seepage
+ENCE 665 Management of Project Teams
+ENCE 673 Urban Transportation
+ENCE 674 Urban Transit Planning and Rail Transportation Engineering
+ENCE 677 OR Models for Transportation Systems Analysis
+ENCE 688E Advanced Topics in Civil Engineering; Bioremediation
+ENCE 688F Advanced Topics in Civil Engineering; Teaching and Learning Practicum
+ENCE 688M Advanced Topics in Civil Engineering; Theory-Guided Machine Learning
+ENCE 688W Advanced Topics in Civil Engineering; Design of Mass Timber Structures
+ENCE 688Y Advanced Topics in Civil Engineering; Research Methods Seminar
+ENCE 689T Seminar; Transportation Engineering, Economics, and Policy
+ENCE 741 Earth Retaining Structures
+ENEE 601 Semiconductor Devices and Technology
+ENEE 612 Advanced Power Electronics
+ENEE 621 Estimation and Detection Theory
+ENEE 627 Information Theory
+ENEE 633 Statistical Pattern Recognition
+ENEE 640 Digital CMOS VLSI Design
+ENEE 645 Compilers and Optimization
+ENEE 661 Nonlinear Control Systems
+ENEE 664 Optimal Control
+ENEE 681 Electromagnetic Waves and Applications
+ENEE 692 Introduction to Photonics
+ENEE 698P Graduate Seminar; First Year Research Seminar
+ENEE 729F Advanced Topics in Communication; Information-Theoretic Methods in Learning
+ENEE 729Z Advanced Topics in Communication; Wireless Networking and Systems
+ENEE 739G Advanced Topics in Signal Processing; Information in a Photon
+ENEE 769D Advanced Topics in Controls; Formal Methods for Dynamical and Hybrid Systems
+ENEE 790 Quantum Electronics I
+ENES 601 Future Faculty Program Seminar I
+ENES 603 Future Faculty Program Seminar III
+ENES 617 Engineering Leadership in Contemporary Context
+ENES 666 Creative Design, Prototyping, and Testing
+ENFP 620 Fire Dynamics Laboratory
+ENFP 655 Smoke Control
+ENFP 663 Advanced Fire Risk Modeling
+ENFP 665 Advanced Fire and Explosion Investigations
+ENGL 611 Approaches to College Composition
+ENGL 688 Poetry Workshop; Poetry Workshop
+ENGL 689 Fiction Workshop; Fiction Workshop
+ENGL 718D Seminar in Medieval Literature; Environmental Fictions, Past and Present
+ENGL 738E Seminar in Nineteenth-Century Literature; Romanticism, Capitalism, and Fantasy
+ENGL 739A Seminar in the Digital Humanities; Black Digitalities
+ENGL 748E Seminar in American Literature; The Devil in the Archive: Ethno-demonology and the Origins of Native Literatures in the Americas
+ENGL 748F Seminar in American Literature; The Color Line and the American 1850s
+ENGL 788 Studies in Poetic Form
+ENGL 789 Form and Theory in Fiction
+ENMA 620 Polymer Physics
+ENMA 621 Advanced Design Composite Materials
+ENMA 661 Kinetics of Reactions in Materials
+ENMA 671 Defects in Materials
+ENMA 681 Diffraction Techniques in Materials Science
+ENMA 685 Advanced Electrical and Optical Materials
+ENME 625 Multidisciplinary Optimization
+ENME 632 Advanced Convection Heat Transfer
+ENME 635 Energy Systems Analysis for Sustainability and Decarbonization
+ENME 665 Nonlinear Oscillations
+ENME 684 Modeling Material Behavior
+ENME 695 Design for Reliability
+ENME 697 Advanced Data Science in Manufacturing Quality Control
+ENME 725 Probabilistic Optimization
+ENME 743 Applied Machine Learning for Engineering and Design
+ENME 808C Advanced Topics in Mechanical Engineering; Renewable Energy
+ENME 808D Advanced Topics in Mechanical Engineering; Thermal Management of Electronics
+ENME 808E Advanced Topics in Mechanical Engineering; Machine Learning: Theory and Applications
+ENME 808G Advanced Topics in Mechanical Engineering; Urgency and Agency: Tackling Local (and Global) Sustainability Challenges
+ENME 808J Advanced Topics in Mechanical Engineering; Cost Analysis for Engineers
+ENME 808K Advanced Topics in Mechanical Engineering; High-performance Computing and Data Science in Engineering
+ENME 808M Advanced Topics in Mechanical Engineering; De-Carbonization of Building Systems through Energy Audit,Renewable Energy, and Electrification
+ENME 808P Advanced Topics in Mechanical Engineering; Control of Smart Structures
+ENME 808R Advanced Topics in Mechanical Engineering; Optimal Control of Energy Systems
+ENPM 604 Machine Learning Techniques Applied to Cybersecurity
+ENPM 605 Python Applications for Robotics
+ENPM 612 System and Software Requirements
+ENPM 614 Software Testing & Maintenance
+ENPM 637 Managing Software Engineering Projects
+ENPM 650 Solar Thermal Energy Systems
+ENPM 651 Heat Transfer for Modern Application
+ENPM 656 Energy Conversion II -- Mobile Power
+ENPM 661 Planning for Autonomous Robots
+ENPM 663 Building a Manufacturing Robotic Software System
+ENPM 664 Embedded System Hacking and Security
+ENPM 670 Advanced Energy Audit, Modeling, and Management of Building Systems
+ENPM 673 Perception for Autonomous Robots
+ENPM 686 Information Assurance
+ENPM 690 Robot Learning
+ENPM 692 Manufacturing and Automation
+ENPM 693 Network Security
+ENPM 701 Autonomous Robotics
+ENPM 808K Advanced Topics in Engineering; Advanced Systems Architecting
+ENPM 808L Advanced Topics in Engineering; Analytics for Decision Support
+ENPM 808P Advanced Topics in Engineering; Printed Electronics
+ENPM 808V Advanced Topics in Engineering; Quality Management Systems and Lean Six Sigma
+ENPM 809I Special Topics in Engineering; Fundamentals of Unmanned Air Vehicles
+ENPM 809J Special Topics in Engineering; Introduction to Power Systems Engineering
+ENPM 809Q Special Topics in Engineering; Gas Turbines
+ENPM 809V Special Topics in Engineering; Advanced Hacking of Linux and Embedded Systems
+ENPM 809X Special Topics in Engineering; Data and Algorithms
+ENPM 818E Variable Topics in Engineering; Software/Product Engineering 360: The Business of Engineering
+ENPM 818J Variable Topics in Engineering; (Real Time) Operating Systems
+ENPM 818K Variable Topics in Engineering; Embedded System and IoT Security
+ENPM 818O Variable Topics in Engineering; Networks and Protocols for Cloud Engineering
+ENPM 818T Variable Topics in Engineering; Data Storage and Databases
+ENPM 818V Variable Topics in Engineering; 5G/6G for Embedded Systems
+ENRE 620 Mathematical Techniques of Reliability Engineering
+ENRE 640 Collection and Analysis of Reliability Data
+ENRE 655 Machine Learning Algorithms for Reliability Engineering
+ENRE 670 Probabilistic Risk Assessment
+ENRE 695 Design for Reliability
+ENSE 622 System Trade-off Analysis, Modeling, and Simulation
+ENSE 624 Human Factors in Systems Engineering
+ENST 622 Advanced Soil Microbial Ecology
+ENST 630 Advanced Wetland Soils
+ENST 689L Special Topics; Applied Hierarchical Modeling in Environmental Science
+ENST 689T Special Topics; Data Management and Analyses for Environmental Sciences
+ENST 702 Environmental Science and Technology: Communication and Professional Development
+ENTM 612 Insect Ecology
+ENTM 699S Advanced Entomology; Outreach Training
+ENTM 720 Native, Invasive, and Exotic Species
+ENTM 725 IPM Practices
+ENTM 798C Topic Seminar; Extension and Outreach Education with Entomology
+ENTM 798F Topic Seminar; Pesticide Toxicology and Risk Assessment
+ENTM 798M Topic Seminar; Climate Change Impacts and Solutions
+ENTS 625 Management and Organizational Behavior in the Telecommunications Industry
+ENTS 632 Telecommunications Marketing Management
+ENTS 641 Networks and Protocols II
+ENTS 669D Special Topics in Computing; Introduction to Machine Learning
+ENTS 669K Special Topics in Computing; AI Applications for 6G
+ENTS 689F Special Topics in Telecommunications; Fundamental of Wireless LANs
+ENTS 749E Advanced Topics in Networking; Network Automation
+ENTS 749F Advanced Topics in Networking; Security in Cloud Computing
+EPIB 637 Social Epidemiologic Methods in Health Equity Research
+EPIB 653 Applied Survival Data Analysis
+EPIB 664 Missing Data Analysis
+EPIB 741 Association Models for Cohort and Cross-Sectional Studies
+FMSC 610 Research Methods in Family Science
+FMSC 635 Integrative LGBTQIA+ Clinical Knowledge and Techniques for Family, Couple and Varied Relationship Dynamics
+FMSC 641 Couples Therapy, Theory, and Techniques
+FMSC 651 Treatment of Emotional and Mental Disorders in the Family Context
+FMSC 653 Advanced Application of CFT Models and Techniques
+FMSC 658 Supervised Clinical Practice in Couple and Family Therapy; Theory and Practice of Clinical Supervision
+FMSC 710 Maternal and Child Health from a Life Course Perspective
+FMSC 740 Reproductive and Perinatal Epidemiology
+FMSC 810 Theory in Family Systems and Family Health
+FREN 699A Seminar; Theories, Philosophies, and Revolutionary Texts of the Francophone World
+FREN 699W Seminar; Transatlantic Mirror: French Writers look at America and the United States, 16th Century to 21st Century
+GBHL 649A Graduate Global Health Global Classroom; The Impact of Climate Change on Water and Food Security in Cameroon
+GEOG 606 Quantitative Spatial Analysis
+GEOG 663 Big Data Analytics
+GEOG 670 Open Source GIS
+GEOG 677 Web GIS
+GEOG 683 Hazards and Emergency Management
+GEOG 732 Spatial Econometrics
+GEOG 770 Algorithms for Geospatial Computing
+GEOG 788A Selected Topics in Geography; Changing Geographies of Sub-Saharan Africa
+GEOG 788T Selected Topics in Geography; Deep Learning for Spatial and Spatio-Temporal Data
+GEOG 798 Selected Topics in Geography: Seminar Series; Seminar Series
+GEOL 635 Environmental Geochemistry
+GEOL 647 Observational Geophysics
+GEOL 654 Fluvial Geomorphology Seminar
+GEOL 657 Seismic Wave Propagation
+GEOL 680 Geodynamics
+GEOL 683 Cosmochemistry
+GEOL 789J Recent Advances in Geology; Mantle Dynamics
+GEOL 789R Recent Advances in Geology; Geoscience Communication
+GERS 689E Special Topics - M.A. Level; Acquisition of German
+GERS 689Q Special Topics - M.A. Level; Of Monsters and Men: German Romanticism
+GERS 689Y Special Topics - M.A. Level; Reading and Transcribing German Script
+GREK 688J Special Topics in Greek Literature; Tragedy and Comedy
+GVPT 605 Introduction to Conflict and Cooperation in the World Economy
+GVPT 606 Introduction to International Institutions and International Law
+GVPT 624 National Security and International Relations
+GVPT 685 Voting, Campaigns, and Elections
+GVPT 715 Applied Evaluation and Analysis of Government Policy
+GVPT 722 Advanced Quantitative Methods For Political Science
+GVPT 729C Special Topics in Quantitative Political Analysis; Causal Inference
+GVPT 729Q Special Topics in Quantitative Political Analysis; Quantitative Analyses of International Political Economy and International Security
+GVPT 771 Seminar in American Political Behavior
+GVPT 808B Selected Topics in Functional Problems in International Relations; Conflict and World Politics
+GVPT 808C Selected Topics in Functional Problems in International Relations; Prospectus Seminar
+GVPT 808I Selected Topics in Functional Problems in International Relations; The Impact of International Economics and Security on Developing Countries
+GVPT 878D Problems in American Government and Politics; Voting and Participation
+GVPT 879R Topics on International Security; Research Design and Analysis in International Relations
+GVPT 888C Selected Topics in Comparative Governmental Institutions; Text-as-Data
+HESI 655 Organizational Dimensions of Student Affairs
+HESI 707 Women and Gender in Higher Education
+HESI 771 The College Student
+HESI 773 Designing Qualitative Research in Counseling and Student Affairs Contexts
+HESP 600 Instrumentation in Hearing and Speech Sciences
+HESP 602 Advanced Seminar in Neurological Bases of Communication
+HESP 611 Cognitive Disorders in Adults
+HESP 612 Fluency Disorders
+HESP 620 Speech Production Disorders Across the Lifespan
+HESP 632 Medical Audiology
+HESP 639C Special Topics in Hearing and Speech Sciences; Cochlear Implants
+HESP 639E Special Topics in Hearing and Speech Sciences; Quantitative Methods for Hearing, Speech, and Language Sciences
+HESP 701 Hearing Aids II
+HESP 724 Research Design
+HESP 730 Vestibular-ocular Assessment and Management (Electrophysiologic Measures II)
+HESP 731 Seminar in Clinical Supervision
+HESP 733 Hearing Aids II Lab
+HISP 619O Special Topics in Historic Preservation; Three-Dimensional Digital Documentation: Using Laser-based Measurement Systems
+HISP 630 Preservation Policy and Planning
+HISP 635 Social and Ethnic Issues in Historic Preservation Practice
+HISP 640 Historic Preservation Law, Advocacy and Public Policy
+HISP 645 Archaeology and Preservation
+HISP 670 Conservation of Historic Places: Historic Materials, Building Systems, and Conservation
+HISP 690 Historic Preservation Professional Practice
+HIST 608B General Seminar; American History
+HIST 619I Special Topics in History; History of Palestine in Modern Times
+HIST 619X Special Topics in History; The State in American History
+HIST 638L Special Topics in History; Readings in the Atlantic World, 1550-1800
+HIST 638O Special Topics in History; Decolonization and the Long Cold War
+HIST 639P Special Topics in History; The Japanese Empire and East Asia
+HIST 639Y Special Topics in History; Cultural Memory in Early Islam: Remembering Muhammad, the Caliphate and the Founding Generations
+HIST 720 Readings in the History of the Catholic Church
+HIST 810 Museum Research Seminar
+HIST 819G Special Topics in History: Independent Research; Early America
+HIST 819Y Special Topics in History: Independent Research; Global Interaction and Exchange
+HLSA 709 Graduate Seminar
+HLSA 710 Healthcare Management: Foundations and Principles
+HLSA 714 Economic Evaluation of Medical Care
+HLSA 715 HSR Data Lab
+HLSA 721 Using Demographic Data for Health Policy Analysis
+HLSA 723 Health Policy Analysis and Advocacy
+HLSA 725 Econometrics in Public Health
+HLSA 740 Healthcare Strategic Planning and Marketing
+HLSA 760 Healthcare Financial Management
+HLSA 766 Foundational Readings in Health Services Research
+HLSA 780 Qualitative Methods for Health Services Research
+HLSA 787 Health Equity Practice, Policy, and Research
+HLTH 625 Community Assessment through Qualitative Methods
+HLTH 652 Quantitative Research Methods I in Public health
+HLTH 666 Health Behavior II: Applying Health Behavior Theory
+HLTH 671 Public Health Communication
+HLTH 711 Advanced Research Methods in Health
+HLTH 776 Community Health Program Evaluation
+INFM 605 Users and Use Context
+INFM 612 Management Concepts and Principles for Information Professionals
+INST 608S Special Topics in Information Studies; Conspiracy Theories
+INST 612 Information Policy
+INST 614 Literacy and Inclusion
+INST 616 Open Source Intelligence
+INST 622 Information and Universal Usability
+INST 630 Programming Human-Centered Interfaces
+INST 639G Practical Skills in HCI; UX Strategy
+INST 639L Practical Skills in HCI; Information Architecture
+INST 641 Policy and Ethics in Digital Curation
+INST 646 Principles of Records and Information Management
+INST 652 Design Thinking and Youth
+INST 682 Personal Health Informatics & Visualization
+INST 703 Visual Design Studio
+INST 713 Futures of Work
+INST 725 Legal Research for Information Professionals
+INST 726 Information Governance
+INST 728L Special Topics in Information Studies; GenAI and Large Language Models (LLMs) for Library and Archives Collections
+INST 728M Special Topics in Information Studies; UX Business Basics
+INST 728X Special Topics in Information Studies; Designing Technology with Older People
+INST 730 Games as Emergent Experiences
+INST 732 Entertainment Theory
+INST 733 Database Design
+INST 742 Implementing Digital Curation
+INST 750 Advanced Data Science
+INST 762 Visual Analytics
+INST 767 Big Data Infrastructure
+INST 776 HCIM CAPSTONE PROJECT
+INST 779 Readings Seminar
+INST 785 Documentation, Collection, and Appraisal of Records
+INST 786 Museum Research Seminar
+INST 788C Special Topics: Collaborative Curation; Community-Centered Exhibition Creation in a Local Museum
+INST 802 Pragmatic and Methodological Foundations for Information Studies
+INST 878F Special Topics in Information Studies; Literacies for Leadership
+INST 878K Special Topics in Information Studies; The Science of Teams
+INST 878T Special Topics in Information Studies; Introduction to Science and Technology Studies
+INST 878U Special Topics in Information Studies; Program Assessment and Evaluation
+JOUR 627 Urban Affairs Reporting
+JOUR 628D Specialized Topics in News Writing and Reporting; Journalism Compass: Navigating Your College Path
+JOUR 628F Specialized Topics in News Writing and Reporting; Covering Overlooked Communities
+JOUR 628G Specialized Topics in News Writing and Reporting; Enterprise Sports Reporting
+JOUR 628K Specialized Topics in News Writing and Reporting; Business and Economic Reporting
+JOUR 628O Specialized Topics in News Writing and Reporting; News Application Development
+JOUR 628T Specialized Topics in News Writing and Reporting; Data Visualization
+JOUR 628V Specialized Topics in News Writing and Reporting; Covering Comic Book Culture in Entertainment
+JOUR 628Z Specialized Topics in News Writing and Reporting; Making a Career as a Freelance Journalist
+JOUR 635 Advanced Public Affairs Reporting: Investigative Journalism
+JOUR 637 Designing Stories with Motion Graphics
+JOUR 657 Social Media Content Creation, Audience Engagement and Analytics
+JOUR 668Q Topics in Broadcasting and Electronic Media; Zooming in:Advanced Visual Storytelling
+JOUR 668U Topics in Broadcasting and Electronic Media; Virtual Production Using Unreal Engine
+JOUR 683 Advanced Photojournalism
+JOUR 689L News Coverage of Specialized Topics; Local News Investigation - Investigating Hate Crimes in Maryland
+JOUR 689W News Coverage of Specialized Topics; News Alchemy: Journalism and Artificial Intelligence
+JOUR 698C Special Problems in Communication; Comprehensive Examination Preparation
+JOUR 757 History of Investigative Journalism
+JOUR 776 Qualitative Research Methods in Journalism and Public Communication
+JOUR 779K Seminar in Research Problems; Social Movements, Peoples' Media and Platform Power
+JOUR 779Z Seminar in Research Problems; Multimodal Research Methods
+JOUR 801 Advanced Public Communication Theory
+KNES 602 Physical Activity Program Planning and Evaluation
+KNES 610 Methods and Techniques of Research
+KNES 645 Exercise and Brain Health
+KNES 658 Teaching Internship in Physical Education
+KNES 662 Psychology of Exercise and Health
+KNES 689F Special Problems in Kinesiology; Psychobiological Foundations of Skilled Motor Performance
+KNES 694 Metabolic Aspects of Exercise Physiology
+KNES 786 Capstone Project in Physical Activity and Public Health
+KNES 789J Advanced Projects in Kinesiology; Biopolitics & Physical Culture
+KNES 789R Advanced Projects in Kinesiology; Brain Dynamics and EEG: Applications to Cognitive-motor Performance
+LARC 641 Graduate Studio II
+LARC 648 Graduate Studio IV
+LARC 671 Landscape Architecture Research Methods
+LATN 688A Special Topics in Latin Literature; Roman Philosophy
+LATN 688K Special Topics in Latin Literature; Seneca
+LBSC 611 History of the Book
+LBSC 641 Selecting and Evaluating of Resources for Learning
+LBSC 706 Seminar in International and Comparative Librarianship and Information Science
+LBSC 708C Special Topics in Library and Information Science; Classified Records and Archives
+LBSC 708D Special Topics in Library and Information Science; Preparing For The Job Search
+LBSC 734 Seminar in the Academic Library
+LBSC 741 Seminar in School Library Administration
+LBSC 750 Research and Teaching Fellowship I
+LBSC 752 Research and Teaching Fellowship III
+LBSC 786 Library and Archives Preservation
+LING 611 Issues in Syntax
+LING 661 Issues in Semantics
+LING 678 Linguistic Field Methods
+LING 689C Independent Study; Computational Psycholinguistics
+LING 689T Independent Study; Pedagogy for Linguistics
+LING 849C Seminar in Psycholinguistics; Computational Psycholinguistics
+LING 879J Seminar in Semantics
+LING 879O Seminar in Semantics
+MAIT 699 Independent Masters Project
+MATH 601 Abstract Algebra II
+MATH 603 Commutative Algebra
+MATH 607 Algebraic Geometry II
+MATH 621 Algebraic Number Theory II
+MATH 631 Real Analysis II
+MATH 660 Complex Analysis I
+MATH 674 Partial Differential Equations II
+MATH 675 Analysis and PDEs
+MATH 713 Mathematical Logic II
+MATH 734 Algebraic Topology
+MATH 740 Fundamental Concepts of Differential Geometry
+MATH 744 Lie Groups I
+MATH 818T Selected Topics in Logic; Recent Development in Model Theory
+MATH 838B Topics in Dynamics; Homogeneous Dynamics
+MATH 838R Topics in Dynamics; Lyapunov Exponents
+MATH 848G Selected Topics in Geometry and Topology; Characteristic Classes of G-Bundles
+MATH 848Z Selected Topics in Geometry and Topology; Topology of 4-Manifolds
+MATH 858M Selected Topics in Analysis; Stochastic Methods with Applications
+MATH 858R Selected Topics in Analysis; Ramsey Theory and its Applications
+MATH 868B SelectedTopics in Complex Analysis; Selected Topics in Complex Variables
+MEES 601 Applied Environmental Science
+MEES 609C Professional Development in Marine Estuarine Environmental Science; Skills for Team Science
+MEES 609D Professional Development in Marine Estuarine Environmental Science; Multivariate Analysis in Environmental Science
+MEES 609F Professional Development in Marine Estuarine Environmental Science; UNIX Command Line for Environmental Scientists
+MEES 611 Estuarine Systems Ecology
+MEES 612 Applied Bayesian Statistics
+MEES 621 Biological Oceanography
+MEES 627 Biogeochemistry
+MEES 632 Physiological Ecology of Animals
+MEES 661 Physics of Estuarine and Marine Environments
+MEES 687 Next Generation Sequence and Analysis
+MEES 698Q Special Topics in Marine-Estuarine-Environmental Sciences; Global Climate Change
+MEES 698T Special Topics in Marine-Estuarine-Environmental Sciences; Marine and Environmental Biotechnology
+MEES 698Y Special Topics in Marine-Estuarine-Environmental Sciences; Science for Environmental Management
+MEES 712 Advanced Population Dynamics and Assessment
+MEES 713 Environmental Statistics II
+MEES 718N Study Groups on Issues in Marine Estuarine Enviornmental Sciences; Emerging Nitrogen Technology and Sustainability Challenges from Farm to Fork
+MEES 753 Sediment Dynamics in Coastal and Estuarine Environments
+MIEH 610 Global Health Program Planning and Evaluation
+MIEH 615 Airborne Infection: The Science of COVID-19 and prevention of future pandemics
+MIEH 690 UMD Global STEWARDS: Experiential Exploration of Innovations at the Nexus of Food, Energy, and Water Systems (INFEWS)
+MIEH 720 Principles of Toxicology
+MIEH 730 Environmental Justice, Built Environment, and Health Disparities
+MIEH 771 Exposure Assessment of Environmental Hazards
+MIEH 773 Foodborne, Waterborne and Airborne Infectious Diseases
+MSML 604 Introduction to Optimization
+MSML 605 Computing Systems for Machine Learning
+MSML 640 Computer Vision
+MSML 651 Big Data Analytics
+MSQC 604 Quantum Computing Architectures and Algorithms
+MSQC 606 NISQ Algorithms
+MUED 698T Current Trends in Music Education
+MUSC 602 Advanced Italian Lyric Diction
+MUSC 604 Advanced French Lyric Diction
+MUSC 606 Opera Repertory II
+MUSC 612 Opera Techniques II
+MUSC 614 Opera Techniques IV
+MUSC 629D Ensemble; Steel Band
+MUSC 629O Ensemble; Tuba and Euphonium
+MUSC 633 Field Methods in Ethnomusicology
+MUSC 645 Seminar in Vocal Pedagogy
+MUSC 648 Seminar in Music Research
+MUSC 649E Ensemble; Gospel Choir
+MUSC 654 Jazz Improvisation II
+MUSC 656 Jazz Arranging
+MUSC 659A Seminar in Repertoire and Pedagogy; Choral Repertoire and Pedagogy
+MUSC 669F Orchestral Excerpts for String Players; BASS
+MUSC 670 Advanced Analytical Techniques I
+MUSC 671 Advanced Analytical Techniques II
+MUSC 672 Masterworks of the 20th Century: 1900-1950
+MUSC 679G Seminar in Ethnomusicology; Music, Language, and Signs
+MUSC 699A Selected Topics in Music; Music, Art, and Architecture Pre-1700
+MUSC 699D Selected Topics in Music
+MUSC 699P Selected Topics in Music; Music in Public Scholarship
+MUSC 699V Selected Topics in Music; Vocal Coaching
+MUSC 801A Advanced Seminar in Music Pedagogy
+MUSC 801S Advanced Seminar in Music Pedagogy
+MUSC 801V Advanced Seminar in Music Pedagogy
+MUSC 801W Advanced Seminar in Music Pedagogy
+MUSC 812 Doctoral Opera Techniques II
+MUSC 814 Doctoral Opera Techniques IV
+MUSC 830C Doctoral Seminar in Music Literature
+MUSC 831C Doctoral Seminar in Music Literature
+MUSC 831P Doctoral Seminar in Music Literature
+MUSC 831W Doctoral Seminar in Music Literature
+NACS 600 Ethics in Scientific Research
+NACS 642 Cognitive Neuroscience
+NACS 643 Computational Neuroscience
+NACS 644 Cellular and Molecular Neuroscience
+NACS 728E Selected Topics in Neuroscience and Cognitive Science; Advanced Systems Neuroscience
+NACS 728N Selected Topics in Neuroscience and Cognitive Science; Advanced Topics in Biology: Diseases of the Nervous System
+NACS 728W Selected Topics in Neuroscience and Cognitive Science; Computational Psycholinguistics
+NFSC 612 Advanced Food Processing Technology
+NFSC 633 Food Polymer Science
+NFSC 636 Advanced Diet and Optimal Human Health
+NFSC 660 Research Methods
+NFSC 679M Selected Topics in Food Science; Food Microbiology
+NFSC 679P Selected Topics in Food Science; Concepts in Food Law and Regulations
+NIAP 788A Special Topics in National Institue of Aerospace Engineering; Applied Numerical Method
+NIAV 788W Advanced Topics; Statistics for Engineers and Scientists
+PHIL 640 Value Theory
+PHIL 808L Seminar in the Problems of Philosophy
+PHIL 808V Seminar in the Problems of Philosophy
+PHYS 611 Mathematical Methods and Their Applications in Classical Mechanics and Electrodynamics II
+PHYS 613 Quantum and Statistical Physics II
+PHYS 625 Quantum Many-Body Theory I
+PHYS 687 Computerized Instrumentation
+PHYS 703 Introduction to Nonequilibrium Statistical Physics
+PHYS 721 Atomic and Optical Physics I (Survey)
+PHYS 748 Seminar in Experimental Nuclear Physics; Seminar in Nuclear Physics
+PHYS 752 Elementary Particle Physics II: Theory
+PHYS 758E Seminar in Elementary Particles and Quantum Field Theory; Experimental Results Including Cosmic Ray Physics
+PHYS 769 Seminar in Plasma Physics; Plasma Physics Research
+PHYS 798E Special Problems in Advanced Physics; Electrophysics
+PHYS 798J Special Problems in Advanced Physics; Science and Technology Policy
+PHYS 830 Topics in Theoretical Condensed Matter Physics
+PHYS 838C Special Topics in Experimental Solid State Physics; Center for Nanophysics and Advanced Materials Seminar
+PHYS 839A Special Topics in Theoretical Solid State Physics
+PHYS 851 Advanced Quantum Field Theory
+PLCY 688B Topics in Public Policy; Economics of Education
+PLCY 689L Public Policy Topics; Science and Technology Policy
+PLCY 689X Public Policy Topics; Performance Management and Leadership
+PLCY 698A Selected Topics in Public Affairs; Poverty Measurement and Alleviation
+PLCY 698C Selected Topics in Public Affairs; Intelligence and Policy: Executive, Congressional and Public Dimensions
+PLCY 698E Selected Topics in Public Affairs; Proseminar in Normative Public Policy
+PLCY 698R Selected Topics in Public Affairs; Developmental Challenges
+PLCY 699K Selected Topics Public Policy; Civil Conflict
+PLCY 699L Selected Topics Public Policy; Development and Security Issues in Africa
+PLCY 699Z Selected Topics Public Policy; Climate and Energy Policy
+PLCY 742 Environmental Ethics
+PLCY 745 Human Health and Environmental Policy
+PLCY 782 International Development Economics
+PLCY 790 Project Course
+PLCY 798G Readings in Public Policy; Impact Evaluation for Education and Public Policy
+PLCY 798K Readings in Public Policy; Integrated Human Earth Systems Modeling and Analysis
+PLCY 798M Readings in Public Policy; Cooperative Security, Arms Control and Non-Proliferation Policy
+PLCY 798P Readings in Public Policy; Data Analysis for Policy Makers
+PLSC 618 Advances in Research; Critiquing Primary Plant Science Literature
+PLSC 619 Seminars in Plant Science and Landscape Architecture
+PSYC 602 Quantitative Methods II
+PSYC 623 Child Development & Psychopathology
+PSYC 630 Behavioral and Cognitive Behavioral Intervention for Adults
+PSYC 638 Externship in Professional Psychology; Externship in Professional Psychology
+PSYC 639 Internship in Professional Psychology; Internship in Professional Psychology
+PSYC 690 Research in Counseling Psychology I
+PSYC 693 Assessment in Counseling Psychology II
+PSYC 737 Research Methods for Social and Organizational Psychology
+PSYC 748M Seminar in Social Psychology; Human Motivation
+PSYC 798E Graduate Seminar; Foundations of Cognition
+RDEV 610 Real Property Development Law and Ethics
+RDEV 615 Principles, Process and Politics of Planning for Real Property Development
+RDEV 630 Real Property Finance and Investment
+RDEV 650 Essentials of Design and Construction Management for Development Professionals
+RDEV 689F Current Topics in Real Estate Development; Advanced Finance
+RDEV 689I Current Topics in Real Estate Development; Design and Development Competition
+RDEV 689R Current Topics in Real Estate Development; Retail Real Estate Development and Asset Management
+SLAA 611 Fundamentals of Foreign Language Acquisition and Instruction
+SLAA 650 Second Language Analysis
+SLAA 749R Special Topics in Second Language Learning; Research Synthesis and Meta-Analysis
+SLAA 749T Special Topics in Second Language Learning; Advanced Statistics for Second Language Research
+SLAA 759L Special Topics in Second Language Instruction; Vocabulary Acquisition in Instructional Contexts
+SLLC 700 Speculative Futures
+SOCY 602 Statistics For Sociological Research II
+SOCY 613 Social Movement Theory
+SOCY 634 Attitudes and Public Opinion
+SOCY 641 Leadership in Diverse Organizations
+SOCY 643 Power and Status in Organizations
+SOCY 644 Gender, Work, and Family
+SOCY 656 Intersectionality and Population Health Disparities
+SOCY 699N Special Social Problems; Intermediate Sociological Statistics
+SOCY 789 Advanced Special Topics in Social Stratification; Race and Ethnicity
+SPAN 608J Medieval Spanish Literature; Understanding Language Communities: Multilingual and Translingual Realities in the Spanish-Speaking World
+SPAN 798L Open Seminar; Literary and Critical Theory
+SPAN 798M Open Seminar; Between a Rock and a Hard Place in Contemporary Spains
+SPAN 798T Open Seminar; Temporality and Sexuality in Roberto Bolano s Fiction and Poetry
+SPHL 610 Program and Policy Planning, Implementation, and Evaluation
+SPHL 611 Public Health Ethics
+STAT 601 Probability Theory II
+STAT 650 Applied Stochastic Processes
+STAT 701 Mathematical Statistics II
+STAT 741 Linear Statistical Models II
+STAT 818B Selected Topics in Statistics; Small Area Estimation
+STAT 818O Selected Topics in Statistics; Introduction to Stochastic Partial Differential Equations
+SURV 613 Machine Learning for Social Science
+SURV 616 Statistical Modeling and Machine Learning II
+SURV 622 Fundamentals of Data Collection II
+SURV 625 Applied Sampling
+SURV 630 Questionnaire Design and Evaluation
+SURV 631 Questionnaire Design
+SURV 635 Usability Testing for Survey Research
+SURV 636 Sampling II
+SURV 675 Modern Workflows in Data Science
+SURV 699 Special Topics in Survey Methodology; Readings in Survey Methodology
+SURV 701 Analysis of Complex Sample Data
+SURV 702 Analysis of Complex Survey Data
+SURV 706 General Linear Models
+SURV 721 Total Survey Error and Data Quality II
+SURV 735 Data Privacy and Data Confidentiality
+SURV 742 Inference from Complex Surveys
+SURV 745 Practical Tools for Study Design and Inference
+SURV 751 Introduction to Big Data and Machine Learning
+SURV 772 Survey Design Seminar
+THET 608A Seminar: Theory and Performance Studies; American Avant-Garde Theatre and Performance
+THET 608D Seminar: Theory and Performance Studies; Dramaturgy
+THET 608J Seminar: Theory and Performance Studies; Translations, Adaptations, and Appropriations
+THET 632 Playwriting
+THET 636 Photoshop for Theatrical Rendering
+THET 669D Independent Study; Graduate Costume Design: Draping
+THET 669L Independent Study; Graduate Design Studio-Lighting III
+THET 669T Independent Study; Advanced CAD Drafting
+THET 669V Independent Study; Drafting for Set Design
+THET 678 Collaborative Design & Production for Performance
+THET 679 Graduate Design Studio - Multimedia Design
+THET 712 Historical Research Methods and Historiography in Theatre
+TLPL 612 Teaching and Learning Algebra in the Middle School
+TLPL 623 Learning and Teaching Biological Sciences
+TLPL 641 Reading, Cognition, and Instruction: Reading in the Content Areas I
+TLPL 651 Leadership in Schoolwide Reading Program
+TLPL 655 Assessment and Language Education
+TLPL 657 Cross-Cultural Communication and Multilingual Learners
+TLPL 662 Second Language Acquisition
+TLPL 668 Developing a Professional Portfolio
+TLPL 670 Economics of Education
+TLPL 673 Federal Education Policy
+TLPL 675 Embracing Diversity in Classroom Communities
+TLPL 677 Reframing Teacher Professionalism: Achieving Teacher Leadership
+TLPL 683 Sociology of Education
+TLPL 687 Politics of Education
+TLPL 688L Special Topics in Education; Abstract Algebra: Teaching and Learning of Algebra
+TLPL 689 Internship in Education; Teaching Internship
+TLPL 698 Conducting Research on Teaching; Conducting Research on Teaching
+TLPL 702 Theories of Learning and Leadership with Technology
+TLPL 708A Special Topics in Technology, Learning & Leadership
+TLPL 712 Foundations of Mathematics Education III: Curriculum
+TLPL 740 Language and Education
+TLPL 744 Research Centering Multilingual Learners: Sociocultural Approaches to Applied Linguistics in Education
+TLPL 766 Impact Evaluation for Education and Public Policy
+TLPL 767 Law, Equity, and Diversity in Education
+TLPL 788G Special Topics in Education; Critical Race Theory
+TLPL 790 Seminar in Mixed Methods Research in Education
+TLPL 792 Qualitative Research II: Analysis and Interpretation of Data
+TLPL 793 Methods of Discourse Analysis
+TLTC 798 University Teaching and Learning
+URSP 600 Research Design and Application
+URSP 604 The Planning Process
+URSP 631 Transportation and Land Use
+URSP 668A Recent Developments in Urban Studies; Megacities in the World: Growth, Politics, and Planning
+URSP 668B Recent Developments in Urban Studies; The Sustainable City
+URSP 673 Community Development
+URSP 688J Recent Developments in Urban Studies; Economics for a Just and Sustainable World
+URSP 688M Recent Developments in Urban Studies; Intermediate Geographic Information Systems
+URSP 688O Recent Developments in Urban Studies; US Housing Policy & Planning
+URSP 688P Recent Developments in Urban Studies; Creative Placemaking and Placekeeping
+URSP 688Y Recent Developments in Urban Studies; Smart Cities and Urban Data Science
+URSP 805 Seminar in Research Design
+VMSC 660 Emerging and Re-emerging Infectious Diseases
+VMSC 720 Viral Pathogenesis
+VMSC 780 Parasites of Medical and Veterinary Importance
+WGSS 602 Methodologies and Epistemologies in Women, Gender, and Sexuality Studies
+WGSS 698B Special Topics in Women, Gender, and Sexuality Studies; The Poetics of the Black Feminist Imagination
+WGSS 698F Special Topics in Women, Gender, and Sexuality Studies; Politics of Fantasy
+WGSS 698P Special Topics in Women, Gender, and Sexuality Studies
+WGSS 708 Research Seminar in Women, Gender, and Sexuality Studies
+XPER 633 Advanced Xperiment to Address Grand Challenges
